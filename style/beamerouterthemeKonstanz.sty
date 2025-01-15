@@ -1,0 +1,65 @@
+%Unterstreichen---------------------------------------------------------------------------------------
+%\setul{5pt}{1.5pt}
+\setul{0.6ex}{0.2ex}
+\setulcolor{kon3}
+%Unterstreichen---------------------------------------------------------------------------------------
+
+
+%Seitenr�nder---------------------------------------------
+\setbeamersize{text margin left=0.5cm, text margin right=0.5cm}
+
+%Seitenr�nder-------------------------------------
+
+
+
+%Folienueberschrift-------------------------------------
+\defbeamertemplate*{frametitle}{pres theme}{
+\nointerlineskip
+\begin{beamercolorbox}[sep=0cm, ht=1cm, leftskip=0.5cm, wd=\paperwidth]{frametitle}
+ \usebeamerfont{frametitle}{\ul{\mbox{\insertframetitle}}}
+\end{beamercolorbox}
+}
+%Folienuesberschrift-------------------------------------
+
+
+%Fusszeile----------------------------------------------------
+\defbeamertemplate*{footline}{pres theme}{
+%\centering {\color{kon}\rule{14cm}{0.75pt}}
+
+\vspace*{0.2cm}
+
+\hbox{
+\begin{beamercolorbox}[wd=\textwidth, leftskip=0.5cm, rightskip=0.5cm, dp=0.5cm]{frametitle}
+{\color{kon3}\rule{15cm}{0.75pt}}
+\tiny{\insertframenumber}
+\hfill
+\tiny{Universit\"at Konstanz}
+\end{beamercolorbox}
+}
+}
+%Fu�zeile-----------------------------------------------------
+
+\setbeamertemplate{bibliography item}{}
+
+
+
+%\setbeamertemplate{bibliography item}{%
+%  \ifboolexpr{ test {\ifentrytype{book}} or test {\ifentrytype{mvbook}}
+%    or test {\ifentrytype{collection}} or test {\ifentrytype{mvcollection}}
+%    or test {\ifentrytype{reference}} or test {\ifentrytype{mvreference}} }
+%    {\setbeamertemplate{bibliography item}[book]}
+%    {\ifentrytype{online}
+%       {\setbeamertemplate{bibliography item}[online]}
+%       {\setbeamertemplate{bibliography item}[article]}}%
+%  \usebeamertemplate{bibliography item}}
+
+%\defbibenvironment{bibliography}
+%  {\list{}
+%     {\settowidth{\labelwidth}{\usebeamertemplate{bibliography item}}%
+%      \setlength{\leftmargin}{\labelwidth}%
+%      \setlength{\labelsep}{\biblabelsep}%
+%      \addtolength{\leftmargin}{\labelsep}%
+ %     \setlength{\itemsep}{\bibitemsep}%
+%%      \setlength{\parsep}{\bibparsep}}}
+ % {\endlist}
+%  {\item}

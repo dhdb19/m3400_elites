@@ -1,0 +1,316 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{presentation_theme_weidmann}
+
+%Packages----------------------------------------
+\RequirePackage{fontspec}
+\RequirePackage{graphicx}
+\graphicspath{{../figures/}} 
+\RequirePackage{multimedia}
+\RequirePackage{wrapfig}
+\RequirePackage{fancyhdr}
+\RequirePackage{booktabs}
+\RequirePackage{amsmath, amssymb, amsfonts}
+\RequirePackage{geometry} 
+\RequirePackage[english]{babel}
+\RequirePackage{blindtext}
+\RequirePackage{hyperref}
+\RequirePackage{float}
+\newfloat{Tabelle}{tbp}{ext}
+\RequirePackage[maxcitenames=2, language=english, autolang=other,hyperref=true,style=apa,natbib=true,backend=biber]{biblatex}
+\RequirePackage[autostyle, english = american]{csquotes}
+\setquotestyle{english}
+\RequirePackage{caption}
+\RequirePackage{subcaption}
+\RequirePackage{chronology}
+\RequirePackage{setspace}
+\RequirePackage{grffile}
+\RequirePackage{tikz}
+\RequirePackage{trajan}
+\RequirePackage{arydshln}
+\RequirePackage{caption}
+\RequirePackage{hanging}
+\RequirePackage{lettrine}
+\RequirePackage{xcolor}
+\RequirePackage{etoolbox}
+\RequirePackage[hang,flushmargin]{footmisc}
+\AfterEndEnvironment{quote}{\parshape=0}
+\RequirePackage{fix-cm}
+\RequirePackage {soul}
+\RequirePackage{pgfplots}
+\pgfplotsset{compat=1.17}
+\RequirePackage[most]{tcolorbox}
+%Packages-------------------------------------------------------------
+
+
+
+
+
+%Biblatex------------------------------------------
+\addbibresource{../references.bib}
+%\DeclareLanguageMapping{german}{german-apa}
+\setlength{\bibitemsep}{8pt}
+\AtBeginBibliography{\scriptsize}
+\setcounter{biburlnumpenalty}{9000}
+%Biblatex-----------------------------------------
+
+
+%TikzStyles-----------------------------------------------------------
+\usetikzlibrary{shapes.geometric, arrows, arrows.meta, positioning, calc}
+\tikzstyle{startstop} = [rectangle, draw=black, text width=4cm, minimum width=3cm, minimum height=1cm, fill=white]
+\tikzstyle{S1} = [rectangle, text width=2cm, minimum width=1.5cm, minimum height=1cm, fill=white]
+\tikzstyle{S2} = [rectangle, text width=2.5cm, minimum width=1.5cm, minimum height=1cm, fill=white]
+\tikzstyle{S3} = [rectangle, draw=black, text width=2cm, minimum width=1.5cm, minimum height=1cm, fill=white]
+\tikzstyle{arrow} = [thick, -{Latex[length=2.5mm, width=3mm]}]
+\tikzstyle{arrowl} = [thin, -{Latex[length=2mm, width=2mm]}]
+\tikzstyle{startstop1} = [rectangle, draw=black, text width=3cm, minimum width=3cm, minimum height=0.5cm, fill=white]
+\tikzstyle{S4} = [rectangle, draw=gray, dashed, text width=3.5cm, minimum width=3cm, minimum height=0.5cm, fill=white]
+\tikzstyle{Mg} = [rectangle, draw=gray, dashed, text width=4cm, minimum width=3cm, minimum height=0.5cm, fill=white]
+\tikzstyle{Mk} = [rectangle, draw=gray, dashed, text width=3cm, minimum width=3cm, minimum height=0.5cm, fill=white]
+%TikzStyles-----------------------------------------------------------
+
+
+
+%PGFplots-----------------------------------------------
+\pgfplotsset{
+    x axis line style={kon4, line width=1pt,},
+		y axis line style={opacity=0},
+    every axis label/.append style ={black},
+    every tick label/.append style={black},
+		  }
+%PGFplots------------------------------------------------
+
+
+
+%def1---------------------------------------------
+\newtcolorbox[auto counter, number within=section]{def1}[1][]{
+  enhanced,
+  enlarge left by=1cm,
+  width=\linewidth-1cm,
+  detach title,
+  overlay= {\node[
+    anchor=north east,
+    text width=1.cm,
+    font=\ttfamily\color{blue!50!black},
+    inner ysep=4mm,
+    inner xsep=0pt,
+    outer sep=0pt
+    ] at (frame.north west) {\ttfamily \textbf{DEF}};
+  },
+  colback = bg1,
+  colframe = bg_dark,
+  sharp corners,
+  toprule= 0.5pt, 
+  bottomrule= 0.5pt, 
+  rightrule= 0.5pt, 
+  leftrule= 0.5pt,
+  titlerule= 0pt,
+  breakable=true,
+  before upper = {\ttfamily #1},
+  top=0.25cm,
+  bottom=0.25cm,
+  left= 0.25cm,
+  after skip = 0.25cm,
+  before skip=-0.25cm,
+}
+%def1---------------------------------------------
+
+
+
+%eu---------------------------------------------
+\newtcolorbox[auto counter, number within=section]{eu}[1][]{
+  enhanced,
+  code={\setbeamercolor*{normal text}{fg=white}\usebeamercolor{normal text}},
+  use color stack,
+  % enlarge left by=0.5cm,
+  % width=\linewidth-0.5cm,
+  detach title,
+  % overlay= {\node[
+  %   anchor=north east,
+  %   text width=0.5cm,
+  %   font=\ttfamily\color{gelb1},
+  %   inner ysep=4mm,
+  %   inner xsep=0pt,
+  %   outer sep=0pt
+  %   ] at (frame.north west) {\ttfamily \textbf{E\\U}};
+  % },
+  colback = eub,
+  colframe = eub,
+  sharp corners,
+  toprule= 0.5pt, 
+  bottomrule= 0.5pt, 
+  rightrule= 0.5pt, 
+  leftrule= 0.5pt,
+  titlerule= 0pt,
+  before upper = {\ttfamily \color{white} #1},
+  coltext = white,
+  top=0.25cm,
+  bottom=0.25cm,
+  left= 0.25cm,
+  after skip = 0.25cm,
+  before skip=-0.25cm,
+}
+%eu---------------------------------------------
+
+
+
+
+%rq1---------------------------------------------
+\newtcolorbox[auto counter, number within=section]{rq1}[1][]{
+  enhanced,
+  enlarge left by=1cm,
+  width=\linewidth-1cm,
+  detach title,
+  overlay= {\node[
+    anchor=north east,
+    text width=1.cm,
+    font=\ttfamily\color{blue!50!black},
+    inner ysep=4mm,
+    inner xsep=0pt,
+    outer sep=0pt
+    ] at (frame.north west) {\ttfamily \textbf{RQ}};
+  },
+  colback = bg1,
+  colframe = bg_dark,
+  sharp corners,
+  toprule= 0.5pt, 
+  bottomrule= 0.5pt, 
+  rightrule= 0.5pt, 
+  leftrule= 0.5pt,
+  titlerule= 0pt,
+  breakable=true,
+  before upper = {\ttfamily #1},
+  top=0.25cm,
+  bottom=0.25cm,
+  left= 0.25cm,
+  after skip = 0.25cm,
+  before skip=0.5cm,
+}
+%rq1---------------------------------------------
+
+
+
+%var---------------------------------------------
+\newtcolorbox[auto counter, number within=section]{var}[1][]{
+  enhanced,
+  enlarge left by=1cm,
+  width=\linewidth-1cm,
+  detach title,
+  overlay= {\node[
+    anchor=north east,
+    text width=1.cm,
+    font=\ttfamily\color{blue!50!black},
+    inner ysep=4mm,
+    inner xsep=0pt,
+    outer sep=0pt
+    ] at (frame.north west) {\ttfamily var};
+  },
+  colback = bg1,
+  colframe = bg_dark,
+  sharp corners,
+  toprule= 0.5pt, 
+  bottomrule= 0.5pt, 
+  rightrule= 0.5pt, 
+  leftrule= 0.5pt,
+  titlerule= 0pt,
+  breakable=true,
+  before upper = {\ttfamily #1},
+  top=0.25cm,
+  bottom=0.25cm,
+  left= 0.25cm,
+  after skip = 0.35cm,
+  before skip=0.35cm,
+}
+%var---------------------------------------------
+
+
+
+%hyp---------------------------------------------
+\newtcolorbox[auto counter, number within=section]{hyp}[2][]{
+  enhanced,
+  enlarge left by=1cm,
+  width=\linewidth-1cm,
+  detach title,
+  overlay= {\node[
+    anchor=north east,
+    text width=1.cm,
+    font=\ttfamily\color{blue!50!black},
+    inner ysep=4mm,
+    inner xsep=0pt,
+    outer sep=0pt
+    ] at (frame.north west) {\ttfamily hyp \\ #2};
+  },
+  colback = bg1,
+  colframe = bg_dark,
+  sharp corners,
+  toprule= 0.5pt, 
+  bottomrule= 0.5pt, 
+  rightrule= 0.5pt, 
+  leftrule= 0.5pt,
+  titlerule= 0pt,
+  breakable=true,
+  before upper = {\ttfamily #1},
+  top=0.25cm,
+  bottom=0.25cm,
+  left= 0.25cm,
+  after skip = 0.35cm,
+  before skip=0.35cm,
+}
+%hyp---------------------------------------------
+
+
+
+
+%Theme---------------------------------------------------
+\RequirePackage{../style/beamercolorthemeKonstanz}
+\RequirePackage{../style/beamerouterthemeKonstanz}
+\RequirePackage{../style/beamerinnerthemeKonstanz}
+\RequirePackage{../style/beamerfontthemeKonstanz}
+
+% LOAD LAST!!!!!!
+\RequirePackage{../style/beamerthemeKonstanz}
+%Theme---------------------------------------------------
+
+
+
+%font-------------------------------------------------
+\setmonofont{IBMPlexMono}[
+    Path=../fonts/IBMPlexMono/,
+    Scale=0.9,
+    Extension = .ttf,
+    UprightFont=*-Light,
+    BoldFont=*-Bold,
+    ItalicFont=*-Italic,
+    BoldItalicFont=*-BoldItalic
+    ]
+
+
+% \setmonofont{JetBrainsMono}[
+%     Path=../fonts/JetBrainsMono/,
+%     Scale=1,
+%     Extension = .ttf,
+%     UprightFont=*-Light,
+%     BoldFont=*-Bold,
+%     ItalicFont=*-Italic,
+%     BoldItalicFont=*-BoldItalic
+%     ]
+      
+\setmainfont{TeX Gyre Heros}
+\setsansfont{TeX Gyre Heros}
+\usefonttheme[onlymath]{serif}
+%font--------------------------------------------------
+
+
+
+%------------------------------------------------------
+\institute{Content moderation on social media platforms}
+\date{14.01.2025}
+%------------------------------------------------------
+
+
+
+%FigureCaptions----------------------------------------------
+\DeclareCaptionLabelFormat{custom}{\color{black}\textbf{#1 #2} }
+\DeclareCaptionLabelSeparator{custom}{%\color{black}\bfseries : 
+}
+\captionsetup{labelsep=custom, font=tiny, justification=raggedright, singlelinecheck=false, tableposition=top, labelformat=custom}
+%FigureCaptions-----------------------------------------------
