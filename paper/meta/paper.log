@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2021.3.2)  16 JAN 2025 17:38
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2021.3.2)  16 JAN 2025 18:20
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/paper
@@ -1495,14 +1495,14 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* h-part:(L,W,R)=(49.79231pt, 483.69687pt, 64.01869pt)
+* v-part:(T,H,B)=(42.67912pt, 752.57541pt, 49.79231pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=658.71982pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
+* \textwidth=483.69687pt
+* \textheight=651.60663pt
+* \oddsidemargin=-22.47768pt
+* \evensidemargin=-22.47768pt
 * \topmargin=-29.59087pt
 * \headheight=42.67912pt
 * \headsep=25.0pt
@@ -1521,22 +1521,22 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 165.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 169.
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 165.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 169.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+pzd on input line 229.
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 233.
  (c:/texlive/2020/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 ){c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 <../figures//Logo_cropped.pdf, id=62, 742.46083pt x 284.75284pt>
 File: ../figures//Logo_cropped.pdf Graphic file (type pdf)
 <use ../figures//Logo_cropped.pdf>
-Package luatex.def Info: ../figures//Logo_cropped.pdf  used on input line 240.
+Package luatex.def Info: ../figures//Logo_cropped.pdf  used on input line 244.
 (luatex.def)             Requested size: 148.48953pt x 56.94955pt.
 
 
@@ -1559,14 +1559,14 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
-* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* h-part:(L,W,R)=(49.79231pt, 483.69687pt, 64.01869pt)
+* v-part:(T,H,B)=(42.67912pt, 752.57541pt, 49.79231pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=587.58792pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
+* \textwidth=483.69687pt
+* \textheight=580.47473pt
+* \oddsidemargin=-22.47768pt
+* \evensidemargin=-22.47768pt
 * \topmargin=-29.59087pt
 * \headheight=113.81102pt
 * \headsep=25.0pt
@@ -1585,19 +1585,19 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-)
-Overfull \hbox (59.18951pt too wide) in paragraph at lines 259--20
+
+Overfull \hbox (30.73634pt too wide) in paragraph at lines 263--293
 []$[]$$[]$$[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--20
+Underfull \hbox (badness 10000) in paragraph at lines 263--293
 
  []
 
 File: ../figures//Logo_cropped.pdf Graphic file (type pdf)
 <use ../figures//Logo_cropped.pdf>
-Package luatex.def Info: ../figures//Logo_cropped.pdf  used on input line 20.
+Package luatex.def Info: ../figures//Logo_cropped.pdf  used on input line 293.
 (luatex.def)             Requested size: 148.48953pt x 56.94955pt.
 
 Package fancyhdr Warning: \headheight is too small (42.67912pt): 
@@ -1608,7 +1608,7 @@ Package fancyhdr Warning: \headheight is too small (42.67912pt):
 
 [2
 
-] [3
+]) [3
 
 ] (c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/meta/paper.aux)
 Package rerunfilecheck Info: File `paper.out' has not changed.
@@ -1619,16 +1619,16 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 43662 strings out of 478543
+ 43654 strings out of 478543
  100000,2373549 words of node,token memory allocated
  1612 words of node memory still in use:
    31 hlist, 2 vlist, 14 rule, 1 dir, 2 glue, 4 kern, 16 glyph, 114 attribute, 76 glue_spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack nodes
-   avail lists: 1:3,2:1118,3:155,4:210,5:690,6:66,7:4685,8:9,9:760,10:22,11:304
- 61978 multiletter control sequences out of 65536+600000
- 81 fonts using 6819095 bytes
+   avail lists: 1:2,2:1121,3:155,4:210,5:690,6:66,7:4685,8:9,9:760,10:23,11:304
+ 61970 multiletter control sequences out of 65536+600000
+ 83 fonts using 6912223 bytes
  109i,16n,117p,1177b,4821s stack positions out of 5000i,500n,10000p,200000b,200000s
 <c:/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf><c:/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf><../fonts/Lato/Lato-Regular.ttf><c:/texlive/2020/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper.pdf (3 pages, 41804 bytes).
+Output written on paper.pdf (3 pages, 41832 bytes).
 
 PDF statistics: 117 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
