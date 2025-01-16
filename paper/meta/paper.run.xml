@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>declaration_plagiarism.bcf</file>
+      <file>paper.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>declaration_plagiarism.bbl</file>
+      <file>paper.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -70,19 +70,24 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>declaration_plagiarism</infile>
+      <infile>paper</infile>
     </cmdline>
     <input>
-      <file>declaration_plagiarism.bcf</file>
+      <file>paper.bcf</file>
     </input>
     <output>
-      <file>declaration_plagiarism.bbl</file>
+      <file>paper.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>declaration_plagiarism.bbl</file>
+      <file>paper.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>declaration_plagiarism.bcf</file>
+      <file>paper.bcf</file>
+    </requires>
+    <requires type="editable">
+      <file>../../../MasterLit.bib</file>
+      <file>../../../ContentLit.bib</file>
+      <file>../../../references.bib</file>
     </requires>
   </external>
 </requests>
