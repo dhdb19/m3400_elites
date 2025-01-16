@@ -1,9 +1,9 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.blg'
-[272] biber-MSWIN32:340> INFO - === 
-[320] Biber.pm:415> INFO - Reading 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bcf'
-[595] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[607] Utils.pm:395> WARN - The file 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bcf' does not contain any citations!
-[631] bbl.pm:654> INFO - Writing 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bbl' with encoding 'UTF-8'
-[631] bbl.pm:757> INFO - Output to C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bbl
-[631] Biber.pm:128> INFO - WARNINGS: 1
+[170] biber-MSWIN32:340> INFO - === 
+[215] Biber.pm:415> INFO - Reading 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bcf'
+[449] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[460] Utils.pm:395> WARN - The file 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bcf' does not contain any citations!
+[476] bbl.pm:654> INFO - Writing 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bbl' with encoding 'UTF-8'
+[477] bbl.pm:757> INFO - Output to C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bbl
+[477] Biber.pm:128> INFO - WARNINGS: 1
