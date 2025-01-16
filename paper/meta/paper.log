@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2021.3.6)  16 JAN 2025 11:27
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020/W32TeX)  (format=lualatex 2021.3.2)  16 JAN 2025 17:38
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/paper
@@ -33,8 +33,8 @@ Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'. L3 programming layer <2021-02-18> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+(c:/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 luaotfload | db : Font names database loaded from C:/texlive/2020/texmf-var/luatex-cache/generic/names/luaotfload-names.luc)
 \c@part=\count175
 \c@section=\count176
@@ -196,16 +196,16 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks23
 ) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2021/03/03 3.55 The Babel package
+Package: babel 2021/02/22 3.54 The Babel package
  (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2021/03/03 3.55 Babel common definitions
+File: babel.def 2021/02/22 3.54 Babel common definitions
  (c:/texlive/2020/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read2
 \l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 117.
 \l@nohyphenation=\language3
-\l@german-x-2021-02-26=\language4
-\l@ngerman-x-2021-02-26=\language5
+\l@german-x-2019-04-04=\language4
+\l@ngerman-x-2019-04-04=\language5
 \l@afrikaans=\language6
 \l@ancientgreek=\language7
 \l@ibycus=\language8
@@ -338,7 +338,7 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen165
 \titlewidthfirst=\dimen166
 ) (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
  (c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -369,9 +369,9 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 \Hy@linkcounter=\count286
 \Hy@pagecounter=\count287
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 ) (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel languages
 ) (c:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (c:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
@@ -379,7 +379,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count288
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4192.
 Package hyperref Info: Link nesting OFF on input line 4197.
@@ -422,7 +422,7 @@ with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hluatex.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2021-02-27 v7.00k Hyperref driver for luaTeX
+File: hluatex.def 2021-02-10 v7.00j Hyperref driver for luaTeX
  (c:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 ) (c:/texlive/2020/texmf-dist/tex/latex/base/atveryend-ltx.sty
@@ -1102,7 +1102,7 @@ Library (tcolorbox): 'tcbxparse.code.tex' version '4.42'
 (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
  (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
-File: l3backend-luatex.def 2021-03-02 L3 backend support: PDF output (LuaTeX)
+File: l3backend-luatex.def 2021-02-18 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count492
 \l__pdf_internal_box=\box82
 )) (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))) (c:/texlive/2020/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
@@ -1175,9 +1175,9 @@ Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
  (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 ) (c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
  (c:/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 )) (c:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (c:/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
@@ -1352,12 +1352,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \topmargin=-37.0pt
 * \headheight=42.67912pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1506,12 +1506,12 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \topmargin=-29.59087pt
 * \headheight=42.67912pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=33.28966pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1541,10 +1541,10 @@ Package luatex.def Info: ../figures//Logo_cropped.pdf  used on input line 240.
 
 
 Package fancyhdr Warning: \headheight is too small (42.67912pt): 
-(fancyhdr)                Make it at least 46.32323pt, for example:
-(fancyhdr)                \setlength{\headheight}{46.32323pt}.
+(fancyhdr)                Make it at least 46.80322pt, for example:
+(fancyhdr)                \setlength{\headheight}{46.80322pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.6441pt}.
+(fancyhdr)                \addtolength{\topmargin}{-4.1241pt}.
 
 [1
 
@@ -1570,12 +1570,12 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \topmargin=-29.59087pt
 * \headheight=113.81102pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=33.28966pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1601,10 +1601,10 @@ Package luatex.def Info: ../figures//Logo_cropped.pdf  used on input line 20.
 (luatex.def)             Requested size: 148.48953pt x 56.94955pt.
 
 Package fancyhdr Warning: \headheight is too small (42.67912pt): 
-(fancyhdr)                Make it at least 46.32323pt, for example:
-(fancyhdr)                \setlength{\headheight}{46.32323pt}.
+(fancyhdr)                Make it at least 46.80322pt, for example:
+(fancyhdr)                \setlength{\headheight}{46.80322pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-3.6441pt}.
+(fancyhdr)                \addtolength{\topmargin}{-4.1241pt}.
 
 [2
 
@@ -1619,16 +1619,16 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 43647 strings out of 478543
+ 43662 strings out of 478543
  100000,2373549 words of node,token memory allocated
  1612 words of node memory still in use:
    31 hlist, 2 vlist, 14 rule, 1 dir, 2 glue, 4 kern, 16 glyph, 114 attribute, 76 glue_spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack nodes
-   avail lists: 1:3,2:1118,3:153,4:210,5:690,6:66,7:4679,8:9,9:754,10:24,11:304
- 61967 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:1118,3:155,4:210,5:690,6:66,7:4685,8:9,9:760,10:22,11:304
+ 61978 multiletter control sequences out of 65536+600000
  81 fonts using 6819095 bytes
  109i,16n,117p,1177b,4821s stack positions out of 5000i,500n,10000p,200000b,200000s
 <c:/texlive/2020/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf><c:/texlive/2020/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf><../fonts/Lato/Lato-Regular.ttf><c:/texlive/2020/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper.pdf (3 pages, 41853 bytes).
+Output written on paper.pdf (3 pages, 41804 bytes).
 
 PDF statistics: 117 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
