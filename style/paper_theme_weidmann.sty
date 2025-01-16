@@ -5,6 +5,7 @@
 
 
 %Packages----------------------------------
+\RequirePackage{xcolor}
 \RequirePackage{graphicx}
 \RequirePackage{wrapfig}
 \RequirePackage{enumitem}
@@ -20,16 +21,19 @@
 \newfloat{Tabelle}{tbp}{ext}
 \RequirePackage[maxcitenames=2, language=english, autolang=other,hyperref=true,style=apa,natbib=true,backend=biber]{biblatex}
 \RequirePackage{csquotes}
+\RequirePackage{soul}
 \RequirePackage{caption}
 \RequirePackage{subcaption}
 \RequirePackage{setspace}
 \RequirePackage{grffile}
 \RequirePackage{tikz}
+\RequirePackage{tabularx}
+\RequirePackage{tabulary}
+\RequirePackage{array}
 \RequirePackage{arydshln}
 \RequirePackage{caption}
 \RequirePackage{hanging}
 \RequirePackage{lettrine}
-\RequirePackage{xcolor}
 \RequirePackage{etoolbox}
 \RequirePackage[hang,flushmargin]{footmisc}
 \AfterEndEnvironment{quote}{\parshape=0}
@@ -79,10 +83,12 @@
 \definecolor{green2}{HTML}{EBF1EC}
 \definecolor{green3}{HTML}{6fa580}
 \definecolor{green4}{HTML}{9db0a2}
-
 %Farben------------------------------------
 
-
+% %underline-----------------
+\setulcolor{kon4}
+\setul{0.4ex}{0.225ex}
+% %underline-----------------
 
 %font--------------------------------------
 \setsansfont{Lato}[
@@ -95,6 +101,7 @@
     ]
 %\setseriffont{Latin Modern Roman}
 \setmainfont{Latin Modern Roman}
+\newfontfamily{\myhelvetica}{TeX Gyre Heros}
 %font--------------------------------------
 
 
@@ -210,6 +217,25 @@ code={\sffamily \setstretch{1.1}},
 %HeaderFooter------------------------------
 
 
+%headerfooterplagraism---------------
+\fancypagestyle{page1}{
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[R]{\vspace{-0.5cm}\includegraphics[scale=0.2]{Logo_cropped.pdf}}
+\fancyfoot[L]{\scriptsize{\myhelvetica\tiny \color{black!50} Last update: 6.12.2023}}
+\fancyfoot[R]{\scriptsize{\myhelvetica\tiny \color{black!50} Seite 1/2}}
+}
+
+
+\fancypagestyle{page2}{
+\fancyhead{}
+\fancyfoot{}
+\fancyhead[R]{\vspace{-0.5cm}\includegraphics[scale=0.2]{Logo_cropped.pdf}}
+\fancyfoot[R]{\scriptsize{\myhelvetica\tiny \color{black!50} Seite 2/2}}
+\renewcommand{\headrulewidth}{0pt}
+}
+
+%headerfooterplagraism---------------
 
 %Indent------------------------------------
 \setlength{\parindent}{1.27cm}
