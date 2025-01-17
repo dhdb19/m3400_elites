@@ -1,135 +1,130 @@
-% \documentclass[a4paper,11pt,xcolor=dvipsnames]{article}
+\documentclass[a4paper,10pt,xcolor=dvipsnames]{article}
 
 
 
-% %Packages------------------------------------------------
-% \usepackage{graphicx}
-% \graphicspath{{../figures/}}
-% \usepackage{wrapfig}
-% \usepackage{enumitem}
-% \usepackage{fancyhdr}
-% \usepackage[table]{xcolor}
-% \usepackage{amsmath, amssymb, amsfonts}
-% \usepackage{index}
-% \usepackage[a4paper, left=1.5cm, right=1.5cm, top=1.5cm, bottom=1.5cm, includehead, headheight=1.5cm, includefoot, footskip=1.17cm]{geometry}
-% \usepackage[english, main=english]{babel}
-% \usepackage{blindtext}
-% \usepackage{titlesec}
-% \usepackage{hyperref}
-% \usepackage[nottoc,notlot,notlof]{tocbibind}
-% \usepackage{float}
-% \newfloat{Tabelle}{tbp}{ext}
-% \usepackage[maxcitenames=2, language=english, autolang=other,hyperref=true,style=apa,natbib=true,backend=biber]{biblatex}
-% \usepackage[utf8]{inputenc}
-% \usepackage{csquotes}
-% \usepackage{caption}
-% \usepackage{subcaption}
-% \usepackage{setspace}
-% \usepackage{grffile}
-% \usepackage[T1]{fontenc}
-% \usepackage{tikz}
-% \usepackage{tabularx}
-% \usepackage{tabulary}
-% \usepackage{array}
-% \usepackage{arydshln}
-% \usepackage{caption}
-% \usepackage{hanging}
-% \usepackage{lettrine}
-% \usepackage{etoolbox}
-% \usepackage[hang,flushmargin]{footmisc}
-% \AfterEndEnvironment{quote}{\parshape=0}
-% \usepackage {soul}
-% \usepackage[most]{tcolorbox}
-% \usepackage{wrapfig}
-% \usepackage[no-math]{fontspec}
-% \usepackage{unicode-math}
-% \usepackage{booktabs}
-% \usepackage{lastpage}
+%Packages------------------------------------------------
+\usepackage{graphicx}
+\graphicspath{{../figures/}}
+\usepackage{wrapfig}
+\usepackage{enumitem}
+\usepackage[a4paper, left=1.75cm, right=2.25cm, top=4.58cm, bottom=1.75cm, includehead, headheight=0cm, includefoot, footskip=1.17cm, headsep=0cm]{geometry}
+\usepackage{fancyhdr}
+\usepackage[table]{xcolor}
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{index}
+\usepackage[english, main=english]{babel}
+\usepackage{blindtext}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage[nottoc,notlot,notlof]{tocbibind}
+\usepackage{float}
+\newfloat{Tabelle}{tbp}{ext}
+\usepackage[maxcitenames=2, language=english, autolang=other,hyperref=true,style=apa,natbib=true,backend=biber]{biblatex}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{setspace}
+\usepackage{grffile}
+\usepackage[T1]{fontenc}
+\usepackage{tikz}
+\usepackage{tabularx}
+\usepackage{tabulary}
+\usepackage{array}
+\usepackage{arydshln}
+\usepackage{caption}
+\usepackage{hanging}
+\usepackage{lettrine}
+\usepackage{etoolbox}
+\usepackage[hang,flushmargin]{footmisc}
+\AfterEndEnvironment{quote}{\parshape=0}
+\usepackage {soul}
+\usepackage[most]{tcolorbox}
+\usepackage{wrapfig}
+\usepackage[no-math]{fontspec}
+\usepackage{unicode-math}
+\usepackage{booktabs}
+\usepackage{lastpage}
 
-% %Packages---------------------------------------------------------
-
-
-
-
-
-% %fontsettings----------------------------------------------------
-% \setmainfont{TeX Gyre Heros}
-% \setsansfont{TeX Gyre Heros}
-% %fontsettings---------------------------------------------------
-
-
-% %linespacing---------------------------------------------------------
-% \renewcommand{\baselinestretch}{1.2}
-% %linespacing---------------------------------------------------------
-
-
-
-% %alignspacing---------------------------------------------------
-% \addtolength{\jot}{0.5em}
-% %alignspacing---------------------------------------------------
-
-
-
-% %Farben----------------------------------------------------
-% \definecolor{kon}{HTML}{00A9E0}
-% \definecolor{kon1}{RGB}{204,238,249}
-% \definecolor{kon2}{RGB}{166,225,244}
-% \definecolor{kon3}{RGB}{89,199,235}
-% \definecolor{kon4}{RGB}{0,163,224}
-% \definecolor{gelb1}{RGB}{243,199,13}
-% \definecolor{gelb2}{RGB}{249,209,7}
-% \definecolor{gelb3}{RGB}{255,228,91}
-% \definecolor{magenta1}{RGB}{255,109,189}
-% \definecolor{magenta2}{RGB}{218,74,167}
-% \definecolor{element1}{RGB}{210,236,252}
-% %Farben----------------------------------------------------
-
-
-% %underline-----------------
-% \setulcolor{kon4}
-% \setul{0.4ex}{0.225ex}
-% %underline-----------------
-
-
-% %indent---------------------------------------------------------------
-% \setlength{\parindent}{0cm}
-% %indent---------------------------------------------------------------
+%Packages---------------------------------------------------------
 
 
 
 
-% %FooterHeader------------------------------------------------------
-% \pagestyle{fancy}
-% \fancyhead{}
-% \fancyfoot{}
-% % \fancyhead[L]{\footnotesize{\rightmark}}
-% \fancyhead[R]{\vspace{-0.5cm}\includegraphics[scale=0.2]{Logo_cropped.pdf}}
-% \fancyfoot[L]{\scriptsize{\tiny \color{black!50} Last update: 6.12.2023}}
-% \fancyfoot[R]{\scriptsize{\tiny \color{black!50} Seite \thepage/\pageref{LastPage}}}
-% % \let\oldheadrule\headrule% Copy \headrule into \oldheadrule
-% % \renewcommand{\headrule}{\color{kon}\oldheadrule}% Add colour to \headrule,
-% \renewcommand{\headrulewidth}{0pt}
-% %\renewcommand{\headrule}{\hbox to\headwidth{\color{kon}\leaders\hrule height \headrulewidth\hfill}}
 
-% \fancypagestyle{page2}{
-% \fancyhead{}
-% \fancyfoot{}
-% \fancyhead[R]{\vspace{-0.5cm}\includegraphics[scale=0.2]{Logo_cropped.pdf}}
-% \fancyfoot[R]{\scriptsize{\tiny \color{black!50} Seite \thepage/\pageref{LastPage}}}
-% \renewcommand{\headrulewidth}{0pt}
-% }
-% %FooterHeader----------------------------------------------------
+%fontsettings----------------------------------------------------
+\setmainfont{TeX Gyre Heros}
+\setsansfont{TeX Gyre Heros}
+\newfontfamily{\myhelvetica}{TeX Gyre Heros}[Ligatures=TeX]
+%fontsettings---------------------------------------------------
 
 
-% %---------------------------------------------------------------------
-% \begin{document}
+%linespacing---------------------------------------------------------
+\renewcommand{\baselinestretch}{1.2}
+%linespacing---------------------------------------------------------
 
 
-\small
 
-\newgeometry{a4paper, includehead, includefoot, left=1.75cm, right=2.25cm, top=4.58cm, bottom=1.75cm, headheight=0cm, footskip=1.17cm, headsep=0cm, showframe}
+%alignspacing---------------------------------------------------
+\addtolength{\jot}{0.5em}
+%alignspacing---------------------------------------------------
 
-\thispagestyle{page1}
+
+
+%Farben----------------------------------------------------
+\definecolor{kon}{HTML}{00A9E0}
+\definecolor{kon1}{RGB}{204,238,249}
+\definecolor{kon2}{RGB}{166,225,244}
+\definecolor{kon3}{RGB}{89,199,235}
+\definecolor{kon4}{RGB}{0,163,224}
+\definecolor{gelb1}{RGB}{243,199,13}
+\definecolor{gelb2}{RGB}{249,209,7}
+\definecolor{gelb3}{RGB}{255,228,91}
+\definecolor{magenta1}{RGB}{255,109,189}
+\definecolor{magenta2}{RGB}{218,74,167}
+\definecolor{element1}{RGB}{210,236,252}
+%Farben----------------------------------------------------
+
+
+%underline-----------------
+\setulcolor{kon4}
+\setul{0.4ex}{0.225ex}
+%underline-----------------
+
+
+%indent---------------------------------------------------------------
+\setlength{\parindent}{0cm}
+%indent---------------------------------------------------------------
+
+
+
+
+%headerfooterplagraism---------------
+\fancypagestyle{page1}{
+\fancyhead{}
+\fancyfoot{}
+\fancyhf{}
+% \fancyhead[R]{\hspace*{\fill}\includegraphics[scale=1]{Logo_correct.pdf}}
+\fancyfoot[L]{\scriptsize{\myhelvetica\tiny \color{black!50} Last update: 6.12.2023}}
+\fancyfoot[R]{\scriptsize{\raggedleft\myhelvetica\tiny \color{black!50} Seite 1/2}}
+\renewcommand{\headrulewidth}{0pt}
+}
+
+
+\fancypagestyle{page2}{
+\fancyhead{}
+\fancyfoot{}
+% \fancyhead[R]{\raggedleft\includegraphics[scale=1]{Logo_correct.pdf}}
+\fancyfoot[R]{\scriptsize{\myhelvetica\tiny \color{black!50} Seite 2/2}}
+\renewcommand{\headrulewidth}{0pt}
+% \setlength{\headsep}{0cm}
+}
+
+%headerfooterplagraism---------------
+
+
+%---------------------------------------------------------------------
+\begin{document}
 
 \begin{tikzpicture}[remember picture,overlay]
     \node[anchor=north east,inner sep=0pt] at (current page.north east) {\includegraphics[scale=1]{Logo_correct.pdf}};
@@ -139,7 +134,7 @@
 \setlength{\parindent}{0cm}
 \myhelvetica
 
-
+\thispagestyle{page1}
 
 {
     \raggedleft
@@ -172,12 +167,12 @@ It is considered plagiarism if text or ideas from other works (books, journals, 
 
 \vspace{0.5cm}
 
-\begin{minipage}[c]{0.05\textwidth}
+\begin{minipage}{0.05\textwidth}
     I
 \end{minipage}\begin{minipage}{0.95\textwidth}
-        \begin{tabularx}{\textwidth}[b]{X|X|}
+        \begin{tabularx}{\textwidth}{X|X|}
             \hline
-        \cellcolor{black!10}something & \cellcolor{black!10}something\\[0.15cm]
+        something & something\\
         \hline
         \end{tabularx}
 
@@ -187,12 +182,14 @@ It is considered plagiarism if text or ideas from other works (books, journals, 
 
 hereby declare that the attached paper for the following class
 
-\vspace{-0.3cm}
+\vspace{-0.25cm}
 
 \begin{center}
 \begin{tabularx}{0.975\textwidth}{|X|}
     \hline
-    \cellcolor{black!10}something\\[1cm]
+    something\\
+    Something\\
+    Something\\
     \hline
 \end{tabularx}
 \end{center}
@@ -202,12 +199,14 @@ hereby declare that the attached paper for the following class
 
 on the following topic
 
-\vspace{-0.3cm}
+\vspace{-0.25cm}
 
 \begin{center}
     \begin{tabularx}{0.975\textwidth}{|X|}
     \hline
-    \cellcolor{black!10}something\\[1cm]
+    something\\
+    Something\\
+    Something\\
     \hline
 \end{tabularx}
 \end{center}
@@ -242,12 +241,11 @@ lecturer and clarified them in case of doubt.
 
 
 
+
 \newpage
-% %------------------------------------------------------
+%------------------------------------------------------
+
 \thispagestyle{page2}
-
-% \newgeometry{a4paper, left=1.75cm, right=2.25cm, top=4.58cm, bottom=1.75cm, includehead, headheight=0cm, includefoot, footskip=1.17cm, headsep=0cm}
-
 \begin{tikzpicture}[remember picture,overlay]
     \node[anchor=north east,inner sep=0pt] at (current page.north east)
                {\includegraphics[scale=1]{Logo_correct.pdf}};
@@ -299,5 +297,4 @@ I have taken note of these guidelines regarding plagiarism.
     \raggedleft Student's signature
 \end{minipage}
 
-\newpage
-% \end{document}
+\end{document}
