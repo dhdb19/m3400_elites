@@ -1,133 +1,4 @@
-% \documentclass[a4paper,11pt,xcolor=dvipsnames]{article}
-
-
-
-% %Packages------------------------------------------------
-% \usepackage{graphicx}
-% \graphicspath{{../figures/}}
-% \usepackage{wrapfig}
-% \usepackage{enumitem}
-% \usepackage{fancyhdr}
-% \usepackage[table]{xcolor}
-% \usepackage{amsmath, amssymb, amsfonts}
-% \usepackage{index}
-% \usepackage[a4paper, left=1.5cm, right=1.5cm, top=1.5cm, bottom=1.5cm, includehead, headheight=1.5cm, includefoot, footskip=1.17cm]{geometry}
-% \usepackage[english, main=english]{babel}
-% \usepackage{blindtext}
-% \usepackage{titlesec}
-% \usepackage{hyperref}
-% \usepackage[nottoc,notlot,notlof]{tocbibind}
-% \usepackage{float}
-% \newfloat{Tabelle}{tbp}{ext}
-% \usepackage[maxcitenames=2, language=english, autolang=other,hyperref=true,style=apa,natbib=true,backend=biber]{biblatex}
-% \usepackage[utf8]{inputenc}
-% \usepackage{csquotes}
-% \usepackage{caption}
-% \usepackage{subcaption}
-% \usepackage{setspace}
-% \usepackage{grffile}
-% \usepackage[T1]{fontenc}
-% \usepackage{tikz}
-% \usepackage{tabularx}
-% \usepackage{tabulary}
-% \usepackage{array}
-% \usepackage{arydshln}
-% \usepackage{caption}
-% \usepackage{hanging}
-% \usepackage{lettrine}
-% \usepackage{etoolbox}
-% \usepackage[hang,flushmargin]{footmisc}
-% \AfterEndEnvironment{quote}{\parshape=0}
-% \usepackage {soul}
-% \usepackage[most]{tcolorbox}
-% \usepackage{wrapfig}
-% \usepackage[no-math]{fontspec}
-% \usepackage{unicode-math}
-% \usepackage{booktabs}
-% \usepackage{lastpage}
-
-% %Packages---------------------------------------------------------
-
-
-
-
-
-% %fontsettings----------------------------------------------------
-% \setmainfont{TeX Gyre Heros}
-% \setsansfont{TeX Gyre Heros}
-% %fontsettings---------------------------------------------------
-
-
-% %linespacing---------------------------------------------------------
-% \renewcommand{\baselinestretch}{1.2}
-% %linespacing---------------------------------------------------------
-
-
-
-% %alignspacing---------------------------------------------------
-% \addtolength{\jot}{0.5em}
-% %alignspacing---------------------------------------------------
-
-
-
-% %Farben----------------------------------------------------
-% \definecolor{kon}{HTML}{00A9E0}
-% \definecolor{kon1}{RGB}{204,238,249}
-% \definecolor{kon2}{RGB}{166,225,244}
-% \definecolor{kon3}{RGB}{89,199,235}
-% \definecolor{kon4}{RGB}{0,163,224}
-% \definecolor{gelb1}{RGB}{243,199,13}
-% \definecolor{gelb2}{RGB}{249,209,7}
-% \definecolor{gelb3}{RGB}{255,228,91}
-% \definecolor{magenta1}{RGB}{255,109,189}
-% \definecolor{magenta2}{RGB}{218,74,167}
-% \definecolor{element1}{RGB}{210,236,252}
-% %Farben----------------------------------------------------
-
-
-% %underline-----------------
-% \setulcolor{kon4}
-% \setul{0.4ex}{0.225ex}
-% %underline-----------------
-
-
-% %indent---------------------------------------------------------------
-% \setlength{\parindent}{0cm}
-% %indent---------------------------------------------------------------
-
-
-
-
-% %FooterHeader------------------------------------------------------
-% \pagestyle{fancy}
-% \fancyhead{}
-% \fancyfoot{}
-% % \fancyhead[L]{\footnotesize{\rightmark}}
-% \fancyhead[R]{\vspace{-0.5cm}\includegraphics[scale=0.2]{Logo_cropped.pdf}}
-% \fancyfoot[L]{\scriptsize{\tiny \color{black!50} Last update: 6.12.2023}}
-% \fancyfoot[R]{\scriptsize{\tiny \color{black!50} Seite \thepage/\pageref{LastPage}}}
-% % \let\oldheadrule\headrule% Copy \headrule into \oldheadrule
-% % \renewcommand{\headrule}{\color{kon}\oldheadrule}% Add colour to \headrule,
-% \renewcommand{\headrulewidth}{0pt}
-% %\renewcommand{\headrule}{\hbox to\headwidth{\color{kon}\leaders\hrule height \headrulewidth\hfill}}
-
-% \fancypagestyle{page2}{
-% \fancyhead{}
-% \fancyfoot{}
-% \fancyhead[R]{\vspace{-0.5cm}\includegraphics[scale=0.2]{Logo_cropped.pdf}}
-% \fancyfoot[R]{\scriptsize{\tiny \color{black!50} Seite \thepage/\pageref{LastPage}}}
-% \renewcommand{\headrulewidth}{0pt}
-% }
-% %FooterHeader----------------------------------------------------
-
-
-% %---------------------------------------------------------------------
-% \begin{document}
-
-
-\small
-
-\newgeometry{a4paper, includehead, includefoot, left=1.75cm, right=2.25cm, top=4.58cm, bottom=1.75cm, headheight=0cm, footskip=1.17cm, headsep=0cm, showframe}
+{\small
 
 \thispagestyle{page1}
 
@@ -138,8 +9,6 @@
 \setstretch{1.2}
 \setlength{\parindent}{0cm}
 \myhelvetica
-
-
 
 {
     \raggedleft
@@ -162,7 +31,7 @@
 }
 
 \vspace{0.25cm}
-
+\begingroup
 {\large{\textbf{\ul{Declaration of Authorship}}}}
 
 \raggedright
@@ -175,12 +44,22 @@ It is considered plagiarism if text or ideas from other works (books, journals, 
 \begin{minipage}[c]{0.05\textwidth}
     I
 \end{minipage}\begin{minipage}{0.95\textwidth}
-        \begin{tabularx}{\textwidth}[b]{X|X|}
-            \hline
-        \cellcolor{black!10}something & \cellcolor{black!10}something\\[0.15cm]
-        \hline
-        \end{tabularx}
-
+    % \begin{tabularx}{\textwidth}[b]{X|X|}
+    %     \hline
+    %     \cellcolor{black!10}something & \cellcolor{black!10}something\\[0.15cm]
+    %     \hline
+    % \end{tabularx}
+        \begin{tblr}{
+            width=\linewidth,
+            rows={ht=0.7cm, valign=b},
+            colspec={XX},
+            cells= {halign=left, bg=black!10},
+            rowsep=0cm,
+            hlines={},
+            vline{2,3}={},
+        }
+        something & something\\
+        \end{tblr}
 \end{minipage}
 
 \vspace{0.2cm}
@@ -190,11 +69,17 @@ hereby declare that the attached paper for the following class
 \vspace{-0.3cm}
 
 \begin{center}
-\begin{tabularx}{0.975\textwidth}{|X|}
-    \hline
-    \cellcolor{black!10}something\\[1cm]
-    \hline
-\end{tabularx}
+    \begin{tblr}{
+        width=0.95\linewidth,
+        rows={ht=2cm, },
+        colspec={X[r,b]},
+        cells= {valign=t, halign=left, bg=black!10},
+        rowsep=0cm,
+        hlines={},
+        vlines={},
+    }
+    something\\
+    \end{tblr}
 \end{center}
 
 
@@ -205,11 +90,17 @@ on the following topic
 \vspace{-0.3cm}
 
 \begin{center}
-    \begin{tabularx}{0.975\textwidth}{|X|}
-    \hline
-    \cellcolor{black!10}something\\[1cm]
-    \hline
-\end{tabularx}
+    \begin{tblr}{
+        width=0.95\linewidth,
+        rows={ht=2cm, },
+        colspec={X[r,b]},
+        cells= {valign=t, halign=left, bg=black!10},
+        rowsep=0cm,
+        hlines={},
+        vlines={},
+    }
+    something\\
+    \end{tblr}
 \end{center}
 
 
@@ -239,7 +130,7 @@ lecturer and clarified them in case of doubt.
         
     \item[\mbox{\begin{Form}\CheckBox[height=0.2cm, width=0.2cm]{}\end{Form}}]I did not use any generative AI tools as aids.
 \end{itemize}
-
+\endgroup
 
 
 \newpage
@@ -255,7 +146,7 @@ lecturer and clarified them in case of doubt.
 
 I am aware of the following:
 
-\begin{itemize}[label=\color{kon4}---]
+\begin{itemize}[label=\color{kon4}--, leftmargin=1.45cm, labelsep=0.45cm]
 \item I am guilty of plagiarism if, contrary to the requirements set out above, I use the work of others in my thesis without acknowledging the precise source. This would be to lay claim to an achievement that is not my own.
 
 \item If a candidate intentionally violates the University of Konstanz's Statutes to Ensure Good Scientific Practice when composing his/her thesis, it will be, in all probability, judged as an attempt at cheating (plagiarism). This means that the thesis will be graded \enquote{nicht ausreichend/fail} (5,0), placed on record in the student's examination file, and put before the Examination Board (StPA).
@@ -270,34 +161,28 @@ I have taken note of these guidelines regarding plagiarism.
 \vspace{0.75cm}
 
 \begin{minipage}{0.3\textwidth}
-    \begin{tabularx}{\textwidth}{|X|}
-        \hline
-        \\
-        \\
-        \\
-        \\
-        \hline
-    \end{tabularx}
+    % \renewcommand{\arraystretch}{3.5}
+    % \begin{tabulary}{\textwidth}{|X|}
+    %     \hline
+    %     \\
+    %     \hline
+    % \end{tabulary}
 
-    \vspace{0.1cm}
+    % \vspace{0.1cm}
 
-    Place, date
+    % Place, date
 \end{minipage}\begin{minipage}{0.1\textwidth}
      \phantom{a}
 \end{minipage}\begin{minipage}{0.6\textwidth}
-    \begin{tabularx}{\textwidth}{|X|}
-        \hline
-        \\
-        \\
-        \\
-        \\
-        \hline
-    \end{tabularx}
+    %     \renewcommand{\arraystretch}{3.5}
+    % \begin{tabulary}{\textwidth}{|X|}
+    %     \hline
+    %     \includegraphics[height=\dimexpr 2\baselineskip]{signature_iordanis2.pdf}\\%[1.4cm]
+    %     \hline
+    % \end{tabulary}
 
-    \vspace{0.1cm}
+    % \vspace{0.1cm}
 
     \raggedleft Student's signature
 \end{minipage}
-
-\newpage
-% \end{document}
+}
