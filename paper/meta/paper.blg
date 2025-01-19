@@ -1,9 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.blg'
-[171] biber-MSWIN64:340> INFO - === 
-[238] Biber.pm:419> INFO - Reading 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bcf'
-[340] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[357] bbl.pm:660> INFO - Writing 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bbl' with encoding 'UTF-8'
-[357] bbl.pm:763> INFO - Output to C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bbl
-[358] Biber.pm:131> WARN - The file 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\paper\meta\paper.bcf' does not contain any citations!
-[358] Biber.pm:133> INFO - WARNINGS: 1

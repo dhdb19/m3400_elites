@@ -1,8 +1,11 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  18 JAN 2025 23:17
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  19 JAN 2025 15:47
  system commands enabled.
  file:line:error style messages enabled.
-**c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/paper
-(c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/paper.tex
+**c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/[master]pap
+er
+
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/[master]pape
+r.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
@@ -1712,8 +1715,10 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
- (c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/meta/paper.aux)
-\openout1 = paper.aux
+
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/meta/[master
+]paper.aux)
+\openout1 = [master]paper.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -1735,8 +1740,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
-
-("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
+ ("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count552
 \scratchdimen=\dimen385
@@ -1792,15 +1796,17 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 17.
-(c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/meta/paper.out)
-(c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/meta/paper.out)
+
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/meta/[master
+]paper.out)
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/meta/[master
+]paper.out)
 \@outlinefile=\write5
 
-\openout5 = paper.out
+\openout5 = [master]paper.out
 Package biblatex Info: Trying to load language 'english' -> 'english-apa'...
 Package biblatex Info: ... file 'english-apa.lbx' found.
-
-("C:/Program Files/MiKTeX/tex/latex/biblatex-apa/english-apa.lbx"
+ ("C:/Program Files/MiKTeX/tex/latex/biblatex-apa/english-apa.lbx"
 File: english-apa.lbx 2023/03/20 v9.17 APA biblatex localisation
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1829,18 +1835,18 @@ Package biblatex Info: LuaTeX detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout4 = paper.bcf
+\openout4 = [master]paper.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'paper.bbl' found.
+Package biblatex Info: ... file '[master]paper.bbl' found.
 
-(c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/meta/paper.bbl)
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/meta/[master
+]paper.bbl)
 Package biblatex Info: Reference section=0 on input line 17.
 Package biblatex Info: Reference segment=0 on input line 17.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
-("C:/Program Files/MiKTeX/tex/latex/ninecolors/ninecolors.sty"
+ ("C:/Program Files/MiKTeX/tex/latex/ninecolors/ninecolors.sty"
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
 \c@lstlisting=\count558
@@ -2033,39 +2039,38 @@ Package luatex.def Info: ../figures/Logo_correct.pdf  used on input line 144.
 
 [2
 
-] [3
-
-] (c:/Users/jordi/OneDrive/01_Uni/t/t1400_github/paper/meta/paper.aux)
+] (./1_introduction.tex) (./2_literature) (./3_theory)
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/meta/[master
+]paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `paper.out' has not changed.
+Package rerunfilecheck Info: File `[master]paper.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'paper.run.xml'.
+Package logreq Info: Writing requests to '[master]paper.run.xml'.
 
-\openout1 = paper.run.xml
+\openout1 = [master]paper.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 47838 strings out of 476497
+ 47857 strings out of 476497
  100000,2373549 words of node,token memory allocated
- 1617 words of node memory still in use:
-   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 16 glyph, 114 attribute, 78 glue_
-spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack nodes
-   avail lists: 1:3,2:1615,3:259,4:339,5:1089,6:95,7:7081,8:2,9:1256,10:23,11:44
+ 1626 words of node memory still in use:
+   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 16 glyph, 116 attribute, 78 glue_
+spec, 96 attribute_list, 3 write, 24 pdf_literal, 24 pdf_colorstack nodes
+   avail lists: 1:3,2:1612,3:258,4:339,5:1089,6:95,7:7081,8:2,9:1256,10:23,11:44
 4
- 68784 multiletter control sequences out of 65536+600000
+ 68795 multiletter control sequences out of 65536+600000
  75 fonts using 7387519 bytes
- 117i,11n,114p,746b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<//?/c:/program files/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><C:/
-Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf><C:
-/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf><../f
-onts/Lato/Lato-Regular.ttf><C:/Program Files/MiKTeX/fonts/type1/urw/zapfding/uzd
-r.pfb>
-Output written on paper.pdf (3 pages, 48514 bytes).
+ 117i,11n,114p,768b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
+><C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf><
+../fonts/Lato/Lato-Regular.ttf><C:/Program Files/MiKTeX/fonts/type1/urw/zapfding
+/uzdr.pfb>
+Output written on [master]paper.pdf (2 pages, 45621 bytes).
 
-PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 131072)
+PDF statistics: 100 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 131072)
  341 words of extra memory for PDF output out of 10000 (max. 100000000)
 
