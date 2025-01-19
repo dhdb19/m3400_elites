@@ -1,0 +1,35 @@
+\documentclass[11pt]{article}
+
+\usepackage{../style/paper_theme_weidmann}
+\graphicspath{{../figures/}}
+
+\author{John Doe}
+\matric{01/0000000}
+\seminar{Seminar title at University of Konstanz}
+\supervisor{Prof. Dr. Something Something}
+\semester{Winter semester 2024/2025}
+\submitdate{1. January 2025}
+\title{Some very interesting research: This is very important so you should read it}
+\abs{Placeholder}
+\seminartype{M.A. Seminar}
+%------------------------------------------------------
+
+\begin{document}
+
+\input{elites_proposal}
+
+\newpage
+\restoregeometry
+\pagestyle{fancy}
+
+test
+
+%------------------------------------------------------
+\newpage
+\thispagestyle{empty}
+\begingroup
+\setstretch{1.0}
+\printbibliography
+\endgroup
+
+\end{document}

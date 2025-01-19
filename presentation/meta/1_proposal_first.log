@@ -1,0 +1,382 @@
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  19 JAN 2025 15:36
+ system commands enabled.
+ file:line:error style messages enabled.
+**c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_pr
+oposal_first
+
+(c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_pro
+posal_first.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/jordi/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "C:/Program Files/MiKTeX/tex/luatex/luaotfload/fontloader-2023-08-19.
+lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/jordi/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{frame}{Title}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[][] 
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:4: LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{columns}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:5: LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5   \begin{column}
+                  [T]{0.4\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5   \begin{column}[
+                   T]{0.4\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:5: Missing number, treated as zero.
+<to be read again> 
+}
+l.5   \begin{column}[T]{0.4\textwidth}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:5: Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.5   \begin{column}[T]{0.4\textwidth}
+                                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+luaotfload | db : Font names database loaded from C:/Users/jordi/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--7
+[][T]0.4
+ []
+
+
+Overfull \hbox (17.73001pt too wide) in paragraph at lines 5--7
+\TU/lmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (31.31999pt too wide) in paragraph at lines 5--7
+\TU/lmr/bx/n/10 search
+ []
+
+
+Overfull \hbox (26.1pt too wide) in paragraph at lines 5--7
+\TU/lmr/bx/n/10 ques-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 5--7
+\TU/lmr/bx/n/10 tion 
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:10: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10     H
+        ow does policy domain affect sunk-cost thinking in politicians?
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--11
+[]How
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:14: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14     \textbf{Design}
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (37.92001pt too wide) in paragraph at lines 14--15
+[]\TU/lmr/bx/n/10 De-
+ []
+
+
+Overfull \hbox (19.87pt too wide) in paragraph at lines 14--15
+\TU/lmr/bx/n/10 sign 
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:18: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18     S
+        urvey experiment
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 18--19
+[]Survey
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:20: LaTeX Error: \begin{frame} on input line 2 ended by \end{colu
+mn}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20   \end{column}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:22: LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22   \begin{column}
+                   [T]{0.5\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:22: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22   \begin{column}[
+                    T]{0.5\textwidth}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:22: Missing number, treated as zero.
+<to be read again> 
+}
+l.22   \begin{column}[T]{0.5\textwidth}
+                                     
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:22: Illegal unit of measure (pt inserted).
+<to be read again> 
+}
+l.22   \begin{column}[T]{0.5\textwidth}
+                                     
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+[][T]0.5 
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:24: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24     \textbf{Expectation}
+                           
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (37.46pt too wide) in paragraph at lines 24--25
+[]\TU/lmr/bx/n/10 Ex-
+ []
+
+
+Overfull \hbox (20.92001pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 pec-
+ []
+
+
+Overfull \hbox (13.89pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 ta-
+ []
+
+
+Overfull \hbox (19.8pt too wide) in paragraph at lines 24--25
+\TU/lmr/bx/n/10 tion 
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:26: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     P
+        oliticians will exhibit less sunk-cost thinking for late/over-budget...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+[]Politicians
+ []
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:32: LaTeX Error: \begin{frame} on input line 2 ended by \end{colu
+mn}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32   \end{column}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/1_propo
+sal_first.tex:33: LaTeX Error: \begin{frame} on input line 2 ended by \end{colu
+mns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{columns}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ..._25/m3400_elites/presentation/1_proposal_first
+                                                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 30 strings out of 476497
+ 100000,1977958 words of node,token memory allocated 3371 words of node memory still in use:
+   30 hlist, 1 vlist, 4 rule, 9 disc, 8 local_par, 1 dir, 93 glue, 8 kern, 18 pe
+nalty, 254 glyph, 30 attribute, 39 glue_spec, 30 attribute_list nodes
+   avail lists: 2:3,3:1,4:16,5:2,7:15,10:15
+ 22194 multiletter control sequences out of 65536+600000
+ 15 fonts using 723367 bytes
+ 18i,3n,20p,264b,91s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
