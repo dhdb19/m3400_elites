@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>[master]paper.bcf</file>
@@ -85,9 +85,7 @@
       <file>[master]paper.bcf</file>
     </requires>
     <requires type="editable">
-      <file>../../../MasterLit.bib</file>
-      <file>../../../ContentLit.bib</file>
-      <file>../../../references.bib</file>
+      <file>../MasterLit.bib</file>
     </requires>
   </external>
 </requests>

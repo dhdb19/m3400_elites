@@ -1,21 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'C:\Users\jordi\OneDrive\01_Uni\M\M3000_W_24_25\m3400_elites\paper_outline\meta\[master]paper_outline.blg'
-[164] biber-MSWIN64:340> INFO - === 
-[224] Biber.pm:419> INFO - Reading 'C:\Users\jordi\OneDrive\01_Uni\M\M3000_W_24_25\m3400_elites\paper_outline\meta\[master]paper_outline.bcf'
-[338] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[364] Biber.pm:4419> INFO - Processing section 0
-[389] Biber.pm:4610> INFO - Looking for bibtex file '../../../MasterLit.bib' for section 0
-[445] bibtex.pm:1713> INFO - LaTeX decoding ...
-[733] bibtex.pm:1519> INFO - Found BibTeX data source '../../../MasterLit.bib'
-[822] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[822] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[822] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[822] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[833] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[833] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[833] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[833] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[863] bbl.pm:660> INFO - Writing 'C:\Users\jordi\OneDrive\01_Uni\M\M3000_W_24_25\m3400_elites\paper_outline\meta\[master]paper_outline.bbl' with encoding 'UTF-8'
-[867] bbl.pm:763> INFO - Output to C:\Users\jordi\OneDrive\01_Uni\M\M3000_W_24_25\m3400_elites\paper_outline\meta\[master]paper_outline.bbl
-[868] Biber.pm:131> WARN - Duplicate entry key: 'Abbott1998' in file '../../../MasterLit.bib', skipping ...
-[868] Biber.pm:133> INFO - WARNINGS: 1
+[86] biber-MSWIN64:340> INFO - === 
+[114] Biber.pm:419> INFO - Reading 'C:\Users\jordi\OneDrive\01_Uni\M\M3000_W_24_25\m3400_elites\paper_outline\meta\[master]paper_outline.bcf'
+[217] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
+[234] Biber.pm:4419> INFO - Processing section 0
+[243] Biber.pm:4610> INFO - Looking for bibtex file 'MasterLit.bib' for section 0
+[517] Utils.pm:410> ERROR - Cannot find 'MasterLit.bib'!
+[517] Biber.pm:136> INFO - ERRORS: 1

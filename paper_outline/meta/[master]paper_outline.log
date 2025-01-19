@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  19 JAN 2025 15:31
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  19 JAN 2025 18:04
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper_outline/[ma
@@ -1917,23 +1917,51 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 17.
 
-(./elites_proposal.tex) [1
+(./elites_proposal.tex
+
+LaTeX Warning: Citation 'May2023' on page 1 undefined on input line 11.
 
 
-{C:/Users/jordi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3
+LaTeX Warning: Citation 'Sheffer2017' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation '' on page 1 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'Sheffer2017' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation '' on page 1 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'Kahnemann1979' on page 1 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Arkes1985' on page 1 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'Kahnemann1979' on page 1 undefined on input line 28.
+
+
+LaTeX Warning: Citation 'Arkes1985' on page 1 undefined on input line 28.
+
+)
+Overfull \hbox (16.65169pt too wide) in paragraph at lines 28--20
+[]\TU/LatinModernRoman(0)/m/n/10.95 One ex-pla-na-tion for the sunk-cost fal-lac
+y is found in prospect the-ory ([][]),
+ []
+
+[1
+
+
+{C:/Users/jordi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+[3
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
 
- ("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+LaTeX Warning: Empty bibliography on input line 32.
 
 
-("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4]
 (c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper_outline/meta
 /[master]paper_outline.aux)
  ***********
@@ -1947,8 +1975,9 @@ LaTeX Warning: There were undefined references.
 Package rerunfilecheck Info: File `[master]paper_outline.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                [master]paper_outline
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to '[master]paper_outline.run.xml'.
 
@@ -1956,23 +1985,23 @@ Package logreq Info: Writing requests to '[master]paper_outline.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 47901 strings out of 476497
+ 47827 strings out of 476497
  100000,2373549 words of node,token memory allocated
- 1454 words of node memory still in use:
-   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 2 glyph, 89 attribute, 79 glue_sp
-ec, 82 attribute_list, 2 write, 24 pdf_literal, 1 pdf_action, 24 pdf_colorstack 
-nodes
-   avail lists: 1:2,2:552,3:214,4:45,5:523,6:48,7:10041,8:83,9:292,10:5,11:748
- 68853 multiletter control sequences out of 65536+600000
- 73 fonts using 6794231 bytes
+ 1438 words of node memory still in use:
+   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 2 glyph, 85 attribute, 79 glue_sp
+ec, 81 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack nodes
+   avail lists: 1:1,2:397,3:112,4:45,5:505,6:42,7:9881,8:2,9:296,10:17,11:747
+ 68794 multiletter control sequences out of 65536+600000
+ 53 fonts using 5414303 bytes
  117i,11n,114p,1065b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
 ><C:/Program Files/MiKTeX/fonts/opentype/public/lm/lmroman10-italic.otf><//?/c:/
-program files/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><../fonts/La
-to/Lato-Bold.ttf>
-Output written on [master]paper_outline.pdf (4 pages, 48028 bytes).
+program files/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><//?/c:/program
+ files/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><../fonts/Lato/Lato
+-Bold.ttf>
+Output written on [master]paper_outline.pdf (3 pages, 42629 bytes).
 
-PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 131072)
+PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 131072)
  256 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  19 JAN 2025 15:47
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.1.18)  19 JAN 2025 19:13
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/[master]pap
@@ -2039,7 +2039,9 @@ Package luatex.def Info: ../figures/Logo_correct.pdf  used on input line 144.
 
 [2
 
-] (./1_introduction.tex) (./2_literature) (./3_theory)
+] (./1_introduction.tex) (./2_literature.tex) (./3_theory.tex) [3
+
+]
 (c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/paper/meta/[master
 ]paper.aux)
  ***********
@@ -2048,29 +2050,40 @@ L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `[master]paper.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to '[master]paper.run.xml'.
 
 \openout1 = [master]paper.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 47857 strings out of 476497
+ 48081 strings out of 476497
  100000,2373549 words of node,token memory allocated
- 1626 words of node memory still in use:
-   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 16 glyph, 116 attribute, 78 glue_
-spec, 96 attribute_list, 3 write, 24 pdf_literal, 24 pdf_colorstack nodes
-   avail lists: 1:3,2:1612,3:258,4:339,5:1089,6:95,7:7081,8:2,9:1256,10:23,11:44
+ 1617 words of node memory still in use:
+   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 16 glyph, 114 attribute, 78 glue_
+spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack nodes
+   avail lists: 1:1,2:1618,3:270,4:340,5:1089,6:95,7:7081,8:2,9:1256,10:23,11:44
 4
- 68795 multiletter control sequences out of 65536+600000
- 75 fonts using 7387519 bytes
+ 69010 multiletter control sequences out of 65536+600000
+ 76 fonts using 7519207 bytes
  117i,11n,114p,768b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
-><C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf><
-../fonts/Lato/Lato-Regular.ttf><C:/Program Files/MiKTeX/fonts/type1/urw/zapfding
-/uzdr.pfb>
-Output written on [master]paper.pdf (2 pages, 45621 bytes).
 
-PDF statistics: 100 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 131072)
+warning  (pdf backend): unreferenced destination with name 'cite.0@Sleesman2012'
+
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@Staw1976'
+<C:/Program Files/MiKTeX/fonts/opentype/public/lm/lmroman10-italic.otf><//?/c:/p
+rogram files/miktex/fonts/opentype/public/lm/lmroman10-regular.otf><C:/Program F
+iles/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf><C:/Program 
+Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf><../fonts/Lato
+/Lato-Regular.ttf><C:/Program Files/MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on [master]paper.pdf (3 pages, 59580 bytes).
+
+PDF statistics: 124 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 131072)
  341 words of extra memory for PDF output out of 10000 (max. 100000000)
 
