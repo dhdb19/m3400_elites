@@ -16,5 +16,136 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Sleesman2012}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ebc9ca4c07736032322ce558373df468}{%
+           family={Sleesman},
+           familyi={S\bibinitperiod},
+           given={Dustin\bibnamedelimb J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f73010106e4567986438c116e906bd9}{%
+           family={Conlon},
+           familyi={C\bibinitperiod},
+           given={Donald\bibnamedelimb E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=591829aee835c9d82f34bf84b7aae803}{%
+           family={McNamara},
+           familyi={M\bibinitperiod},
+           given={Gerry},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4ca2d27355bfbbc9963b3970de21da8}{%
+           family={Miles},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelimb E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c44b6a81f72e47ea5eb47cf18e4bd77e}
+      \strng{fullhash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{fullhashraw}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{bibnamehash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{authorbibnamehash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{authornamehash}{c44b6a81f72e47ea5eb47cf18e4bd77e}
+      \strng{authorfullhash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{authorfullhashraw}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Academy of Management Journal}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Cleaning Up the Big Muddy: {A} Meta-Analytic Review of the Determinants of Escalation of Commitment}
+      \field{volume}{55}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{541\bibrangedash 562}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.5465/amj.2010.0696
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5465/amj.2010.0696
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5465/amj.2010.0696
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Sleesman2012}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ebc9ca4c07736032322ce558373df468}{%
+           family={Sleesman},
+           familyi={S\bibinitperiod},
+           given={Dustin\bibnamedelimb J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f73010106e4567986438c116e906bd9}{%
+           family={Conlon},
+           familyi={C\bibinitperiod},
+           given={Donald\bibnamedelimb E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=591829aee835c9d82f34bf84b7aae803}{%
+           family={McNamara},
+           familyi={M\bibinitperiod},
+           given={Gerry},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4ca2d27355bfbbc9963b3970de21da8}{%
+           family={Miles},
+           familyi={M\bibinitperiod},
+           given={Jonathan\bibnamedelimb E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c44b6a81f72e47ea5eb47cf18e4bd77e}
+      \strng{fullhash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{fullhashraw}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{bibnamehash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{authorbibnamehash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{authornamehash}{c44b6a81f72e47ea5eb47cf18e4bd77e}
+      \strng{authorfullhash}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \strng{authorfullhashraw}{3d1cf3c339d9118f3f5fc487f1ef6416}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{journaltitle}{Academy of Management Journal}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Cleaning Up the Big Muddy: {A} Meta-Analytic Review of the Determinants of Escalation of Commitment}
+      \field{volume}{55}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{541\bibrangedash 562}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.5465/amj.2010.0696
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5465/amj.2010.0696
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5465/amj.2010.0696
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

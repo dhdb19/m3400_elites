@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.21)  21 JAN 2025 03:58
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.21)  21 JAN 2025 04:21
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/[mas
@@ -2289,8 +2289,12 @@ Package luatex.def Info: ../figures/Logo.pdf  used on input line 42.
 
 {C:/Users/jordi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<../figures/Log
 o.pdf>] (./2_proposal_second.tex
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
  [][][][] 
+ []
+
+
+Overfull \vbox (1.72255pt too high) detected at line 44
  []
 
 
@@ -2308,7 +2312,7 @@ Overfull \hbox (3.336pt too wide) has occurred while \output is active
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
  [][][][] 
  []
 
@@ -2331,10 +2335,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--84
  [][][][] 
  []
 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
 
-LaTeX Warning: Empty bibliography on input line 84.
+("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
 
 
+("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 
 [4
 
@@ -2368,29 +2379,44 @@ Package luatex.def Info: ../figures/Logo.pdf  used on input line 117.
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
-Package rerunfilecheck Info: File `[master]presentation.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `[master]presentation.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `[master]presentation.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  AEA4B6A8AE45636C75679C2F0DFA4493;93.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to '[master]presentation.run.xml'.
 
 \openout1 = [master]presentation.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 59172 strings out of 475518
+ 59528 strings out of 475518
  100000,2848258 words of node,token memory allocated
- 5556 words of node memory still in use:
+ 5603 words of node memory still in use:
    103 hlist, 7 vlist, 46 rule, 8 disc, 6 local_par, 96 glue, 62 kern, 16 penalt
-y, 102 glyph, 423 attribute, 87 glue_spec, 250 attribute_list, 4 write, 24 pdf_l
+y, 105 glyph, 432 attribute, 87 glue_spec, 254 attribute_list, 4 write, 24 pdf_l
 iteral, 86 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 1:1,2:252,3:113,4:281,5:244,6:21,7:665,9:455,10:8,11:52
- 80564 multiletter control sequences out of 65536+600000
- 44 fonts using 5557047 bytes
+   avail lists: 1:1,2:585,3:196,4:363,5:314,6:47,7:1680,8:37,9:567,10:38,11:128
+ 80908 multiletter control sequences out of 65536+600000
+ 67 fonts using 7547239 bytes
  128i,14n,116p,810b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf>
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
 ><C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf>
-Output written on [master]presentation.pdf (5 pages, 36723 bytes).
+Output written on [master]presentation.pdf (5 pages, 43423 bytes).
 
-PDF statistics: 97 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 131072)
+PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 131072)
  261 words of extra memory for PDF output out of 10000 (max. 100000000)
 
