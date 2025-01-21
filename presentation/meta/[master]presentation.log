@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.21)  21 JAN 2025 07:45
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.1.21)  21 JAN 2025 07:51
  system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/jordi/OneDrive/01_Uni/M/M3000_W_24_25/m3400_elites/presentation/[mas
@@ -2289,12 +2289,12 @@ Package luatex.def Info: ../figures/Logo.pdf  used on input line 42.
 
 {C:/Users/jordi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<../figures/Log
 o.pdf>] (./2_proposal_second.tex
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
  [][][][] 
  []
 
 
-Overfull \vbox (8.68504pt too high) detected at line 57
+Overfull \vbox (4.21591pt too high) detected at line 59
  []
 
 
@@ -2312,7 +2312,7 @@ Overfull \hbox (3.336pt too wide) has occurred while \output is active
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
  [][][][] 
  []
 
@@ -2393,14 +2393,14 @@ Here is how much of LuaTeX's memory you used:
    103 hlist, 7 vlist, 46 rule, 8 disc, 6 local_par, 96 glue, 62 kern, 16 penalt
 y, 110 glyph, 442 attribute, 87 glue_spec, 259 attribute_list, 4 write, 24 pdf_l
 iteral, 86 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
-   avail lists: 1:1,2:840,3:223,4:475,5:431,6:41,7:2739,8:37,9:727,10:38,11:242
+   avail lists: 1:1,2:849,3:223,4:475,5:431,6:41,7:2724,8:37,9:727,10:38,11:254
  80916 multiletter control sequences out of 65536+600000
  68 fonts using 7721967 bytes
  128i,14n,116p,810b,5046s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf>
 <C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf
 ><C:/Program Files/MiKTeX/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf>
-Output written on [master]presentation.pdf (5 pages, 45751 bytes).
+Output written on [master]presentation.pdf (5 pages, 45826 bytes).
 
 PDF statistics: 114 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 131072)
