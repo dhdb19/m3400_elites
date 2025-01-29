@@ -23,7 +23,7 @@ good designs need clear expectations and expectations we get from theory
 
 
 
-UPDATE PRESENTATION
+## UPDATE PRESENTATION
 10 minutes, 3 slides, 1 title slide, 1slide theory & design update, 1 slide questions to the audience
 Hand in 21.01 at noon
 
