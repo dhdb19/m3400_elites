@@ -29,5 +29,32 @@ Hand in 21.01 at noon
 
 
 
+
+
 deep green 3c714f
 light green ebf1ec
+
+
+## Paper
+
+research question, buid up theory, clear expectation
+
+very specific hot to measure the conceot, anaylze data, what kind of peoblems do i encunter
+
+Surveys: Heres a consruct and heres how other people measure it
+
+
+If you have descriptive statistics you can do but really not necessary. 
+
+Two kinds of ways
+
+Way 1 Heres everything oyi need to know about it and heres my expectation
+
+way 2 I dditn quite udnerstand
+
+5000 words hard max
+
+No conclusion hard stop
+
+Abstract optional
+
