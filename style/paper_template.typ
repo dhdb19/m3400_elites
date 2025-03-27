@@ -17,7 +17,9 @@
 
     authors
       .enumerate()
-      .map(((i, author)) => super[#{ i + 1 }] + author.affiliation + [, ] + author.matric_number)
+      .map(((i, author)) => (
+        super[#{ i + 1 }] + author.affiliation + [, ] + author.matric_number
+      ))
       .join("; "),
   )
 }
@@ -52,7 +54,14 @@
 #let make_doctype(
   doctype,
 ) = {
-  text(9pt, font: "Lato", tracking: 1pt, fill: rgb("3C714F"), weight: "bold", upper[#doctype])
+  text(
+    9pt,
+    font: "Lato",
+    tracking: 1pt,
+    fill: rgb("3C714F"),
+    weight: "bold",
+    upper[#doctype],
+  )
 }
 
 #let make_title(
@@ -95,7 +104,7 @@
   set text(size: 10pt)
   bibliography(
     "../references.bib",
-    style: "apa",
+    style: "american-psychological-association",
     title: "References",
   )
 }
@@ -227,6 +236,7 @@
     justify: true,
     leading: 0.75em,
     first-line-indent: 0.5in,
+    spacing: 0.75em,
   )
   // format tables -------
   set figure.caption(position: top)
@@ -237,12 +247,13 @@
       font: "Lato",
       size: 10pt,
     )
-    #text(fill: rgb("3C714F"), weight: "bold")[#upper(c.supplement) #c.numbering]
+    #text(fill: rgb("3C714F"), weight: "bold")[#upper(
+        c.supplement,
+      ) #c.numbering]
     #h(0.2cm)
     #c.body
-    #v(-0.6em)
     #line(length: 100%)
-    #v(-0.6em)
+    #v(-0.5em)
   ]
 
   show figure: fig => [

@@ -1,0 +1,3976 @@
+Sweet2000:
+  type: book
+  title: '{Governing with judges: Constitutional Politics in Europe}'
+  author: Stone Sweet, Alec
+  date: 2000
+  url: https://doi.org/10.1093/0198297718.001.0001
+  serial-number:
+    doi: 10.1093/0198297718.001.0001
+Vanberg2015:
+  type: article
+  title: '{Constitutional Courts in Comparative Perspective: A theoretical assessment}'
+  author: Vanberg, Georg
+  date: 2015
+  page-range: 167–185
+  url: https://doi.org/10.1146/annurev-polisci-040113-161150
+  serial-number:
+    doi: 10.1146/annurev-polisci-040113-161150
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 18
+Brouard2017:
+  type: article
+  title: '{Constitutional courts as veto players: Lessons from the United States, France and Germany}'
+  author:
+  - Brouard, Sylvain
+  - Hönnige, Christoph
+  date: 2017
+  page-range: 529–552
+  url: https://doi.org/10.1111/1475-6765.12192
+  serial-number:
+    doi: 10.1111/1475-6765.12192
+  parent:
+    type: periodical
+    title: European Journal of Political Research
+    issue: 3
+    volume: 56
+Staton2008:
+  type: article
+  title: '{The value of vagueness: delegation, defiance, and judicial opinions}'
+  author:
+  - Staton, Jeffrey K.
+  - Vanberg, Georg
+  date: 2008
+  page-range: 504–519
+  url: https://doi.org/10.1111/j.1540-5907.2008.00326.x
+  serial-number:
+    doi: 10.1111/j.1540-5907.2008.00326.x
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 3
+    volume: 52
+Epstein2021:
+  type: article
+  title: '{The role of comparative law in the analysis of judicial behavior}'
+  author:
+  - Epstein, Lee
+  - Šadl, Urška
+  - Weinshall, Keren
+  date: 2021
+  page-range: 689–719
+  url: https://doi.org/10.1093/ajcl/avac002
+  serial-number:
+    doi: 10.1093/ajcl/avac002
+  parent:
+    type: periodical
+    title: The American Journal of Comparative Law
+    issue: 4
+    volume: 69
+Segal1989:
+  type: article
+  title: '{Ideological values and the votes of U.S. Supreme Court justices}'
+  author:
+  - Segal, Jeffrey A.
+  - Cover, Albert D.
+  date: 1989
+  page-range: 557–565
+  url: https://doi.org/10.2307/1962405
+  serial-number:
+    doi: 10.2307/1962405
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 2
+    volume: 83
+EpsteinWeinshall2021:
+  type: book
+  title: '{The Strategic Analysis of Judicial Behavior}'
+  author:
+  - Epstein, Lee
+  - Weinshall, Keren
+  date: 2021
+  url: https://doi.org/10.1017/9781009049030
+  serial-number:
+    doi: 10.1017/9781009049030
+Segal1997:
+  type: article
+  title: '{Separation-of-Powers games in the positive theory of Congress and courts}'
+  author: Segal, Jeffrey A.
+  date: 1997
+  page-range: 28–44
+  url: https://doi.org/10.2307/2952257
+  serial-number:
+    doi: 10.2307/2952257
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 1
+    volume: 91
+Gibson1998:
+  type: article
+  title: '{On the legitimacy of national high courts}'
+  author:
+  - Gibson, James L.
+  - Caldeira, Gregory A.
+  - Baird, Vanessa A.
+  date: 1998
+  page-range: 343–358
+  url: https://doi.org/10.2307/2585668
+  serial-number:
+    doi: 10.2307/2585668
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 2
+    volume: 92
+Krehbiel206:
+  type: article
+  title: '{The politics of judicial procedures: The role of public oral hearings in the German Constitutional Court}'
+  author: Krehbiel, Jay
+  date: 2016
+  page-range: 990–1005
+  url: https://doi.org/10.1111/ajps.12229
+  serial-number:
+    doi: 10.1111/ajps.12229
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 4
+    volume: 60
+Sweet1998:
+  type: article
+  title: '{Rules, dispute resolution, and strategic behavior}'
+  author: Stone Sweet, Alec
+  date: 1998
+  page-range: 327–338
+  url: https://doi.org/10.1177/0951692898010003006
+  serial-number:
+    doi: 10.1177/0951692898010003006
+  parent:
+    type: periodical
+    title: Journal of Theoretical Politics
+    issue: 3
+    volume: 10
+Vanberg1998:
+  type: article
+  title: '{Abstract judicial review, legislative bargaining, and policy compromise}'
+  author: Vanberg, Georg
+  date: 1998
+  page-range: 299–326
+  url: https://doi.org/10.1177/0951692898010003005
+  serial-number:
+    doi: 10.1177/0951692898010003005
+  parent:
+    type: periodical
+    title: Journal of Theoretical Politics
+    issue: 3
+    volume: 10
+Aydn2013:
+  type: article
+  title: '{Judicial independence across Democratic regimes: Understanding the varying impact of political competition}'
+  author: Aydın, Aylin
+  date: 2013
+  page-range: 105–134
+  url: https://doi.org/10.1111/lasr.12003
+  serial-number:
+    doi: 10.1111/lasr.12003
+  parent:
+    type: periodical
+    title: '{Law & Society Review}'
+    issue: 1
+    volume: 47
+Bverfg1:
+  type: report
+  title: '{Second Supplementary Budget Act 2021 is void}'
+  author: Bundesverfassungsgericht
+  date: 2023-11-15
+  publisher: Bundesverfassungsgericht
+  url: https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-101.html
+Bverfg2:
+  type: report
+  title: '{Application for preliminary injunction against transfer of EUR 60 billion borrowing authorisation to ‘Energy and Climate Fund’ rejected}'
+  author: Bundesverfassungsgericht
+  date: 2023-12-08
+  publisher: Bundesverfassungsgericht
+  url: https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2022/bvg22-104.html
+Hempel2023:
+  type: web
+  title: '{Wie die Ampel gegen das Grundgesetz verstieß}'
+  author: Hempel, Klaus
+  date: 2023-11-15
+  publisher: tagesschau
+  organization: tagesschau
+  url: https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-nachtragshaushalt-102.html
+BMW1:
+  type: web
+  title: '{Was ist eigentlich der Energie- und Klimafonds?}'
+  author: Bundesministerium für Wirtschaft und Klimaschutz
+  publisher: '{Bundesministerium für Wirtschaft und Klimaschutz}'
+  url: https://www.bmwk-energiewende.de/EWD/Redaktion/Newsletter/2020/04/Meldung/direkt-erklaert.html
+Schäfers2022:
+  type: web
+  title: '{Union verklagt Ampel wegen Nachtragshaushalt in Karlsruhe}'
+  author: Schäfers, Manfred
+  date: 2023-11-15
+  publisher: Frankfurter Allgemeine Zeitung
+  organization: tagesschau
+  url: https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-nachtragshaushalt-102.html
+FAZ2023:
+  type: web
+  title: '{„Größtes wirtschaftspolitisches Problem der Ampel“}'
+  author: Frankfurter Allgemeine Zeitung
+  date: 2023-11-15
+  url: https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/nach-bverfg-urteil-wird-bei-der-klimapolitik-gekuerzt-19315351-p2.html
+Easton1975:
+  type: article
+  title: '{A Re-Assessment of the Concept of Political Support}'
+  author: Easton, David
+  date: 1975
+  page-range: 435–457
+  url: https://doi.org/10.1017/s0007123400008309
+  serial-number:
+    doi: 10.1017/s0007123400008309
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 4
+    volume: 5
+Caldeira1992:
+  type: article
+  title: '{The etiology of public support for the Supreme Court}'
+  author:
+  - Caldeira, Gregory A.
+  - Gibson, James L.
+  date: 1992
+  page-range: 635–664
+  url: https://doi.org/10.2307/2111585
+  serial-number:
+    doi: 10.2307/2111585
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 3
+    volume: 36
+Pew2023:
+  type: web
+  title: '{Favorable views of Supreme Court fall to historic low}'
+  author:
+  - Lin, Katy
+  - Doherty, Carrol
+  date: 2023-07-21
+  publisher: Pew Research Center
+  organization: Pew Research Center
+  url: https://www.pewresearch.org/short-reads/2023/07/21/favorable-views-of-supreme-court-fall-to-historic-low/
+NPR2022:
+  type: web
+  title: '{Supreme Court overturns Roe v. Wade, ending right to abortion upheld for decades}'
+  author:
+  - Totenberg, Nina
+  - McCammon, Sarah
+  date: 2022-06-24
+  publisher: NPR
+  organization: NPR
+  url: https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn
+Novak2020:
+  type: article
+  title: '{The Role of Courts in Remedying Climate Chaos: Transcending Judicial Nihilism and Taking Survival Seriously}'
+  author: Novak, Scott
+  date: 2020
+  page-range: 743–778
+  parent:
+    type: periodical
+    title: Georgetown Environmental Law Review
+    issue: 4
+    volume: 32
+Louviere2000:
+  type: book
+  title: '{Stated Choice Methods: Analysis and Applications}'
+  author:
+  - Louviere, Jordan J.
+  - Hensher, David A.
+  - Swait, Joffre
+  - Adamowicz, Wiktor
+  date: 2000
+  publisher: Cambridge University Press
+  url: https://doi.org/10.1017/cbo9780511753831
+  serial-number:
+    doi: 10.1017/cbo9780511753831
+Vanberg2005:
+  type: book
+  title: '{The Politics of Constitutional Review in Germany}'
+  author: Vanberg, Georg
+  date: 2005
+  publisher: Cambridge University Press
+  organization: Cambridge University Press
+Krehbiel2019:
+  type: article
+  title: '{Elections, Public Awareness, and the Efficacy of Constitutional Review}'
+  author: Krehbiel, Jay N.
+  date: 2019
+  page-range: 53–79
+  url: https://doi.org/10.1086/699241
+  serial-number:
+    doi: 10.1086/699241
+  parent:
+    type: periodical
+    title: Journal of Law and Courts
+    issue: 1
+    volume: 7
+Chua2016:
+  type: article
+  title: '{Judicial Review of Executive Power in the Singaporean Context, 1965–2012}'
+  author:
+  - Chua, Lynette J.
+  - Haynie, Stacia L.
+  date: 2016
+  page-range: 43–64
+  url: https://doi.org/10.1086/684628
+  serial-number:
+    doi: 10.1086/684628
+  parent:
+    type: periodical
+    title: '{Journal of Law and Courts}'
+    issue: 1
+    volume: 4
+Helmke2002:
+  type: article
+  title: '{The Logic of Strategic Defection: Court–Executive relations in Argentina under dictatorship and democracy}'
+  author: Helmke, Gretchen
+  date: 2002
+  page-range: 291–303
+  url: https://doi.org/10.1017/s0003055402000175
+  serial-number:
+    doi: 10.1017/s0003055402000175
+  parent:
+    type: periodical
+    title: '{American Political Science Review}'
+    issue: 2
+    volume: 96
+Kanno-Younges2022:
+  type: web
+  title: '{A Battle Over How to Battle Over Roe: Protests at Justices'' Homes Fuel Rancor}'
+  author: Kanno-Younges, Zolan
+  date: 2022-05-12
+  organization: The New York Times
+  url: https://www.nytimes.com/2022/05/12/us/politics/abortion-protests-supreme-court-justices.html
+CBS2022:
+  type: web
+  title: '{Supreme Courts marshal want crack down on picketing, protests outside justices'' homes}'
+  author:
+  - CBS
+  - AP
+  date: 2022-07-03
+  organization: CBS News
+  url: https://www.cbsnews.com/news/supreme-court-marshal-wants-crack-down-on-picketing-protests-outside-justices-homes/
+Olson2022:
+  type: web
+  title: '{McConnell, Grassley slam protests outside justices'' homes, say lawbreakers ''must be held accountable''}'
+  author: Olson, Tyler
+  date: 2022-05-09
+  organization: Fox News
+  url: https://www.foxnews.com/politics/senate-republicans-grassley-mcconnell-supreme-court-abortion-roe-protests
+Ward2024:
+  type: web
+  title: '{Eco protesters cannot claim a ''climate emergency'' as justification for vandalism, the UK''s most senior judge rules}'
+  author: Ward, Alex
+  date: 2024-03-19
+  organization: MailOnline
+  url: https://www.dailymail.co.uk/news/article-13212441/Eco-protesters-climate-emergency-vandalism-judge-rules.html
+Connoly2023:
+  type: web
+  title: '{German police stage nationwide raids against climate activists}'
+  author: Connoly, Kate
+  date: 2023-05-24
+  organization: The Guardian
+  url: https://www.theguardian.com/world/2023/may/24/german-police-stage-nationwide-raids-against-climate-activists
+Frost2023:
+  type: web
+  title: '{German climate activists stage 10th day of controversial protests in Berlin}'
+  author: Frost, Rosie
+  date: 2023-04-28
+  organization: Euronews
+  url: https://www.euronews.com/green/2023/04/28/german-climate-activists-stage-10th-day-of-controversial-protests-in-berlin
+Gibson2024b:
+  type: article
+  title: '{Do the Effects of Unpopular Supreme Court Rulings Linger? The Dobbs Decision Rescinding Abortion Rights}'
+  author: Gibson, James L.
+  date: 2024-03-22
+  page-range: 1–8
+  url: https://doi.org/10.1017/s0003055424000169
+  serial-number:
+    doi: 10.1017/s0003055424000169
+  parent:
+    type: periodical
+    title: '{The American Political Science Review}'
+Easton1967:
+  type: book
+  title: '{A Systems Analysis of Political Life}'
+  author: Easton, David
+  date: 1967
+  publisher: Wiley
+Gamson1968:
+  type: book
+  title: '{Power and Discontent}'
+  author: Gamson, William A.
+  date: 1968
+  publisher: Dorsey
+Boynton1968:
+  type: article
+  title: '{The Structure of Public Support for Legislative Institutions}'
+  author:
+  - Boynton, G. R.
+  - Patterson, Samuel C.
+  - Hedlund, Ronald D.
+  date: 1968
+  page-range: 163
+  url: https://doi.org/10.2307/2110331
+  serial-number:
+    doi: 10.2307/2110331
+  parent:
+    type: periodical
+    title: '{Midwest Journal of Political Science}'
+    issue: 2
+    volume: 12
+Wahlke1971:
+  type: article
+  title: '{Policy Demands and System Support: The Role of the Represented}'
+  author: Wahlke, John C.
+  date: 1971
+  page-range: 271–290
+  url: https://doi.org/10.1017/s0007123400009121
+  serial-number:
+    doi: 10.1017/s0007123400009121
+  parent:
+    type: periodical
+    title: British journal of political science (Print)
+    issue: 3
+    volume: 1
+Christenson2015:
+  type: article
+  title: '{Chief Justice Roberts''s Health Care Decision Disrobed: The Microfoundations of the Supreme Court''s Legitimacy}'
+  author:
+  - Christenson, Dino P.
+  - Glick, David
+  date: 2015
+  page-range: 403–418
+  url: https://doi.org/10.1111/ajps.12150
+  serial-number:
+    doi: 10.1111/ajps.12150
+  parent:
+    type: periodical
+    title: American journal of political science
+    issue: 2
+    volume: 59
+Crawford2012:
+  type: web
+  title: '{Roberts switched view to uphold health care law}'
+  author: Crawford, Jan
+  date: 2012-07-02
+  organization: CBS News
+  url: https://www.cbsnews.com/news/roberts-switched-views-to-uphold-health-care-law/
+Hensley2012:
+  type: web
+  title: '{Health Law Survives With Roberts'' Vote}'
+  author: Hensely, Scott
+  date: 2012-06-28
+  organization: NPR
+  url: https://www.npr.org/sections/health-shots/2012/06/18/155269171/supreme-court-upholds-care-health-law-rules-mandate-is-a-tax
+Gibson2024a:
+  type: article
+  title: '{Losing legitimacy: The challenges of the Dobbs ruling to conventional legitimacy theory}'
+  author: Gibson, James L.
+  date: 2024-02-06
+  page-range: 1–16
+  url: https://doi.org/10.1111/ajps.12834
+  serial-number:
+    doi: 10.1111/ajps.12834
+  parent:
+    type: periodical
+    title: '{American Journal of Political Science}'
+Segal2002:
+  type: book
+  title: '{The Supreme Court and the Attitudinal Model Revisited}'
+  author:
+  - Segal, Jeffrey A.
+  - Spaeth, Harold J.
+  date: 2002
+  publisher: Cambridge University Press
+  url: https://doi.org/10.1017/cbo9780511615696
+  serial-number:
+    doi: 10.1017/cbo9780511615696
+Bonica2021:
+  type: article
+  title: E{stimating Judicial Ideology}
+  author:
+  - Bonica, Adam
+  - Sen, Maya
+  date: 2021-02-01
+  page-range: 97–118
+  url: https://doi.org/10.1257/jep.35.1.97
+  serial-number:
+    doi: 10.1257/jep.35.1.97
+  parent:
+    type: periodical
+    title: Journal of Economic Perspectives
+    issue: 1
+    volume: 35
+Gibson2014:
+  type: article
+  title: '{Losing, but Accepting: Legitimacy, Positivity Theory, and the Symbols of Judicial Authority}'
+  author:
+  - Gibson, James L.
+  - Lodge, Milton
+  - Woodson, Benjamin
+  date: 2014-12-01
+  page-range: 837–866
+  url: https://doi.org/10.1111/lasr.12104
+  serial-number:
+    doi: 10.1111/lasr.12104
+  parent:
+    type: periodical
+    title: '{Law & Society Review}'
+    issue: 4
+    volume: 48
+Gibson2009:
+  type: book
+  title: '{Citizens, Courts, and Confirmations: Positivity Theory and the Judgments of the American People}'
+  author:
+  - Gibson, James L.
+  - Caldeira, Gregory A.
+  date: 2009
+  publisher: Princeton University Press
+  url: http://www.jstor.org/stable/j.ctt7s49r
+Lodge2013:
+  type: book
+  title: '{The Rationalizing Voter}'
+  author:
+  - Lodge, Milton
+  - Taber, Charles S.
+  date: 2013
+  publisher: '{Cambridge University Press}'
+  url: https://doi.org/10.1017/cbo9781139032490
+  serial-number:
+    doi: 10.1017/cbo9781139032490
+Skitka2021:
+  type: article
+  title: '{The Psychology of Moral Conviction}'
+  author:
+  - Skitka, Linda J.
+  - Hanson, Brittany E.
+  - Morgan, G. Scott
+  - Wisneski, Daniel C.
+  date: 2021-01-04
+  page-range: 347–366
+  url: https://doi.org/10.1146/annurev-psych-063020-030612
+  serial-number:
+    doi: 10.1146/annurev-psych-063020-030612
+  parent:
+    type: periodical
+    title: Annual Review of Psychology
+    issue: 1
+    volume: 72
+Mullen2008:
+  type: article
+  title: '{Moral spillovers: The effect of moral violations on deviant behavior}'
+  author:
+  - Mullen, Elizabeth
+  - Nadler, Janice
+  date: 2008-09-01
+  page-range: 1239–1245
+  url: https://doi.org/10.1016/j.jesp.2008.04.001
+  serial-number:
+    doi: 10.1016/j.jesp.2008.04.001
+  parent:
+    type: periodical
+    title: Journal of Experimental Social Psychology
+    issue: 5
+    volume: 44
+jpdata:
+  type: repository
+  title: '{Replication Data for: Evaluating Excuses: How the Public Judges Noncompliance}'
+  author:
+  - Nelson, Micahel
+  - Driscoll, Amanda
+  - Krehbiel, Jay
+  - Samarth, Taran
+  date: 2023
+  publisher: Harvard Dataverse
+  url: https://doi.org/10.7910/DVN/TIYVXH
+BVGCorona:
+  type: web
+  title: '{Unsuccessful constitutional complaint challenging the obligation for staff in the health and care sectors to provide proof of vaccination against COVID-19}'
+  author: Bundesverfassungsgericht
+  date: 2022
+Oliver2014:
+  type: article
+  title: '{Conspiracy Theories and the Paranoid Style(s) of Mass Opinio}n'
+  author:
+  - Oliver, James E.
+  - Wood, Thomas J.
+  date: 2014-03-05
+  page-range: 952–966
+  url: https://doi.org/10.1111/ajps.12084
+  serial-number:
+    doi: 10.1111/ajps.12084
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 4
+    volume: 58
+Gensing2020:
+  type: web
+  title: '{Proteste gegen Corona-Maßnahmen: Einfache Erklärungen, klare Feindbilder}'
+  author: Gensing, Patrick
+  date: 2020-05-01
+  organization: ARD
+  url: https://www.tagesschau.de/investigativ/corona-demos-105.html
+Hegre2020:
+  type: article
+  title: '{Civil society and the democratic peace}'
+  author:
+  - Hegre, Håvard
+  - Bernhard, Michaël
+  - Teorell, Jan
+  date: 2020
+  page-range: 32–62
+  url: https://doi.org/10.1177/0022002719850620
+  serial-number:
+    doi: 10.1177/0022002719850620
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 1
+    volume: 64
+Reiter2017:
+  type: article
+  title: '{Is democracy a cause of peace?}'
+  author: Reiter, Dan
+  date: 2017
+  url: https://doi.org/10.1093/acrefore/9780190228637.013.287
+  serial-number:
+    doi: 10.1093/acrefore/9780190228637.013.287
+  parent:
+    type: periodical
+    title: Oxford Research Encyclopedia of Politics
+Colgan2021:
+  type: article
+  title: '{Oil and Security: the necessity of political economy}'
+  author: Colgan, Jeff D.
+  date: 2021
+  url: https://doi.org/10.1093/jogss/ogaa008
+  serial-number:
+    doi: 10.1093/jogss/ogaa008
+  parent:
+    type: periodical
+    title: Journal of Global Security Studies
+    issue: 1
+    volume: 6
+Schneider2014:
+  type: article
+  title: '{Peace through globalization and capitalism? Prospects of two liberal propositions}'
+  author: Schneider, Gerald
+  date: 2014
+  page-range: 173–183
+  url: https://doi.org/10.1177/0022343313497739
+  serial-number:
+    doi: 10.1177/0022343313497739
+  parent:
+    type: periodical
+    title: Journal of Peace Research
+    issue: 2
+    volume: 51
+Denny2014:
+  type: article
+  title: '{Ethnicity and civil war}'
+  author:
+  - Denny, Elaine K.
+  - Walter, Barbara F.
+  date: 2014
+  page-range: 199–212
+  url: https://doi.org/10.1177/0022343313512853
+  serial-number:
+    doi: 10.1177/0022343313512853
+  parent:
+    type: periodical
+    title: Journal of Peace Research
+    issue: 2
+    volume: 51
+Cederman2017:
+  type: article
+  title: '{Dynamics and logics of Civil War}'
+  author:
+  - Cederman, Lars‐Erik
+  - Vogt, Manuel
+  date: 2017
+  page-range: 1992–2016
+  url: https://doi.org/10.1177/0022002717721385
+  serial-number:
+    doi: 10.1177/0022002717721385
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 9
+    volume: 61
+Bernauer2013:
+  type: article
+  title: '{Climate change politics}'
+  author: Bernauer, Thomas
+  date: 2013
+  page-range: 421–448
+  url: https://doi.org/10.1146/annurev-polisci-062011-154926
+  serial-number:
+    doi: 10.1146/annurev-polisci-062011-154926
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 16
+Mitchell2009:
+  type: book
+  title: '{International politics and the environment}'
+  author: Mitchell, R. Judson
+  date: 2009
+  publisher: Sage Publications
+  url: https://doi.org/10.4135/9781446269503
+  serial-number:
+    doi: 10.4135/9781446269503
+Koubi2019:
+  type: article
+  title: '{Climate change and conflict}'
+  author: Koubi, Vally
+  date: 2019
+  page-range: 343–360
+  url: https://doi.org/10.1146/annurev-polisci-050317-070830
+  serial-number:
+    doi: 10.1146/annurev-polisci-050317-070830
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 22
+Gleditsch2021:
+  type: article
+  title: '{This time is different! Or is it? NeoMalthusians and environmental optimists in the age of climate change}'
+  author: Gleditsch, Nils Petter
+  date: 2021
+  page-range: 177–185
+  url: https://doi.org/10.1177/0022343320969785
+  serial-number:
+    doi: 10.1177/0022343320969785
+  parent:
+    type: periodical
+    title: Journal of Peace Research
+    issue: 1
+    volume: 58
+Ross2015:
+  type: article
+  title: '{What have we learned about the resource curse?}'
+  author: Ross, Michael L.
+  date: 2015
+  page-range: 239–259
+  url: https://doi.org/10.1146/annurev-polisci-052213-040359
+  serial-number:
+    doi: 10.1146/annurev-polisci-052213-040359
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 18
+Bakaki2022:
+  type: article
+  title: '{Carbon Emission Performance and Regime Type: The role of Inequality}'
+  author:
+  - Bakaki, Zorzeta
+  - Böhmelt, Tobias
+  - Ward, Hugh
+  date: 2022
+  page-range: 156–179
+  url: https://muse.jhu.edu/article/853334
+  serial-number:
+    doi: 10.1162/glep_a_00656
+  parent:
+    type: periodical
+    title: Global Environmental Politics
+    issue: 2
+    volume: 22
+Dörffel2023:
+  type: article
+  title: '{The poverty effect of democratization}'
+  author:
+  - Dörffel, Christoph
+  - Freytag, Andreas
+  date: 2023
+  page-range: Article106186
+  url: https://doi.org/10.1016/j.worlddev.2023.106186
+  serial-number:
+    doi: 10.1016/j.worlddev.2023.106186
+  parent:
+    type: periodical
+    title: World Development
+    volume: 165
+Smidt2020:
+  type: article
+  title: '{United Nations Peacekeeping locally: Enabling conflict resolution, reducing communal violence}'
+  author: Smidt, Hannah
+  date: 2020
+  page-range: 344–372
+  url: https://doi.org/10.1177/0022002719859631
+  serial-number:
+    doi: 10.1177/0022002719859631
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 2–3
+    volume: 64
+Mross2022:
+  type: article
+  title: '{Identifying Pathways to Peace: How international support can help prevent conflict recurrence}'
+  author:
+  - Mroß, Karina
+  - Fiedler, Charlotte
+  - Grävingholt, Jörn
+  date: 2022
+  url: https://doi.org/10.1093/isq/sqab091
+  serial-number:
+    doi: 10.1093/isq/sqab091
+  parent:
+    type: periodical
+    title: International Studies Quarterly
+    issue: 1
+    volume: 66
+Walter2020:
+  type: article
+  title: '{The extraordinary relationship between peacekeeping and peace}'
+  author:
+  - Walter, Barbara F.
+  - Howard, Lise Morjé
+  - Fortna, Virginia Page
+  date: 2020
+  page-range: 1705–1722
+  url: https://doi.org/10.1017/s000712342000023x
+  serial-number:
+    doi: 10.1017/s000712342000023x
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 4
+    volume: 51
+UN2023:
+  type: report
+  title: '{The Sustainable Development Goals Report 2023: Special edition}'
+  author: United Nations Department of Economic and Social Affairs
+  date: 2023
+  url: https://unstats.un.org/sdgs/report/2023/
+Acemoglu2019:
+  type: article
+  title: '{Democracy does cause growth}'
+  author:
+  - Acemoğlu, Daron
+  - Naidu, Suresh
+  - Restrepo, Pascual
+  - Robinson, James A.
+  date: 2019
+  page-range: 47–100
+  url: https://doi.org/10.1086/700936
+  serial-number:
+    doi: 10.1086/700936
+  parent:
+    type: periodical
+    title: Journal of Political Economy
+    issue: 1
+    volume: 127
+Jorda2005:
+  type: article
+  title: '{Estimation and inference of impulse responses by local projections}'
+  author: Jordà, Òscar
+  date: 2005
+  page-range: 161–182
+  url: https://doi.org/10.1257/0002828053828518
+  serial-number:
+    doi: 10.1257/0002828053828518
+  parent:
+    type: periodical
+    title: The American Economic Review
+    issue: 1
+    volume: 95
+Kline2011:
+  type: article
+  title: Oaxaca-Blinder as a Reweighting Estimator
+  author: Kline, Patrick
+  date: 2011
+  page-range: 532–37
+  url: https://www.aeaweb.org/articles?id=10.1257/aer.101.3.532
+  serial-number:
+    doi: 10.1257/aer.101.3.532
+  parent:
+    type: periodical
+    title: American Economic Review
+    issue: 3
+    volume: 101
+Angrist2011:
+  type: article
+  title: '{Causal effects of monetary shocks: semiparametric conditional independence tests with a multinomial propensity score}'
+  author:
+  - Angrist, Joshua D.
+  - Kuersteiner, Guido M.
+  date: 2011
+  page-range: 725–747
+  url: https://doi.org/10.1162/rest_a_00109
+  serial-number:
+    doi: 10.1162/rest_a_00109
+  parent:
+    type: periodical
+    title: The Review of Economics and Statistics
+    issue: 3
+    volume: 93
+Angrist2018:
+  type: article
+  title: '{Semiparametric Estimates of Monetary Policy Effects: String Theory Revisited}'
+  author:
+  - Angrist, Joshua D.
+  - Jordà, Òscar
+  - Kuersteiner, Guido M.
+  date: 2018
+  page-range: 371–387
+  url: https://doi.org/10.1080/07350015.2016.1204919
+  serial-number:
+    doi: 10.1080/07350015.2016.1204919
+  parent:
+    type: periodical
+    title: '{Journal of Business & Economic Statistics}'
+    issue: 3
+    volume: 36
+Colagrossi2020:
+  type: article
+  title: '{Does democracy cause Growth? A Meta-analysis (of 2000 regressions)}'
+  author:
+  - Colagrossi, Marco
+  - Rossignoli, Domenico
+  - Maggioni, Mario A.
+  date: 2020
+  page-range: 101824
+  url: https://doi.org/10.1016/j.ejpoleco.2019.101824
+  serial-number:
+    doi: 10.1016/j.ejpoleco.2019.101824
+  parent:
+    type: periodical
+    title: European Journal of Political Economy
+    volume: 61
+Martin2013:
+  type: chapter
+  title: '{Interational Organization and Institutions}'
+  author:
+  - Martin, Lisa
+  - Simmons, Beth A.
+  date: 2013
+  editor:
+  - Carlnaes, Walter
+  - Risse, Thomas
+  - Simmons, Beth A.
+  page-range: 326–352
+  parent:
+    type: book
+    title: '{Handbooks of International Relations}'
+    publisher: SAGE Publications
+Baccini2015:
+  type: article
+  title: '{The Politics of Trade Agreement Design: Revisiting the Depth–Flexibility Nexus}'
+  author:
+  - Baccini, Leonardo
+  - Dür, Andreas
+  - Elsig, Manfred
+  date: 2015
+  page-range: 765–775
+  url: https://doi.org/10.1111/isqu.12188
+  serial-number:
+    doi: 10.1111/isqu.12188
+    issn: 0020-8833
+  parent:
+    type: periodical
+    title: International Studies Quarterly
+    issue: 4
+    volume: 59
+Downs1996:
+  type: article
+  title: Is the good news about compliance good news about cooperation?
+  author:
+  - Downs, George W.
+  - Rocke, David M.
+  - Barsoom, Peter N.
+  date: 1996
+  page-range: 379–406
+  serial-number:
+    doi: 10.1017/S0020818300033427
+  parent:
+    type: periodical
+    title: International Organization
+    publisher: Cambridge University Press
+    issue: 3
+    volume: 50
+Oatley2023:
+  type: book
+  title: '{International Political Economy}'
+  author: Oatley, Thomas
+  date: 2023
+  publisher: Routledge
+  edition: 7
+Kim2019:
+  type: article
+  title: '{Firms in trade and trade politics}'
+  author:
+  - Kim, In Song
+  - Osgood, Iain
+  date: 2019
+  page-range: 399–417
+  url: https://doi.org/10.1146/annurev-polisci-050317-063728
+  serial-number:
+    doi: 10.1146/annurev-polisci-050317-063728
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 22
+Chapin1938:
+  type: article
+  title: '{Design for social experiments}'
+  author: Chapin, F. Stuart
+  date: 1938
+  page-range: 786
+  url: https://doi.org/10.2307/2084712
+  serial-number:
+    doi: 10.2307/2084712
+  parent:
+    type: periodical
+    title: American Sociological Review
+    issue: 6
+    volume: 3
+Ho2007:
+  type: article
+  title: Matching as Nonparametric Preprocessing for Reducing Model Dependence in Parametric Causal Inference
+  author:
+  - Ho, Daniel E.
+  - Imai, Kosuke
+  - King, Gary
+  - Stuart, Elizabeth A.
+  date: 2007
+  page-range: 199–236
+  serial-number:
+    doi: 10.1093/pan/mpl013
+  parent:
+    type: periodical
+    title: Political Analysis
+    publisher: Cambridge University Press
+    issue: 3
+    volume: 15
+Dunning2012:
+  type: book
+  title: '{Natural experiments in the Social Sciences}'
+  author: Dunning, Thad
+  date: 2012
+  publisher: Cambridge University Press
+  url: https://doi.org/10.1017/cbo9781139084444
+  serial-number:
+    doi: 10.1017/cbo9781139084444
+Doherty2006:
+  type: article
+  title: '{Personal Income and Attitudes Toward Redistribution: A study of lottery winners}'
+  author:
+  - Doherty, Daniel
+  - Gerber, Alan S.
+  - Green, Donald P.
+  date: 2006
+  page-range: 441–458
+  url: https://doi.org/10.1111/j.1467-9221.2006.00509.x
+  serial-number:
+    doi: 10.1111/j.1467-9221.2006.00509.x
+  parent:
+    type: periodical
+    title: Political Psychology
+    issue: 3
+    volume: 27
+Krasno2008:
+  type: article
+  title: '{Do televised presidential ads increase voter turnout? Evidence from a natural experiment}'
+  author:
+  - Krasno, Jonathan S.
+  - Green, Donald P.
+  date: 2008
+  page-range: 245–261
+  url: https://doi.org/10.1017/s0022381607080176
+  serial-number:
+    doi: 10.1017/s0022381607080176
+  parent:
+    type: periodical
+    title: The Journal of Politics
+    issue: 1
+    volume: 70
+Mccauley2015:
+  type: article
+  title: '{African borders as sources of natural experiments promise and pitfalls}'
+  author:
+  - McCauley, John F.
+  - Posner, Daniel N.
+  date: 2015
+  page-range: 409–418
+  url: https://doi.org/10.1017/psrm.2014.37
+  serial-number:
+    doi: 10.1017/psrm.2014.37
+  parent:
+    type: periodical
+    title: Political Science Research and Methods
+    issue: 2
+    volume: 3
+Thistlethwaite1960:
+  type: article
+  title: '{Regression-discontinuity analysis: an alternative to the ex post facto experiment.}'
+  author:
+  - Thistlethwaite, Donald L.
+  - Campbell, Donald T.
+  date: 1960
+  page-range: 309–317
+  url: https://doi.org/10.1037/h0044319
+  serial-number:
+    doi: 10.1037/h0044319
+  parent:
+    type: periodical
+    title: Journal of Educational Psychology
+    issue: 6
+    volume: 51
+Imbens2008:
+  type: article
+  title: '{Regression Discontinuity Designs: A Guide to Practice}'
+  author:
+  - Imbens, Guido W.
+  - Lemieux, Thomas
+  date: 2008
+  page-range: 615–635
+  url: https://doi.org/10.1016/j.jeconom.2007.05.001
+  serial-number:
+    doi: 10.1016/j.jeconom.2007.05.001
+  parent:
+    type: periodical
+    title: Journal of Econometrics
+    issue: 2
+    volume: 142
+Holland1986:
+  type: article
+  title: '{Statistics and causal inference}'
+  author: Holland, Paul W.
+  date: 1986
+  page-range: 945–960
+  url: https://doi.org/10.1080/01621459.1986.10478354
+  serial-number:
+    doi: 10.1080/01621459.1986.10478354
+  parent:
+    type: periodical
+    title: Journal of the American Statistical Association
+    issue: 396
+    volume: 81
+Rubin1977:
+  type: article
+  title: '{Assignment to treatment group on the basis of a covariate}'
+  author: Rubin, Donald B.
+  date: 1977
+  page-range: 1–26
+  url: https://doi.org/10.2307/1164933
+  serial-number:
+    doi: 10.2307/1164933
+  parent:
+    type: periodical
+    title: Journal of educational statistics
+    issue: 1
+    volume: 2
+Rubin1974:
+  type: article
+  title: '{Estimating causal effects of treatments in randomized and nonrandomized studies.}'
+  author: Rubin, Donald B.
+  date: 1974
+  page-range: 688–701
+  url: https://doi.org/10.1037/h0037350
+  serial-number:
+    doi: 10.1037/h0037350
+  parent:
+    type: periodical
+    title: Journal of Educational Psychology
+    issue: 5
+    volume: 66
+Angrist1990:
+  type: article
+  title: '{Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records}'
+  author: Angrist, Joshua D.
+  date: 1990
+  page-range: 313–336
+  url: https://www.jstor.org/stable/2006669
+  parent:
+    type: periodical
+    title: The American Economic Review
+    issue: 3
+    volume: 80
+Angrist1996:
+  type: article
+  title: '{Identification of Causal Effects Using Instrumental Variables}'
+  author:
+  - Angrist, Joshua D.
+  - Imbens, Guido W.
+  - Rubin, Donald B.
+  date: 1996
+  page-range: 444–455
+  url: https://www.tandfonline.com/doi/abs/10.1080/01621459.1996.10476902
+  serial-number:
+    doi: 10.1080/01621459.1996.10476902
+  parent:
+    type: periodical
+    title: Journal of the American Statistical Association
+    publisher: '{Taylor & Francis}'
+    issue: 434
+    volume: 91
+Aytac2017:
+  type: article
+  title: '{Why do people join backlash protests? Lessons from Turkey}'
+  author:
+  - Aytaç, S. Erdem
+  - Schiumerini, Luis
+  - Stokes, Susan C.
+  date: 2017
+  page-range: 1205–1228
+  url: https://doi.org/10.1177/0022002716686828
+  serial-number:
+    doi: 10.1177/0022002716686828
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 6
+    volume: 62
+Shadish2002:
+  type: book
+  title: '{Experimental and quasi-experimental designs for generalized causal inference}'
+  author:
+  - Shadish, William R.
+  - Cook, Thomas D.
+  - Campbell, Donald Thomas
+  date: 2002
+  publisher: Cengage Learning
+Imai2011:
+  type: article
+  title: '{Unpacking the black box of causality: learning about causal mechanisms from experimental and observational studies}'
+  author:
+  - Imai, Kosuke
+  - Keele, Luke
+  - Tingley, Dustin
+  - Yamamoto, Teppei
+  date: 2011
+  page-range: 765–789
+  url: https://doi.org/10.1017/s0003055411000414
+  serial-number:
+    doi: 10.1017/s0003055411000414
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 4
+    volume: 105
+Pearl2009:
+  type: book
+  title: '{Causality: Models, Reasoning and Inference}'
+  author: Pearl, Judea
+  date: 2009
+  publisher: '{Cambridge University Press}'
+  edition: 2
+  url: https://doi.org/10.1017/cbo9780511803161
+  serial-number:
+    doi: 10.1017/cbo9780511803161
+Baron1986:
+  type: article
+  title: '{The Moderator–Mediator Variable Distinction in Social Psychological Research: conceptual, strategic, and statistical considerations.}'
+  author:
+  - Baron, Reuben M.
+  - Kenny, David A.
+  date: 1986
+  page-range: 1173–1182
+  url: https://doi.org/10.1037/0022-3514.51.6.1173
+  serial-number:
+    doi: 10.1037/0022-3514.51.6.1173
+  parent:
+    type: periodical
+    title: Journal of Personality and Social Psychology
+    issue: 6
+    volume: 51
+Pearl2014:
+  type: article
+  title: '{The deductive approach to causal inference}'
+  author: Pearl, Judea
+  date: 2014
+  page-range: 115–129
+  url: https://doi.org/10.1515/jci-2014-0016
+  serial-number:
+    doi: 10.1515/jci-2014-0016
+  parent:
+    type: periodical
+    title: Journal of causal inference
+    issue: 2
+    volume: 2
+Lijphart1971:
+  type: article
+  title: '{Comparative Politics and the Comparative Method}'
+  author: Lijphart, Arend
+  date: 1971
+  page-range: 682–693
+  url: https://doi.org/10.2307/1955513
+  serial-number:
+    doi: 10.2307/1955513
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 3
+    volume: 65
+Przeworski1970:
+  type: book
+  title: '{The Logic of Comparative Social Inquiry}'
+  author:
+  - Przeworski, Adam
+  - Teune, Henry
+  date: 1970
+  publisher: Wiley
+Nielsen2016:
+  type: article
+  title: '{Case selection via matching}'
+  author: Nielsen, Richard A.
+  date: 2016
+  page-range: 569–597
+  url: https://doi.org/10.1177/0049124114547054
+  serial-number:
+    doi: 10.1177/0049124114547054
+  parent:
+    type: periodical
+    title: Sociological Methods {&} Research
+    issue: 3
+    volume: 45
+Abadie2003:
+  type: article
+  title: '{The Economic Costs of Conflict: A case study of the Basque Country}'
+  author:
+  - Abadie, Alberto
+  - Gardeazábal, Javier
+  date: 2003
+  page-range: 113–132
+  url: https://doi.org/10.1257/000282803321455188
+  serial-number:
+    doi: 10.1257/000282803321455188
+  parent:
+    type: periodical
+    title: The American Economic Review
+    issue: 1
+    volume: 93
+Xu2017:
+  type: article
+  title: '{Generalized Synthetic Control Method: causal inference with interactive fixed effects models}'
+  author: Xu, Yiqing
+  date: 2017
+  page-range: 57–76
+  url: https://doi.org/10.1017/pan.2016.2
+  serial-number:
+    doi: 10.1017/pan.2016.2
+  parent:
+    type: periodical
+    title: Political Analysis
+    issue: 1
+    volume: 25
+Leuffen2022:
+  type: book
+  title: '{Integration and differentiation in the European Union. Theories and Policies}'
+  author:
+  - Leuffen, Dirk
+  - Rittberger, Berthold
+  - Schimmelfennig, Frank
+  date: 2022
+  publisher: Palgrave Macmillan
+  edition: 2
+  url: https://doi.org/10.1007/978-3-030-76677-1
+  serial-number:
+    doi: 10.1007/978-3-030-76677-1
+Chiocchetti2023:
+  type: article
+  title: '{A Quantitative Analysis of Legal Integration and Differentiation in the European Union, 1958–2020}'
+  author: Chiocchetti, Paolo
+  date: 2023
+  page-range: 1337–1359
+  url: https://doi.org/10.1111/jcms.13467
+  serial-number:
+    doi: 10.1111/jcms.13467
+  parent:
+    type: periodical
+    title: 'JCMS: Journal of Common Market Studies'
+    issue: 5
+    volume: 61
+Winzen2015:
+  type: article
+  title: '{From Capacity to Sovereignty: Legislative politics and differentiated integration in the European Union}'
+  author: Winzen, Thomas
+  date: 2015
+  page-range: 100–119
+  url: https://doi.org/10.1111/1475-6765.12124
+  serial-number:
+    doi: 10.1111/1475-6765.12124
+  parent:
+    type: periodical
+    title: European Journal of Political Research
+    issue: 1
+    volume: 55
+EUI2021:
+  type: web
+  title: '{EU Legislation}'
+  author: European University Institute
+  date: 2021-04-15
+  url: https://www.eui.eu/Research/Library/ResearchGuides/EuropeanInformation/EU-Legislation
+Hix2011:
+  type: article
+  title: '{Second-order effects plus pan-European political swings: An analysis of European parliament elections across time}'
+  author:
+  - Hix, Simon
+  - Marsh, Michael
+  date: 2011
+  page-range: 4–15
+  url: https://doi.org/10.1016/j.electstud.2010.09.017
+  serial-number:
+    doi: 10.1016/j.electstud.2010.09.017
+  parent:
+    type: periodical
+    title: Electoral Studies
+    issue: 1
+    volume: 30
+Hix2009:
+  type: article
+  title: '{After enlargement: Voting patterns in the sixth European Parliament}'
+  author:
+  - Hix, Simon
+  - Noury, Abdul
+  date: 2009
+  page-range: 159–174
+  url: https://doi.org/10.3162/036298009788314282
+  serial-number:
+    doi: 10.3162/036298009788314282
+  parent:
+    type: periodical
+    title: Legislative Studies Quarterly
+    issue: 2
+    volume: 34
+Schimmelfennig2022:
+  type: article
+  title: '{Differentiated integration in the European Union: institutional effects, public opinion, and alternative flexibility arrangements}'
+  author:
+  - Schimmelfennig, Frank
+  - Leuffen, Dirk
+  - De Vries, Catherine E.
+  date: 2022
+  page-range: 3–20
+  url: https://doi.org/10.1177/14651165221119083
+  serial-number:
+    doi: 10.1177/14651165221119083
+  parent:
+    type: periodical
+    title: European Union Politics
+    issue: 1
+    volume: 24
+Schimmelfennig2023:
+  type: report
+  title: '{Differentiated EU Integration: Maps and Modes}'
+  author:
+  - Schimmelfennig, F.
+  - Winzen, T.
+  date: 2020
+  publisher: '{Roberts Schuman Centre for Advanced Studies}'
+  url: https://cadmus.eui.eu/handle/1814/66880
+Kleine2013:
+  type: book
+  title: '{Informal Governance in the European Union: How Governments Make International Organizations Work}'
+  author: Kleine, Mareike
+  date: 2013
+  publisher: Cornell University Press
+  page-range: 87–107
+  url: http://www.jstor.org/stable/10.7591/j.ctt32b5zm.10
+  serial-number:
+    isbn: '9780801452116'
+Leuffen2020:
+  type: article
+  title: '{Public support for differentiated integration: individual liberal values and concerns about member state discrimination}'
+  author:
+  - Leuffen, Dirk
+  - Schuessler, Julian
+  - Díaz, Jana Gómez
+  date: 2020
+  page-range: 218–237
+  url: https://doi.org/10.1080/13501763.2020.1829005
+  serial-number:
+    doi: 10.1080/13501763.2020.1829005
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 2
+    volume: 29
+Schuessler2022:
+  type: article
+  title: '{Mapping public support for the varieties of differentiated integration}'
+  author:
+  - Schuessler, Julian
+  - Heermann, Max
+  - Leuffen, Dirk
+  - De Blok, Lisanne
+  - De Vries, Catherine E.
+  date: 2022
+  page-range: 164–183
+  url: https://doi.org/10.1177/14651165221127633
+  serial-number:
+    doi: 10.1177/14651165221127633
+  parent:
+    type: periodical
+    title: European Union Politics
+    issue: 1
+    volume: 24
+Harish2018:
+  type: chapter
+  title: '{The Political Economy of Foreign Direct Investemnt to Developing Countries}'
+  author:
+  - Harish, Nikki
+  - Plouffe, Michael
+  date: 2018
+  editor: Hudson, David
+  parent:
+    type: book
+    title: '{Handbook of the International Political Economy of Development}'
+    edition: 1
+Wright2010:
+  type: article
+  title: '{The Politics of Effective Foreign Aid}'
+  author:
+  - Wright, Joseph
+  - Winters, Matthew S.
+  date: 2010
+  page-range: 61–80
+  url: https://doi.org/10.1146/annurev.polisci.032708.143524
+  serial-number:
+    doi: 10.1146/annurev.polisci.032708.143524
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 13
+Winters2014:
+  type: article
+  title: '{Targeting, Accountability and Capture in Development Projects}'
+  author: Winters, Matthew S.
+  date: 2014
+  page-range: 393–404
+  url: https://doi.org/10.1111/isqu.12075
+  serial-number:
+    doi: 10.1111/isqu.12075
+  parent:
+    type: periodical
+    title: International Studies Quarterly
+    issue: 2
+    volume: 58
+Sarkees2003:
+  type: article
+  title: '{Inter-State, Intra-State, and Extra-State Wars: A Comprehensive Look at Their Distribution over Time, 1816-1997}'
+  author:
+  - Sarkees, Meredith Reid
+  - Wayman, Frank Whelon
+  - Singer, J. David
+  date: 2003
+  page-range: 49–70
+  url: https://doi.org/10.1111/1468-2478.4701003
+  serial-number:
+    doi: 10.1111/1468-2478.4701003
+  parent:
+    type: periodical
+    title: International Studies Quarterly
+    issue: 1
+    volume: 47
+Jones1996:
+  type: article
+  title: '{Militarized Interstate Disputes, 1816–1992: Rationale, Coding Rules, and Empirical Patterns}'
+  author:
+  - Jones, Daniel M.
+  - Bremer, Stuart A.
+  - Singer, J. David
+  date: 1996
+  page-range: 163–213
+  url: https://doi.org/10.1177/073889429601500203
+  serial-number:
+    doi: 10.1177/073889429601500203
+  parent:
+    type: periodical
+    title: Conflict Management and Peace Science
+    issue: 2
+    volume: 15
+Levy2013:
+  type: chapter
+  title: '{Interstate War and Peace}'
+  author: Levy, Jack S.
+  date: 2013
+  editor:
+  - Carlesnaes, Walter
+  - Risse, Thomas
+  - Simmons, Beth A.
+  page-range: 581–606
+  parent:
+    type: book
+    title: '{Handbook of International Relations}'
+    publisher: '{SAGE Publications}'
+    edition: 2
+Tomz2020:
+  type: article
+  title: '{Public Opinion and Decisions About Military Force in Democracies}'
+  author:
+  - Tomz, Michael
+  - Weeks, Jessica L. P.
+  - Yarhi-Milo, Keren
+  date: 2020
+  page-range: 119–143
+  url: https://doi.org/10.1017/s0020818319000341
+  serial-number:
+    doi: 10.1017/s0020818319000341
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 1
+    volume: 74
+TomzWeeks2020:
+  type: article
+  title: '{Human Rights and Public Support for War}'
+  author:
+  - Tomz, Michael
+  - Weeks, Jessica L. P.
+  date: 2020
+  page-range: 182–194
+  url: https://doi.org/10.1086/705741
+  serial-number:
+    doi: 10.1086/705741
+  parent:
+    type: periodical
+    title: The Journal of Politics
+    issue: 1
+    volume: 82
+Tomz2013:
+  type: article
+  title: '{Public Opinion and the Democratic Peace}'
+  author:
+  - Tomz, Michael
+  - Weeks, Jessica L. P.
+  date: 2013
+  page-range: 849–865
+  url: https://doi.org/10.1017/s0003055413000488
+  serial-number:
+    doi: 10.1017/s0003055413000488
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 4
+    volume: 107
+Horowitz2015:
+  type: book
+  title: '{Why leaders fight}'
+  author:
+  - Horowitz, Michael C.
+  - Stam, Allan C.
+  - Ellis, Cali M.
+  date: 2015
+  publisher: Cambridge University Press
+Koch2011:
+  type: article
+  title: '{In the Defense of Women: Gender, Office Holding, and National Security Policy in Established Democracies}'
+  author:
+  - Koch, Michael T.
+  - Fulton, Sarah A.
+  date: 2011
+  page-range: 1–16
+  url: https://doi.org/10.1017/s0022381610000824
+  serial-number:
+    doi: 10.1017/s0022381610000824
+  parent:
+    type: periodical
+    title: The Journal of Politics
+    issue: 1
+    volume: 73
+Caprioli2001:
+  type: article
+  title: '{Gender, Violence, and International Crisis}'
+  author:
+  - Caprioli, Mary
+  - Boyer, Mark A.
+  date: 2001
+  page-range: 503–518
+  url: https://doi.org/10.1177/0022002701045004005
+  serial-number:
+    doi: 10.1177/0022002701045004005
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 4
+    volume: 45
+Cohen2022:
+  type: article
+  title: '{Does More Equality for Women Mean Less War? Rethinking Sex and Gender Inequality and Political Violence}'
+  author:
+  - Cohen, Dara Kay
+  - Karim, Sabrina
+  date: 2022
+  page-range: 414–444
+  url: https://doi.org/10.1017/s0020818321000333
+  serial-number:
+    doi: 10.1017/s0020818321000333
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 2
+    volume: 76
+Angell1912:
+  type: book
+  title: '{The Great Illusion: A study of the Relations of Military Power in Nations to Their Economic and Social Advantage}'
+  author: Angell, Norman
+  date: 1912
+  publisher: Heinemann
+Schumpeter1919:
+  type: book
+  title: '{Zur Soziologie der Imperialismen}'
+  author: Schumpeter, Joseph
+  date: 1919
+  publisher: Mohr Siebeck
+Weede2003:
+  type: chapter
+  title: '{Globalization: Creative Destruction and the Prospect of a Capitalist Peace}'
+  author: Weede, Erich
+  date: 2003
+  editor:
+  - Schneider, Gerald
+  - Barbieri, Katherine
+  - Gleditsch, Nils P.
+  page-range: 311–323
+  parent:
+    type: book
+    title: '{Globalization and Armed Conflict}'
+    publisher: '{Rowman & Littlefield}'
+Barbieri1996:
+  type: article
+  title: '{Economic Interdependence: A Path to Peace or a Source of Interstate Conflict?}'
+  author: Barbieri, Katherine
+  date: 1996
+  page-range: 29–49
+  url: https://doi.org/10.1177/0022343396033001003
+  serial-number:
+    doi: 10.1177/0022343396033001003
+  parent:
+    type: periodical
+    title: Journal of Peace Research
+    issue: 1
+    volume: 33
+Barbieri2002:
+  type: book
+  title: '{The Liberal Illusion}'
+  author: Barbieri, Katherine
+  date: 2002
+  publisher: '{University of Michigan Press}'
+  url: https://doi.org/10.3998/mpub.16590
+  serial-number:
+    doi: 10.3998/mpub.16590
+Gartzke2007:
+  type: article
+  title: '{The Capitalist Peace}'
+  author: Gartzke, Erik
+  date: 2007
+  page-range: 166–191
+  url: https://doi.org/10.1111/j.1540-5907.2007.00244.x
+  serial-number:
+    doi: 10.1111/j.1540-5907.2007.00244.x
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 1
+    volume: 51
+Mousseau2013:
+  type: article
+  title: '{The Democratic Peace Unraveled: It’s the Economy}'
+  author: Mousseau, Michael
+  date: 2013
+  page-range: 186–197
+  url: https://doi.org/10.1111/isqu.12003
+  serial-number:
+    doi: 10.1111/isqu.12003
+  parent:
+    type: periodical
+    title: International Studies Quarterly
+    issue: 1
+    volume: 57
+Kant1795:
+  type: book
+  title: '{Zum ewigen Frieden: Ein philosophischer Entwurf}'
+  author: Kant, Immanuel
+  date: 1795
+  publisher: '{Friedrich Nicolovius}'
+  serial-number:
+    doi: https://doi.org/10.3931/e-rara-25308
+Gurr1970:
+  type: book
+  title: '{Why Men Rebel}'
+  author: Gurr, Ted R.
+  date: 1970
+  publisher: '{Routledge}'
+  edition: 1
+Collier2004:
+  type: article
+  title: '{Greed and grievance in civil war}'
+  author:
+  - Collier, Paul
+  - Hoeffler, Anke
+  date: 2004
+  page-range: 563–595
+  url: https://doi.org/10.1093/oep/gpf064
+  serial-number:
+    doi: 10.1093/oep/gpf064
+  parent:
+    type: periodical
+    title: Oxford Economic Papers
+    issue: 4
+    volume: 56
+Fearon2003:
+  type: article
+  title: '{Ethnicity, Insurgency, and Civil War}'
+  author:
+  - Fearon, James D.
+  - Laitin, David D.
+  date: 2003
+  page-range: 75–90
+  url: https://doi.org/10.1017/s0003055403000534
+  serial-number:
+    doi: 10.1017/s0003055403000534
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 1
+    volume: 97
+Fearon1995:
+  type: article
+  title: '{Rationalist explanations for war}'
+  author: Fearon, James D.
+  date: 1995
+  page-range: 379–414
+  url: https://doi.org/10.1017/s0020818300033324
+  serial-number:
+    doi: 10.1017/s0020818300033324
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 3
+    volume: 49
+Fjelde2014:
+  type: article
+  title: '{Electoral Institutions and Electoral Violence in Sub-Saharan Africa}'
+  author:
+  - Fjelde, Hanne
+  - Höglund, Kristine
+  date: 2014
+  page-range: 297–320
+  url: https://doi.org/10.1017/s0007123414000179
+  serial-number:
+    doi: 10.1017/s0007123414000179
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 2
+    volume: 46
+Lijphart1969:
+  type: article
+  title: '{Consociational democracy}'
+  author: Lijphart, Arend
+  date: 1969
+  page-range: 207–225
+  url: https://doi.org/10.2307/2009820
+  serial-number:
+    doi: 10.2307/2009820
+  parent:
+    type: periodical
+    title: World Politics
+    issue: 2
+    volume: 21
+Lijphart1977:
+  type: book
+  title: '{Democracy in Plural Societies: A Comparative Exploration}'
+  author: Lijphart, Arend
+  date: 1977
+  publisher: Yale University Press
+Fortna2004:
+  type: article
+  title: '{Interstate Peacekeeping: Causal Mechanisms and Empirical Effects}'
+  author: Fortna, Virginia Page
+  date: 2004
+  page-range: 481–519
+  url: https://doi.org/10.1353/wp.2005.0004
+  serial-number:
+    doi: 10.1353/wp.2005.0004
+  parent:
+    type: periodical
+    title: World Politics
+    issue: 4
+    volume: 56
+Bara2020:
+  type: article
+  title: '{Just Different Hats? Comparing UN and Non-UN Peacekeeping}'
+  author:
+  - Bara, Corinne
+  - Hultman, Lisa
+  date: 2020
+  page-range: 341–368
+  url: https://doi.org/10.1080/13533312.2020.1737023
+  serial-number:
+    doi: 10.1080/13533312.2020.1737023
+  parent:
+    type: periodical
+    title: International Peacekeeping
+    issue: 3
+    volume: 27
+Mahoney2015:
+  type: chapter
+  title: '{Dependency Theory}'
+  author:
+  - Mahoney, James
+  - Rodríguez-Franco, Diana
+  date: 2015
+  editor:
+  - Lancaster, Carol
+  - name: Walle
+    given-name: Nicolas
+    prefix: van de
+  page-range: 22–42
+  url: https://doi.org/10.1093/oxfordhb/9780199845156.013.13
+  serial-number:
+    doi: 10.1093/oxfordhb/9780199845156.013.13
+  parent:
+    type: book
+    title: '{The Oxford Handbook of the Politics of Development}'
+dosSantos1970:
+  type: article
+  title: '{The Structure of Dependence}'
+  author:
+    name: Santos
+    given-name: Theotonio
+    prefix: dos
+  date: 1970
+  page-range: 231–236
+  url: http://www.jstor.org/stable/1815811
+  serial-number:
+    issn: '00028282'
+  parent:
+    type: periodical
+    title: The American Economic Review
+    issue: 2
+    volume: 60
+Wallerstein2011:
+  type: book
+  title: '{The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century}'
+  author: Wallerstein, Immanuel
+  date: 2011
+  publisher: University of California Press
+  edition: 1
+  url: http://www.jstor.org/stable/10.1525/j.ctt1pnrj9
+  serial-number:
+    isbn: '9780520267572'
+doi:10.1086/700936:
+  type: article
+  title: '{Democracy Does Cause Growth}'
+  author:
+  - Acemoglu, Daron
+  - Naidu, Suresh
+  - Restrepo, Pascual
+  - Robinson, James A.
+  date: 2019
+  page-range: 47–100
+  url: https://doi.org/10.1086/700936
+  serial-number:
+    doi: 10.1086/700936
+  parent:
+    type: periodical
+    title: Journal of Political Economy
+    issue: 1
+    volume: 127
+Doucouliagos2008:
+  type: article
+  title: '{Democracy and Economic Growth: A Meta‐Analysis}'
+  author:
+  - Doucouliagos, Hristos
+  - Ulubaşoğlu, Mehmet
+  date: 2008
+  page-range: 61–83
+  url: https://doi.org/10.1111/j.1540-5907.2007.00299.x
+  serial-number:
+    doi: 10.1111/j.1540-5907.2007.00299.x
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 1
+    volume: 52
+Samuels2022:
+  type: article
+  title: '{Democracy, rural inequality, and education spending}'
+  author:
+  - Samuels, David
+  - Vargas, Thomas R.
+  date: 2022
+  page-range: 106136
+  url: https://doi.org/10.1016/j.worlddev.2022.106136
+  serial-number:
+    doi: 10.1016/j.worlddev.2022.106136
+  parent:
+    type: periodical
+    title: World Development
+    volume: 162
+Krasner1983:
+  type: book
+  title: '{International regimes}'
+  author: Krasner, Stephen D.
+  date: 1983
+  publisher: Cornell University Press
+Rittberger2013:
+  type: book
+  title: '{Internationale Organisationen}'
+  author:
+  - Rittberger, Volker
+  - Zangl, Bernhard
+  - Kruck, Andreas
+  date: 2013
+  publisher: Springer
+Pevehouse2004:
+  type: article
+  title: The Correlates of War 2 International Governmental Organizations Data Version 2.0
+  author:
+  - Pevehouse, Jon
+  - Nordstrom, Timothy
+  - Warnke, Kevin
+  date: 2004
+  page-range: 101–119
+  serial-number:
+    doi: 10.1080/07388940490463933
+  parent:
+    type: periodical
+    title: Conflict Management and Peace Science
+    publisher: Sage Publications, Ltd.
+    issue: 2
+    volume: 21
+Abbott1998:
+  type: article
+  title: '{Why States Act through Formal International Organizations}'
+  author:
+  - Abbott, Kenneth W.
+  - Snidal, Duncan
+  date: 1998
+  page-range: 3–32
+  url: https://doi.org/10.1177/0022002798042001001
+  serial-number:
+    doi: 10.1177/0022002798042001001
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 1
+    volume: 42
+Abbott2000:
+  type: article
+  title: '{The Concept of Legalization}'
+  author:
+  - Abbott, Kenneth W.
+  - Keohane, Robert O.
+  - Moravcsik, Andrew
+  - Slaughter, Anne Marie
+  - Snidal, Duncan
+  date: 2000
+  page-range: 401–419
+  url: https://doi.org/10.1162/002081800551271
+  serial-number:
+    doi: 10.1162/002081800551271
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 3
+    volume: 54
+Putnam1988:
+  type: article
+  title: '{Diplomacy and domestic politics: the logic of two-level games}'
+  author: Putnam, Robert D.
+  date: 1988
+  page-range: 427–460
+  url: https://doi.org/10.1017/s0020818300027697
+  serial-number:
+    doi: 10.1017/s0020818300027697
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 3
+    volume: 42
+Dunning2002:
+  type: chapter
+  title: 'Trade, location of economic activity and the multinational enterprise: a search for an eclectic approach'
+  author: Dunning, John H.
+  date: 2002
+  editor: Dunning, John H.
+  page-range: 52–76
+  parent:
+    type: book
+    title: '{The Selected Essays of John H. Dunning: Theories and paradigms of international business activity}'
+    publisher: Edward Elgar Publishing
+Frieden1991:
+  type: article
+  title: '{Invested interests: the politics of national economic policies in a world of global finance}'
+  author: Frieden, Jeffry
+  date: 1991
+  page-range: 425–451
+  url: https://doi.org/10.1017/s0020818300033178
+  serial-number:
+    doi: 10.1017/s0020818300033178
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 4
+    volume: 45
+Blair2021:
+  type: article
+  title: '{Do Commodity Price Shocks Cause Armed Conflict? A Meta-Analysis of Natural Experiments}'
+  author:
+  - Blair, Graeme
+  - Christensen, Darin
+  - Rudkin, Aaron
+  date: 2021
+  page-range: 709–716
+  url: https://doi.org/10.1017/s0003055420000957
+  serial-number:
+    doi: 10.1017/s0003055420000957
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 2
+    volume: 115
+Yordanova2011:
+  type: article
+  title: '{The European Parliament: In need of a theory}'
+  author: Yordanova, Nikoleta
+  date: 2011
+  page-range: 597–617
+  url: https://doi.org/10.1177/1465116511417188
+  serial-number:
+    doi: 10.1177/1465116511417188
+  parent:
+    type: periodical
+    title: European Union Politics
+    issue: 4
+    volume: 12
+Whitaker2017:
+  type: article
+  title: '{Understanding Members of the European Parliament: Four waves of the European Parliament Research Group MEP survey}'
+  author:
+  - Whitaker, Richard
+  - Hix, Simon
+  - Zapryanova, Galina
+  date: 2017
+  page-range: 491–506
+  url: https://doi.org/10.1177/1465116516687399
+  serial-number:
+    doi: 10.1177/1465116516687399
+  parent:
+    type: periodical
+    title: European Union Politics
+    issue: 3
+    volume: 18
+Prosser2016:
+  type: article
+  title: '{Second order electoral rules and national party systems: The Duvergerian effects of European Parliament elections}'
+  author: Prosser, Christopher
+  date: 2016
+  page-range: 366–386
+  url: https://doi.org/10.1177/1465116516633300
+  serial-number:
+    doi: 10.1177/1465116516633300
+  parent:
+    type: periodical
+    title: European Union Politics
+    issue: 3
+    volume: 17
+Winzen2022:
+  type: article
+  title: '{Does differentiated integration weaken parliamentary involvement? Evidence from the European Union''s interparliamentary conferences}'
+  author: Winzen, Thomas
+  date: 2022
+  page-range: 42–62
+  url: https://doi.org/10.1177/14651165221104907
+  serial-number:
+    doi: 10.1177/14651165221104907
+  parent:
+    type: periodical
+    title: European Union Politics
+    issue: 1
+    volume: 24
+Meissner2019:
+  type: article
+  title: '{Rising despite the polycrisis? The European Parliament’s strategies of self-empowerment after Lisbon}'
+  author:
+  - Meissner, Katharina L.
+  - Schoeller, Magnus G.
+  date: 2019
+  page-range: 1075–1093
+  url: https://doi.org/10.1080/13501763.2019.1619187
+  serial-number:
+    doi: 10.1080/13501763.2019.1619187
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 7
+    volume: 26
+Heermann2020:
+  type: article
+  title: '{No Representation without Integration! Why Differentiated Integration Challenges the Composition of the European Parliament}'
+  author:
+  - Heermann, Max
+  - Leuffen, Dirk
+  date: 2020
+  page-range: 1016–1033
+  url: https://doi.org/10.1111/jcms.13015
+  serial-number:
+    doi: 10.1111/jcms.13015
+  parent:
+    type: periodical
+    title: 'JCMS: Journal of Common Market Studies'
+    issue: 4
+    volume: 58
+Kroll2014:
+  type: article
+  title: '{Enhanced cooperation in practice. An analysis of differentiated integration in EU secondary law}'
+  author:
+  - Kroll, Daniela Annette
+  - Leuffen, Dirk
+  date: 2014
+  page-range: 353–373
+  url: https://doi.org/10.1080/13501763.2014.956781
+  serial-number:
+    doi: 10.1080/13501763.2014.956781
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 3
+    volume: 22
+Malang2020:
+  type: article
+  title: '{The political economy of differentiated integration: The case of common agricultural policy}'
+  author:
+  - Malang, Thomas
+  - Holzinger, Katharina
+  date: 2020
+  page-range: 741–766
+  url: https://doi.org/10.1007/s11558-020-09384-z
+  serial-number:
+    doi: 10.1007/s11558-020-09384-z
+  parent:
+    type: periodical
+    title: The Review of International Organizations
+    issue: 3
+    volume: 15
+Zhelyazkova2014:
+  type: article
+  title: '{From selective integration into selective implementation: The link between differentiated integration and conformity with EU laws}'
+  author: Zhelyazkova, Asya
+  date: 2014
+  page-range: 727–746
+  url: https://doi.org/10.1111/1475-6765.12062
+  serial-number:
+    doi: 10.1111/1475-6765.12062
+  parent:
+    type: periodical
+    title: European Journal of Political Research
+    issue: 4
+    volume: 53
+Telle2022:
+  type: article
+  title: '{Elite‐Mass Linkages in the Preference Formation on Differentiated Integration}'
+  author:
+  - Telle, Stefan
+  - De Blok, Lisanne
+  - De Vries, Catherine E.
+  - Cicchi, Lorenzo
+  date: 2022
+  page-range: 1663–1683
+  url: https://doi.org/10.1111/jcms.13339
+  serial-number:
+    doi: 10.1111/jcms.13339
+  parent:
+    type: periodical
+    title: 'JCMS: Journal of Common Market Studies'
+    issue: 6
+    volume: 60
+Moland2023:
+  type: article
+  title: '{Opting for Opt‐outs? National Identities and Support for a Differentiated EU}'
+  author: Moland, Martin
+  date: 2023
+  page-range: 55–73
+  url: https://doi.org/10.1111/jcms.13478
+  serial-number:
+    doi: 10.1111/jcms.13478
+  parent:
+    type: periodical
+    title: 'JCMS: Journal of Common Market Studies'
+    issue: 1
+    volume: 62
+Hooghe2009:
+  type: article
+  title: '{A Postfunctionalist Theory of European Integration: From Permissive Consensus to Constraining Dissensus}'
+  author:
+  - Hooghe, Liesbet
+  - Marks, Gary
+  date: 2009
+  page-range: 1–23
+  url: https://doi.org/10.1017/s0007123408000409
+  serial-number:
+    doi: 10.1017/s0007123408000409
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 1
+    volume: 39
+Hutter2019:
+  type: article
+  title: '{Politicizing Europe in times of crisis}'
+  author:
+  - Hutter, Swen
+  - Kriesi, Hanspeter
+  date: 2019
+  page-range: 996–1017
+  url: https://doi.org/10.1080/13501763.2019.1619801
+  serial-number:
+    doi: 10.1080/13501763.2019.1619801
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 7
+    volume: 26
+Schimmelfennig2020:
+  type: book
+  title: '{Ever looser Union? Differentiated European Integration}'
+  author:
+  - Schimmelfennig, Frank
+  - Winzen, Thomas
+  date: 2020
+  publisher: Oxford University Press
+Moravcsik1998:
+  type: book
+  title: '{The Choice for Europe: Social Purpose and State Power from Messina to Maastricht}'
+  author: Moravcsik, Andrew
+  date: 1998
+  publisher: Routledge
+Holzinger2012:
+  type: article
+  title: '{Differentiated integration in the European Union : Many concepts, sparse theory, few data}'
+  author:
+  - Holzinger, Katharina
+  - Schimmelfennig, Frank
+  date: 2012
+  page-range: 292–305
+  url: https://doi.org/10.1080/13501763.2012.641747
+  serial-number:
+    doi: 10.1080/13501763.2012.641747
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 2
+    volume: 19
+Cunningham2024:
+  type: web
+  title: '{A sharp right turn: A forecast for the 2024 European Parliament elections}'
+  author:
+  - Cunningham, Kevin
+  - Hix, Simon
+  - Dennison, Susi
+  - Learmouth, Imogen
+  date: 2024-01-23
+  publisher: European Council on Foreign Relations
+  organization: European Council on Foreign Relations
+  url: https://ecfr.eu/publication/a-sharp-right-turn-a-forecast-for-the-2024-european-parliament-elections/
+Genschel2013:
+  type: chapter
+  title: '{Introduction: Beyond Market Regulation. Analysing the European Integration of Core State Powers}'
+  author:
+  - Genschel, Philipp
+  - Jachtenfuchs, Markus
+  date: 2013
+  editor:
+  - Genschel, Philipp
+  - Jachtenfuchs, Markus
+  page-range: 1–23
+  url: https://doi.org/10.1093/acprof:oso/9780199662821.003.0001
+  parent:
+    type: book
+    title: '{Beyond the Regulatory Polity? The European Integration of Core State Powers}'
+    publisher: Oxford University Press
+Turner1979:
+  type: article
+  title: '{Social comparison and group interest in ingroup favouritism}'
+  author:
+  - Turner, John
+  - Brown, Rupert
+  - Tajfel, Henri
+  date: 1979
+  page-range: 187–204
+  url: https://doi.org/10.1002/ejsp.2420090207
+  serial-number:
+    doi: 10.1002/ejsp.2420090207
+  parent:
+    type: periodical
+    title: European Journal of Social Psychology
+    issue: 2
+    volume: 9
+Tajfel1971:
+  type: article
+  title: '{Social categorization and intergroup behaviour}'
+  author:
+  - Tajfel, Henri
+  - Billig, Michael
+  - Bundy, R. P.
+  - Flament, Claude
+  date: 1971
+  page-range: 149–178
+  url: https://doi.org/10.1002/ejsp.2420010202
+  serial-number:
+    doi: 10.1002/ejsp.2420010202
+  parent:
+    type: periodical
+    title: European Journal of Social Psychology
+    issue: 2
+    volume: 1
+Sweet1997:
+  type: article
+  title: '{European integration and supranational governance}'
+  author:
+  - Stone Sweet, Alec
+  - Sandholtz, Wayne
+  date: 1997
+  page-range: 297–317
+  url: https://doi.org/10.1080/13501769780000011
+  serial-number:
+    doi: 10.1080/13501769780000011
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 3
+    volume: 4
+DeVries2009:
+  type: article
+  title: '{Taking Europe to its Extremes: Extremist Parties and Public Euroscepticism}'
+  author:
+  - De Vries, Catherine E.
+  - Edwards, Erica
+  date: 2009
+  page-range: 5–28
+  url: https://doi.org/10.1177/1354068808097889
+  serial-number:
+    doi: 10.1177/1354068808097889
+  parent:
+    type: periodical
+    title: Party Politics
+    issue: 1
+    volume: 15
+Reif1980:
+  type: article
+  title: '{Nine Second-Order National Elections – A Conceptual Framework for the Analysis of European Election Results}'
+  author:
+  - Reif, Karlheinz
+  - Schmitz, Hermann
+  date: 1980
+  page-range: 3–44
+  url: https://doi.org/10.1111/j.1475-6765.1980.tb00737.x
+  serial-number:
+    doi: 10.1111/j.1475-6765.1980.tb00737.x
+  parent:
+    type: periodical
+    title: European Journal of Political Research
+    issue: 1
+    volume: 8
+Walzer1983:
+  type: book
+  title: '{Spheres of Justice: A Defense of Pluralism and Equality}'
+  author: Walzer, Michael
+  date: 1983
+  publisher: Basic Books
+Scharpf1993:
+  type: chapter
+  title: '{Legitimationsprobleme der Globalisierung Regieren in Verhandlungssystemen}'
+  author: Scharpf, Fritz W.
+  date: 1993
+  editor:
+  - Böhret, Carl
+  - Wewer, Göttrik
+  page-range: 165–185
+  url: https://doi.org/10.1007/978-3-663-11267-9_7
+  serial-number:
+    doi: 10.1007/978-3-663-11267-9_7
+    isbn: 978-3-663-11267-9
+  parent:
+    type: book
+    title: '{Regieren im 21. Jahrhundert — zwischen Globalisierung und Regionalisierung: Festgabe für Hans-Hermann Hartwich zum 65. Geburtstag}'
+    publisher: VS Verlag f{ü}r Sozialwissenschaften
+Zürn1996:
+  type: article
+  title: '{Über den Staat und die Demokratie im europäischen Mehrebenensystem}'
+  author: Zürn, Michael
+  date: 1996
+  page-range: 27–55
+  parent:
+    type: periodical
+    title: '{Politische Vierteljahresschrift}'
+    publisher: Nomos Verlagsgesellschaft mbH
+    issue: 1
+    volume: 37
+EUIYouGov2020:
+  type: repository
+  title: '{EUI-YouGov survey on solidarity in Europe}'
+  author:
+  - Genschel, Philipp
+  - Hemerijck, Anton
+  - Shakespeare, Stephan
+  - name: Parys
+    given-name: Jonathan
+    prefix: van
+  - Cicchi, Lorenzo
+  - Nasr, Mohamed
+  date: 2020
+  publisher: European University Institute, Robert Schuman Centre for Advanced Studies
+  url: https://hdl.handle.net/1814/67584
+King1998:
+  type: book
+  title: '{Unifying Political Methodology: The Likelihood Theory of Statistical Inference}'
+  author: King, Gary
+  date: 1998
+  publisher: '{University of Michigan Press}'
+  edition: 1
+  url: https://doi.org/10.3998/mpub.23784
+  serial-number:
+    doi: 10.3998/mpub.23784
+Funk2011:
+  type: article
+  title: '{Does Direct Democracy Reduce the Size of Government? New Evidence from Historical Data, 1890-2000}'
+  author:
+  - Funk, Patricia
+  - Gathmann, Christina
+  date: 2011-06-27
+  page-range: 1252–1280
+  url: https://doi.org/10.1111/j.1468-0297.2011.02451.x
+  serial-number:
+    doi: 10.1111/j.1468-0297.2011.02451.x
+  parent:
+    type: periodical
+    title: '{The Economic Journal}'
+    issue: 557
+    volume: 121
+Romer1979:
+  type: article
+  title: The elusive median voter
+  author:
+  - Römer, Thomas
+  - Rosenthal, Howard
+  date: 1979-10-01
+  page-range: 143–170
+  url: https://doi.org/10.1016/0047-2727(79)90010-0
+  serial-number:
+    doi: 10.1016/0047-2727(79)90010-0
+  parent:
+    type: periodical
+    title: '{Journal of Public Economics}'
+    issue: 2
+    volume: 12
+Vollaard2016:
+  type: article
+  title: '{The making of a European healthcare union: a federalist perspective}'
+  author:
+  - Vollaard, Hans
+  - Van De Bovenkamp, Hester
+  - Martinsen, Dorte Sindbjerg
+  date: 2015-04-29
+  page-range: 157–176
+  url: https://doi.org/10.1080/13501763.2015.1034160
+  serial-number:
+    doi: 10.1080/13501763.2015.1034160
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 2
+    volume: 23
+Haas2004:
+  type: book
+  title: '{The Uniting of Europe: Political, Social, and Economic Forces 1950-1957}'
+  author: Haas, Ernst B.
+  date: 2004
+  publisher: '{University of Notre Dame Press}'
+  edition: 3
+Risse2005:
+  type: article
+  title: '{Neofunctionalism, European identity, and the puzzles of European integration}'
+  author: Risse, Thomas
+  date: 2005-04-01
+  page-range: 291–309
+  url: https://doi.org/10.1080/13501760500044033
+  serial-number:
+    doi: 10.1080/13501760500044033
+  parent:
+    type: periodical
+    title: '{Journal of European Public Policy}'
+    issue: 2
+    volume: 12
+Elazar1987:
+  type: book
+  title: '{Exploring Federalism}'
+  author: Elazar, Daniel J.
+  date: 1987-01-30
+  publisher: University Alabama Press
+Watts2008:
+  type: book
+  title: '{Comparing Federal Systems}'
+  author: Watts, Ronald Lampman
+  date: 2008-01-01
+  publisher: '{McGill-Queen''s University Press}'
+  edition: 3
+Mahoney2000:
+  type: article
+  title: Path dependence in historical sociology
+  author: Mahoney, James
+  date: 2000-01-01
+  page-range: 507–548
+  url: https://doi.org/10.1023/a:1007113830879
+  serial-number:
+    doi: 10.1023/a:1007113830879
+  parent:
+    type: periodical
+    title: Theory and society
+    issue: 4
+    volume: 29
+Obinger2005:
+  type: chapter
+  title: '{Introduction: Federalism and the welfare state}'
+  author:
+  - Obinger, Herbert
+  - Castles, Francis G.
+  - Leibfried, Stephan
+  date: 2005
+  editor:
+  - Obinger, Herbert
+  - Castles, Francis G.
+  - Leibfried, Stephan
+  page-range: 1–48
+  parent:
+    type: book
+    title: '{Federalism and the Welfare State: New World and European Experiences}'
+EC2021:
+  type: web
+  title: '{The Commission proposes the next generation of EU own resources}'
+  author: European Commission
+  date: 2021-12-22
+  url: https://ec.europa.eu/commission/presscorner/detail/en/ip_21_7025
+Alesina2023:
+  type: article
+  title: '{Immigration and Redistribution}'
+  author:
+  - Alesina, Alberto
+  - Miano, Armando
+  - Stantcheva, Stefanie
+  date: 2023
+  page-range: 1–39
+  url: https://doi.org/10.1093/restud/rdac011
+  serial-number:
+    doi: 10.1093/restud/rdac011
+  parent:
+    type: periodical
+    title: '{Review of Economic Studies}'
+    issue: 1
+    volume: 90
+Baute2018:
+  type: article
+  title: 'European integration as a threat to social security: Another source of Euroscepticism?'
+  author:
+  - Baute, Sharon
+  - Meuleman, Bart
+  - Abts, Koen
+  - Swyngedouw, Marc
+  date: 2018-01-10
+  page-range: 209–232
+  url: https://doi.org/10.1177/1465116517749769
+  serial-number:
+    doi: 10.1177/1465116517749769
+  parent:
+    type: periodical
+    title: European Union politics
+    issue: 2
+    volume: 19
+Hjorth2015:
+  type: article
+  title: '{Who benefits? Welfare chauvinism and national stereotypes}'
+  author: Hjorth, Frederik
+  date: 2015-10-14
+  page-range: 3–24
+  url: https://doi.org/10.1177/1465116515607371
+  serial-number:
+    doi: 10.1177/1465116515607371
+  parent:
+    type: periodical
+    title: '{European Union Politics}'
+    issue: 1
+    volume: 17
+Shayo2009:
+  type: article
+  title: '{A Model of Social Identity with an Application to Political Economy: Nation, Class, and Redistribution}'
+  author: Shayo, Moses
+  date: 2009-05-01
+  page-range: 147–174
+  url: https://doi.org/10.1017/s0003055409090194
+  serial-number:
+    doi: 10.1017/s0003055409090194
+  parent:
+    type: periodical
+    title: The American Political Science Review
+    issue: 2
+    volume: 103
+Baute2019:
+  type: article
+  title: '{Public Support for European Solidarity: Between Euroscepticism and EU Agenda Preferences?}'
+  author:
+  - Baute, Sharon
+  - Abts, Koen
+  - Meuleman, Bart
+  date: 2019-02-04
+  page-range: 533–550
+  url: https://doi.org/10.1111/jcms.12833
+  serial-number:
+    doi: 10.1111/jcms.12833
+  parent:
+    type: periodical
+    title: Journal of Common Market Studies
+    issue: 3
+    volume: 57
+Andersen1990:
+  type: article
+  title: '{Structural Changes and New Cleavages: the Progress Parties in Denmark and Norway}'
+  author:
+  - Andersen, Jørgen Goul
+  - Bjørklund, Tor
+  date: 1990-07-01
+  page-range: 195–217
+  url: https://doi.org/10.1177/000169939003300303
+  serial-number:
+    doi: 10.1177/000169939003300303
+  parent:
+    type: periodical
+    title: Acta Sociologica
+    issue: 3
+    volume: 33
+Careja2022:
+  type: article
+  title: '{Thirty years of welfare chauvinism research: Findings and challenges}'
+  author:
+  - Careja, Romana
+  - Harris, Eloisa
+  date: 2022-03-02
+  page-range: 212–224
+  url: https://doi.org/10.1177/09589287211068796
+  serial-number:
+    doi: 10.1177/09589287211068796
+  parent:
+    type: periodical
+    title: Journal of European Social Policy
+    issue: 2
+    volume: 32
+Scheepers2002:
+  type: article
+  title: Ethnic Exclusionism in European Countries. Public Opposition to Civil Rights for Legal Migrants as a Response to Perceived Ethnic Threat
+  author: Scheepers, P.
+  date: 2002-03-01
+  page-range: 17–34
+  url: https://doi.org/10.1093/esr/18.1.17
+  serial-number:
+    doi: 10.1093/esr/18.1.17
+  parent:
+    type: periodical
+    title: European Sociological Review
+    issue: 1
+    volume: 18
+Busemeyer2021:
+  type: article
+  title: 'Authoritarian values and the welfare state: the social policy preferences of radical right voters'
+  author:
+  - Busemeyer, Marius R.
+  - Rathgeb, Philip
+  - Sahm, Alexander H. J.
+  date: 2021-03-02
+  page-range: 77–101
+  url: https://doi.org/10.1080/01402382.2021.1886497
+  serial-number:
+    doi: 10.1080/01402382.2021.1886497
+  parent:
+    type: periodical
+    title: West European Politics
+    issue: 1
+    volume: 45
+Reskeens2018:
+  type: article
+  title: '{The inevitable deservingness gap: A study into the insurmountable immigrant penalty in perceived welfare deservingness}'
+  author:
+  - Reeskens, Tim
+  - Van Der Meer, Tom
+  date: 2018-05-31
+  page-range: 166–181
+  url: https://doi.org/10.1177/0958928718768335
+  serial-number:
+    doi: 10.1177/0958928718768335
+  parent:
+    type: periodical
+    title: Journal of European Social Policy
+    issue: 2
+    volume: 29
+vanOorschot2000:
+  type: article
+  title: Who should get what, and why? On deservingness criteria and the conditionality of solidarity among the public
+  author:
+    name: Oorschot
+    given-name: Wim
+    prefix: van
+  date: 2000-01-01
+  page-range: 33–48
+  url: https://doi.org/10.1332/0305573002500811
+  serial-number:
+    doi: 10.1332/0305573002500811
+  parent:
+    type: periodical
+    title: Policy {&} Politics
+    issue: 1
+    volume: 28
+vanOorschot2006:
+  type: article
+  title: 'Making the difference in social Europe: deservingness perceptions among citizens of European welfare states'
+  author:
+    name: Oorschot
+    given-name: Wim
+    prefix: van
+  date: 2006-02-01
+  page-range: 23–42
+  url: https://doi.org/10.1177/0958928706059829
+  serial-number:
+    doi: 10.1177/0958928706059829
+  parent:
+    type: periodical
+    title: Journal of European Social Policy
+    issue: 1
+    volume: 16
+Cavaille2015:
+  type: article
+  title: '{The Two Facets of Social Policy Preferences}'
+  author:
+  - Cavaillé, Charlotte
+  - Trump, Kris-Stella
+  date: 2015-01-01
+  page-range: 146–160
+  url: https://doi.org/10.1086/678312
+  serial-number:
+    doi: 10.1086/678312
+  parent:
+    type: periodical
+    title: The Journal of Politics
+    issue: 1
+    volume: 77
+deSwaan1988:
+  type: book
+  title: '{In Care of the State: Health Care, Education, and Welfare in Europe and the USA in the Modern Era}'
+  author:
+    name: Swaan
+    given-name: Abram
+    prefix: de
+  date: 1988
+  publisher: Oxford University Press
+  serial-number:
+    isbn: '9780195207033'
+Cook1979:
+  type: book
+  title: 'Who Should Be Helped?: Public Support for Social Services'
+  author: Cook, Fay Lomax
+  date: 1979
+  publisher: Sage Publications
+Will1993:
+  type: article
+  title: 'The Dimensions of Poverty: Public Perceptions of the Deserving Poor'
+  author: Will, J.A.
+  date: 1993-09-01
+  page-range: 312–332
+  url: https://doi.org/10.1006/ssre.1993.1016
+  serial-number:
+    doi: 10.1006/ssre.1993.1016
+  parent:
+    type: periodical
+    title: Social Science Research
+    issue: 3
+    volume: 22
+Romer1975:
+  type: article
+  title: Individual welfare, majority voting, and the properties of a linear income tax
+  author: Romer, Thomas
+  date: 1975-02-01
+  page-range: 163–185
+  url: https://doi.org/10.1016/0047-2727(75)90016-x
+  serial-number:
+    doi: 10.1016/0047-2727(75)90016-x
+  parent:
+    type: periodical
+    title: Journal of Public Economics
+    issue: 2
+    volume: 4
+Meltzer1981:
+  type: article
+  title: A Rational Theory of the Size of Government
+  author:
+  - Meltzer, Allan H.
+  - Richard, Scott F.
+  date: 1981-10-01
+  page-range: 914–927
+  url: https://doi.org/10.1086/261013
+  serial-number:
+    doi: 10.1086/261013
+  parent:
+    type: periodical
+    title: Journal of Political Economy
+    issue: 5
+    volume: 89
+Acemoglu2005:
+  type: book
+  title: Economic Origins of Dictatorship and Democracy
+  author:
+  - Acemoğlu, Daron
+  - Robinson, James A.
+  date: 2005-12-19
+  url: https://doi.org/10.1017/cbo9780511510809
+  serial-number:
+    doi: 10.1017/cbo9780511510809
+Rydgren2011:
+  type: article
+  title: '{Voting for the Radical Right in Swedish Municipalities: Social Marginality and Ethnic Competition?}'
+  author:
+  - Rydgren, Jens
+  - Ruth, Patrick
+  date: 2011-05-25
+  page-range: 202–225
+  url: https://doi.org/10.1111/j.1467-9477.2011.00269.x
+  serial-number:
+    doi: 10.1111/j.1467-9477.2011.00269.x
+  parent:
+    type: periodical
+    title: Scandinavian Political Studies
+    issue: 3
+    volume: 34
+Abouchadi2014:
+  type: article
+  title: '{Niche Party Success and Mainstream Party Policy Shifts – How Green and Radical Right Parties Differ in Their Impact}'
+  author: Abou-Chadi, Tarik
+  date: 2014-06-24
+  page-range: 417–436
+  url: https://doi.org/10.1017/s0007123414000155
+  serial-number:
+    doi: 10.1017/s0007123414000155
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 2
+    volume: 46
+Halikiopoulou2018:
+  type: article
+  title: A Right‐wing Populist Momentum? A Review of 2017 Elections Across Europe
+  author: Halikiopoulou, Daphne
+  date: 2018-07-26
+  page-range: 63–73
+  url: https://doi.org/10.1111/jcms.12769
+  serial-number:
+    doi: 10.1111/jcms.12769
+  parent:
+    type: periodical
+    title: JCMS Journal of Common Market Studies
+    issue: S1
+    volume: 56
+Schofield2024:
+  type: web
+  title: '{Macron takes huge risk with surprise election}'
+  author: Schofield, Hugh
+  date: 2024-06-09
+  publisher: BBC
+  organization: BBC
+  url: https://www.bbc.com/news/articles/c8009e2z4xlo
+Zulaniello2023:
+  type: article
+  title: '{Blurred positions: The ideological ambiguity of valence populist parties}'
+  author:
+  - Zulianello, Mattia
+  - Larsen, Erik Gahner
+  date: 2023-02-27
+  page-range: 190–199
+  url: https://doi.org/10.1177/13540688231161205
+  serial-number:
+    doi: 10.1177/13540688231161205
+  parent:
+    type: periodical
+    title: Party Politics
+    issue: 1
+    volume: 30
+Taggart2004:
+  type: article
+  title: '{Populism and representative politics in contemporary Europe}'
+  author: Taggart, Paul
+  date: 2004-10-01
+  page-range: 269–288
+  url: https://doi.org/10.1080/1356931042000263528
+  serial-number:
+    doi: 10.1080/1356931042000263528
+  parent:
+    type: periodical
+    title: Journal of Political Ideologies
+    issue: 3
+    volume: 9
+Mondon2022:
+  type: article
+  title: '{Populism, public opinion, and the mainstreaming of the far right: The ‘immigration issue’ and the construction of a reactionary ‘people’}'
+  author: Mondon, Aurelien
+  date: 2022-06-23
+  page-range: '026339572211047'
+  url: https://doi.org/10.1177/02633957221104726
+  serial-number:
+    doi: 10.1177/02633957221104726
+  parent:
+    type: periodical
+    title: Politics
+Rovny2019:
+  type: article
+  title: '{Still blurry? Economic salience, position and voting for radical right parties in Western Europe}'
+  author:
+  - Rovny, Jan
+  - Polk, Jonathan
+  date: 2019-09-24
+  page-range: 248–268
+  url: https://doi.org/10.1111/1475-6765.12356
+  serial-number:
+    doi: 10.1111/1475-6765.12356
+  parent:
+    type: periodical
+    title: European Journal of Political Research
+    issue: 2
+    volume: 59
+Kitschelt1995:
+  type: book
+  title: '{The Radical Right in Western Europe: A Comperative Analysis}'
+  author:
+  - Kitschelt, Herbert
+  - McGann, Anthony J.
+  date: 1995-01-01
+  publisher: University of Michigan Press
+deLange2007:
+  type: article
+  title: '{A New Winning Formula?: The Programmatic Appeal of the Radical Right}'
+  author:
+    name: Lange
+    given-name: Sarah L.
+    prefix: de
+  date: 2007-07-01
+  page-range: 411–435
+  url: https://doi.org/10.1177/1354068807075943
+  serial-number:
+    doi: 10.1177/1354068807075943
+  parent:
+    type: periodical
+    title: Party Politics
+    issue: 4
+    volume: 13
+Kitschelt2004:
+  type: misc
+  title: '{Diversification and Reconfiguration of Party Systems in Postindustrial Democracies}'
+  date: 2004-01-01
+  publisher: Friedrich Ebert Stiftung
+Rovny2012:
+  type: article
+  title: '{Where do radical right parties stand? Position blurring in multidimensional competition}'
+  author: Rovny, Jan
+  date: 2012-02-29
+  page-range: 1–26
+  url: https://doi.org/10.1017/s1755773911000282
+  serial-number:
+    doi: 10.1017/s1755773911000282
+  parent:
+    type: periodical
+    title: European Political Science Review
+    issue: 1
+    volume: 5
+Afonso2014:
+  type: article
+  title: 'Choosing whom to betray: populist right-wing parties, welfare state reforms and the trade-off between office and votes'
+  author: Afonso, Alexandre
+  date: 2014-04-17
+  page-range: 271–292
+  url: https://doi.org/10.1017/s1755773914000125
+  serial-number:
+    doi: 10.1017/s1755773914000125
+  parent:
+    type: periodical
+    title: European Political Science Review
+    issue: 2
+    volume: 7
+Afonso2018:
+  type: chapter
+  title: '{Social Class and the Changing Welfare State Agenda of Radical Right Parties in Europe}'
+  author:
+  - Afonso, Alexandre
+  - Rennwald, Line
+  date: 2018-05-24
+  editor:
+  - Manow, Philip
+  - Palier, Bruno
+  - Schwander, Hanna
+  page-range: 171–194
+  url: https://doi.org/10.1093/oso/9780198807971.001.0001
+  serial-number:
+    doi: 10.1093/oso/9780198807971.003.0007
+  parent:
+    type: book
+    title: '{Welfare Democracies and Party Politics: Explaining Electoral Dynamics in Times of Changing Welfare Capitalism}'
+manow-2018:
+  type: book
+  title: Welfare Democracies and Party Politics
+  author:
+  - Manow, Philip
+  - Palier, Bruno
+  - Schwander, Hanna
+  date: 2018-05-24
+  url: https://doi.org/10.1093/oso/9780198807971.001.0001
+  serial-number:
+    doi: 10.1093/oso/9780198807971.001.0001
+Ivarsflaten2007:
+  type: article
+  title: What unites Right-Wing populists in Western Europe?
+  author: Ivarsflaten, Elisabeth
+  date: 2007-10-17
+  page-range: 3–23
+  url: https://doi.org/10.1177/0010414006294168
+  serial-number:
+    doi: 10.1177/0010414006294168
+  parent:
+    type: periodical
+    title: Comparative Political Studies
+    issue: 1
+    volume: 41
+Burgoon2020:
+  type: article
+  title: '{‘Immigrationization’ of welfare politics? Anti-immigration and welfare attitudes in context}'
+  author:
+  - Burgoon, Brian
+  - Rooduijn, Matthijs
+  date: 2020-01-13
+  page-range: 177–203
+  url: https://doi.org/10.1080/01402382.2019.1702297
+  serial-number:
+    doi: 10.1080/01402382.2019.1702297
+  parent:
+    type: periodical
+    title: West European Politics
+    issue: 2
+    volume: 44
+Finseeras2023:
+  type: article
+  title: 'Immigration and welfare state sustainability: whose perception is affected by fiscal cost cues?'
+  author:
+  - Finseraas, Henning
+  - Haugsgjerd, Atle
+  - Kumlin, Staffan
+  date: 2023-02-03
+  page-range: 1420–1437
+  url: https://doi.org/10.1080/13501763.2023.2166572
+  serial-number:
+    doi: 10.1080/13501763.2023.2166572
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 5
+    volume: 31
+Finseraas2008:
+  type: article
+  title: 'Immigration and Preferences for Redistribution: An Empirical Analysis of European Survey Data'
+  author: Finseraas, Henning
+  date: 2008-10-15
+  page-range: 407–431
+  url: https://doi.org/10.1057/cep.2008.3
+  serial-number:
+    doi: 10.1057/cep.2008.3
+  parent:
+    type: periodical
+    title: Comparative European Politics
+    issue: 4
+    volume: 6
+Hainmueller2014:
+  type: article
+  title: Public attitudes toward immigration
+  author:
+  - Hainmueller, Jens
+  - Hopkins, Daniel J.
+  date: 2014-05-11
+  page-range: 225–249
+  url: https://doi.org/10.1146/annurev-polisci-102512-194818
+  serial-number:
+    doi: 10.1146/annurev-polisci-102512-194818
+  parent:
+    type: periodical
+    title: Annual Review of Political Science
+    issue: 1
+    volume: 17
+Grande2018:
+  type: article
+  title: Politicizing immigration in Western Europe
+  author:
+  - Grande, Edgar
+  - Schwarzbözl, Tobias
+  - Fatke, Matthias
+  date: 2018-10-23
+  page-range: 1444–1463
+  url: https://doi.org/10.1080/13501763.2018.1531909
+  serial-number:
+    doi: 10.1080/13501763.2018.1531909
+  parent:
+    type: periodical
+    title: Journal of European Public Policy
+    issue: 10
+    volume: 26
+Gilens1995:
+  type: article
+  title: '{Racial Attitudes and Opposition to Welfare}'
+  author: Gilens, Martin
+  date: 1995-11-01
+  page-range: 994–1014
+  url: https://doi.org/10.2307/2960399
+  serial-number:
+    doi: 10.2307/2960399
+  parent:
+    type: periodical
+    title: The Journal of Politics
+    issue: 4
+    volume: 57
+Blalock1967:
+  type: book
+  title: '{Toward a Theor of Minority-Group Relations}'
+  author: Blalock, Hubert M.
+  date: 1967
+  publisher: John Wiley {&} Sons
+Downs1957:
+  type: book
+  title: '{An Economic Theory of Democracy}'
+  author: Downs, Anthony
+  date: 1957-01-01
+  publisher: Harper
+Rueda2015:
+  type: article
+  title: '{The Externalities of Inequality: Fear of Crime and Preferences for Redistribution in Western Europe}'
+  author:
+  - Rueda, David
+  - Stegmueller, Daniel
+  date: 2015-08-21
+  page-range: 472–489
+  url: https://doi.org/10.1111/ajps.12212
+  serial-number:
+    doi: 10.1111/ajps.12212
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 2
+    volume: 60
+Becher2015:
+  type: article
+  title: '{Endogenous Credible Commitment and Party Competition over Redistribution under Alternative Electoral Institutions}'
+  author: Becher, Michael
+  date: 2015-12-09
+  page-range: 768–782
+  url: https://doi.org/10.1111/ajps.12242
+  serial-number:
+    doi: 10.1111/ajps.12242
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 3
+    volume: 60
+Alesina2001:
+  type: article
+  title: '{Why Doesn''t the United States Have a European-Style Welfare State?}'
+  author:
+  - Alesina, Alberto
+  - Glaeser, Edward L.
+  - Sacerdote, Bruce
+  date: 2001-01-01
+  page-range: 187–277
+  url: https://doi.org/10.1353/eca.2001.0014
+  serial-number:
+    doi: 10.1353/eca.2001.0014
+  parent:
+    type: periodical
+    title: Brookings Papers on Economic Activity
+    issue: 2
+    volume: 2001
+Alesina2011:
+  type: book
+  title: '{Preferences for Redistribution}'
+  author:
+  - Alesina, Alberto
+  - Giuliano, Paola
+  date: 2011-01-01
+  editor:
+  - Benhabib, Jess
+  - Bisin, Alberto
+  - Jackson, Matthew O.
+  publisher: North-Holland
+  volume: 1
+  page-range: 93–131
+  url: https://doi.org/10.1016/b978-0-444-53187-2.00004-8
+  serial-number:
+    doi: 10.1016/b978-0-444-53187-2.00004-8
+Iversen2001:
+  type: article
+  title: '{An Asset Theory of Social Policy Preferences}'
+  author:
+  - Iversen, Torben
+  - Soskice, David
+  date: 2001-12-01
+  page-range: 875–893
+  url: https://doi.org/10.1017/s0003055400400079
+  serial-number:
+    doi: 10.1017/s0003055400400079
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 4
+    volume: 95
+Iversen2000:
+  type: article
+  title: 'The Causes of Welfare State Expansion: Deindustrialization or Globalization?'
+  author:
+  - Iversen, Torben
+  - Cusack, Thomas R.
+  date: 2000-04-01
+  page-range: 313–349
+  url: https://doi.org/10.1017/s0043887100016567
+  serial-number:
+    doi: 10.1017/s0043887100016567
+  parent:
+    type: periodical
+    title: World Politics
+    issue: 3
+    volume: 52
+Benabou2001:
+  type: article
+  title: '{Social Mobility and the Demand for Redistribution: The POUM Hypothesis}'
+  author:
+  - Benabou, R.
+  - Ok, E. A.
+  date: 2001-05-01
+  page-range: 447–487
+  url: https://doi.org/10.1162/00335530151144078
+  serial-number:
+    doi: 10.1162/00335530151144078
+  parent:
+    type: periodical
+    title: The Quarterly Journal of Economics
+    issue: 2
+    volume: 116
+Rehm2009:
+  type: article
+  title: '{Risks and Redistribution: An Individual-Level Analysis}'
+  author: Rehm, Philipp
+  date: 2009-01-30
+  page-range: 855–881
+  url: https://doi.org/10.1177/0010414008330595
+  serial-number:
+    doi: 10.1177/0010414008330595
+  parent:
+    type: periodical
+    title: Comparative Political Studies
+    issue: 7
+    volume: 42
+Cole2024:
+  type: web
+  title: '{Scholz urges German parties to exclude far right as AfD poised for state election victory}'
+  author: Cole, Deborah
+  date: 2024-09-02
+  publisher: The Guardian
+  organization: The Guardian
+  url: https://www.theguardian.com/world/article/2024/sep/01/german-far-right-party-afd-state-election-victory-thuringia
+Schumacher2014:
+  type: article
+  title: Do mainstream parties adapt to the welfare chauvinism of populist parties?
+  author:
+  - Schumacher, Gijs
+  - Van Kersbergen, Kees
+  date: 2016-05-01
+  page-range: 300–312
+  url: https://doi.org/10.1177/1354068814549345
+  serial-number:
+    doi: 10.1177/1354068814549345
+  parent:
+    type: periodical
+    title: Party Politics
+    issue: 3
+    volume: 22
+Abouchadi2020:
+  type: article
+  title: 'The Causal Effect of Radical Right Success on Mainstream Parties’ Policy Positions: A Regression Discontinuity Approach'
+  author:
+  - Abou-Chadi, Tarik
+  - Krause, Werner
+  date: 2020-07-01
+  page-range: 829–847
+  url: https://doi.org/10.1017/s0007123418000029
+  serial-number:
+    doi: 10.1017/s0007123418000029
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 3
+    volume: 50
+Attwell2021:
+  type: article
+  title: '{Deservingness perceptions, welfare state support and vote choice in Western Europe}'
+  author: Attewell, David
+  date: 2021-01-01
+  page-range: 611–634
+  url: https://doi.org/10.1080/01402382.2020.1715704
+  serial-number:
+    doi: 10.1080/01402382.2020.1715704
+  parent:
+    type: periodical
+    title: West European Politics
+    issue: 3
+    volume: 44
+Sniderman2004:
+  type: article
+  title: '{Predisposing Factors and Situational Triggers: Exclusionary Reactions to Immigrant Minorities}'
+  author:
+  - Sniderman, Paul M.
+  - Hagendoorn, Louk
+  - Prior, Markus
+  date: 2004-02-01
+  page-range: 35–49
+  url: https://doi.org/10.1017/s000305540400098x
+  serial-number:
+    doi: 10.1017/s000305540400098x
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 1
+    volume: 98
+Kros2019:
+  type: article
+  title: '{Explaining Differences in Welfare Chauvinism Between and Within Individuals Over Time: The Role of Subjective and Objective Economic Risk, Economic Egalitarianism, and Ethnic Threat}'
+  author:
+  - Kros, Mathijs
+  - Coenders, Marcel
+  date: 2019-06-18
+  page-range: 860–873
+  url: https://doi.org/10.1093/esr/jcz034
+  serial-number:
+    doi: 10.1093/esr/jcz034
+  parent:
+    type: periodical
+    title: European Sociological Review
+    issue: 6
+    volume: 35
+Achterberg2006:
+  type: article
+  title: '{Why do so many people vote ‘unnaturally’? A cultural explanation for voting behaviour}'
+  author:
+  - Achterberg, Peter
+  - Houtman, Dick
+  date: 2006-01-01
+  page-range: 75–92
+  url: https://doi.org/10.1111/j.1475-6765.2005.00291.x
+  serial-number:
+    doi: 10.1111/j.1475-6765.2005.00291.x
+  parent:
+    type: periodical
+    title: European Journal of Political Research
+    issue: 1
+    volume: 45
+Garand2017:
+  type: article
+  title: '{Immigration Attitudes and Support for the Welfare State in the American Mass Public}'
+  author:
+  - Garand, James C.
+  - Xu, Ping
+  - Davis, Belinda C.
+  date: 2017-01-01
+  page-range: 146–162
+  url: https://doi.org/10.1111/ajps.12233
+  serial-number:
+    doi: 10.1111/ajps.12233
+  parent:
+    type: periodical
+    title: American Journal of Political Science
+    issue: 1
+    volume: 61
+Gilens2003:
+  type: chapter
+  title: '{How the Poor Became Black: The Racialization of American Poverty in the Mass Media}'
+  author: ', Martin'
+  date: 2003
+  editor:
+  - Schram, Sanford F.
+  - Soss, Joe Brian
+  - Fording, Richard Carl
+  page-range: 101–130
+  serial-number:
+    doi: https://doi.org/10.3998/mpub.11932
+  parent:
+    type: book
+    title: '{Race and the Politics of Welfare Reform}'
+    publisher: University of Michigan Press
+Nolan2019:
+  type: article
+  title: '{The drivers of inequality in rich countries}'
+  author:
+  - Nolan, Brian
+  - Richiardi, Matteo G.
+  - Valenzuela, Luis
+  date: 2019-06-17
+  page-range: 1285–1324
+  url: https://doi.org/10.1111/joes.12328
+  serial-number:
+    doi: 10.1111/joes.12328
+  parent:
+    type: periodical
+    title: Journal of Economic Surveys
+    issue: 4
+    volume: 33
+AOM:
+  type: book
+  title: Atlas of Migration – 2020
+  author:
+  - Tarchi, Dario
+  - Sermi, Francesco
+  - Mcmahon, Simon
+  - Kalantaryan, Sona
+  - Belmonte, Martina
+  - Urso, Giuliana
+  date: 2020-12-17
+  publisher: Publications Office of the European Union
+  serial-number:
+    doi: 10.2760/430992
+Hanson2007:
+  type: article
+  title: Public Finance and Indvidual Preferences Over Globalization Strategies
+  author:
+  - Hanson, Gordon H.
+  - Scheve, Kenneth
+  - Slaughter, Matthew J.
+  date: 2007-02-19
+  page-range: 1–33
+  url: https://doi.org/10.1111/j.1468-0343.2007.00300.x
+  serial-number:
+    doi: 10.1111/j.1468-0343.2007.00300.x
+  parent:
+    type: periodical
+    title: Economics and Politics
+    issue: 1
+    volume: 19
+Lipset1963:
+  type: book
+  title: 'Political Man: The Social Bases of Politics'
+  author: Lipset, Seymour Martin
+  date: 1963-01-01
+  publisher: Doubleday
+Hooghe2002:
+  type: article
+  title: Does Left/Right Structure Party Positions on European Integration?
+  author:
+  - Hooghe, Liesbet
+  - Marks, Gary
+  - Wilson, Carole J.
+  date: 2002-10-01
+  page-range: 965–989
+  url: https://doi.org/10.1177/001041402236310
+  serial-number:
+    doi: 10.1177/001041402236310
+  parent:
+    type: periodical
+    title: Comparative Political Studies
+    issue: 8
+    volume: 35
+Sides2007:
+  type: article
+  title: 'European Opinion About Immigration: The Role of Identities, Interests and Information'
+  author:
+  - Sides, John
+  - Citrin, Jack
+  date: 2007-06-05
+  page-range: 477–504
+  url: https://doi.org/10.1017/s0007123407000257
+  serial-number:
+    doi: 10.1017/s0007123407000257
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 3
+    volume: 37
+deKoster2012:
+  type: article
+  title: 'The new right and the welfare state: The electoral relevance of welfare chauvinism and welfare populism in the Netherlands'
+  author:
+  - name: Koster
+    given-name: Willem
+    prefix: de
+  - Achterberg, Peter
+  - name: Waal
+    given-name: Jeroen
+    prefix: van der
+  date: 2012-09-28
+  page-range: 3–20
+  url: https://doi.org/10.1177/0192512112455443
+  serial-number:
+    doi: 10.1177/0192512112455443
+  parent:
+    type: periodical
+    title: International Political Science Review
+    issue: 1
+    volume: 34
+Mewes2020:
+  type: chapter
+  title: Unraveling Working-Class Welfare Chauvinism
+  author:
+  - Mewes, Jan
+  - Mau, Steffen
+  date: 2012-08-29
+  editor: Svallfors, Stefan
+  page-range: 119–157
+  url: https://doi.org/10.1515/9780804783170-008
+  serial-number:
+    doi: 10.1515/9780804783170-008
+  parent:
+    type: book
+    title: Contested welfare states
+    publisher: Stanford University Press
+Achterberg2011:
+  type: article
+  title: Two of a Kind? An Empirical Investigation of Anti-Welfare and Economic Egalitarianism
+  author:
+  - Achterberg, Peter
+  - Houtman, Dick
+  - Derks, Anton
+  date: 2011-10-01
+  page-range: 748–760
+  parent:
+    type: periodical
+    title: The Public Opinion Quarterly
+    issue: 4
+    volume: 75
+Citrin1997:
+  type: article
+  title: 'Public Opinion Toward Immigration Reform: The Role of Economic Motivations'
+  author:
+  - Citrin, Jack
+  - Green, Donald P.
+  - Muste, Christopher
+  - Wong, Cara
+  date: 1997-08-01
+  page-range: 858–881
+  url: https://doi.org/10.2307/2998640
+  serial-number:
+    doi: 10.2307/2998640
+  parent:
+    type: periodical
+    title: The Journal of Politics
+    issue: 3
+    volume: 59
+Ivarsflaten2005:
+  type: article
+  title: 'Threatened by diversity: Why restrictive asylum and immigration policies appeal to western Europeans'
+  author: Ivarsflaten, Elisabeth
+  date: 2005-04-01
+  page-range: 21–45
+  url: https://doi.org/10.1080/13689880500064577
+  serial-number:
+    doi: 10.1080/13689880500064577
+  parent:
+    type: periodical
+    title: Journal of Elections Public Opinion and Parties
+    issue: 1
+    volume: 15
+Ford2015:
+  type: article
+  title: Who Should We Help? An Experimental Test of Discrimination in the British Welfare State
+  author: Ford, Robert
+  date: 2016-01-01
+  page-range: 630–650
+  url: https://doi.org/10.1111/1467-9248.12194
+  serial-number:
+    doi: 10.1111/1467-9248.12194
+  parent:
+    type: periodical
+    title: Political Studies
+    issue: 3
+    volume: 64
+Hainmueller2007:
+  type: article
+  title: 'Educated Preferences: Explaining attitudes toward immigration in Europe'
+  author:
+  - Hainmueller, Jens
+  - Hiscox, Michael J.
+  date: 2007-04-01
+  url: https://doi.org/10.1017/s0020818307070142
+  serial-number:
+    doi: 10.1017/s0020818307070142
+  parent:
+    type: periodical
+    title: International Organization
+    issue: 2
+    volume: 61
+Coser1956:
+  type: book
+  title: The Functions of Social COnflict
+  author: Coser, Lewis A.
+  date: 1956
+  publisher: The Free Press
+ess8:
+  type: repository
+  title: '{Data file edition 2.2}'
+  date: 2016
+  publisher: Norwegian Agency for Shared Services in Education, Research
+  organization: 'ESS Round 8: European Social Survey Round 8 Data'
+  url: http://dx.doi.org/10.21338/NSD-ESS8-2016
+ess4:
+  type: repository
+  title: '{Data file edition 4.5.}'
+  date: 2008
+  publisher: Norwegian Agency for Shared Services in Education, Research
+  organization: 'ESS Round 4: European Social Survey Round 4 Data'
+  url: http://dx.doi.org/10.21338/NSD-ESS4-2008
+May2023:
+  type: web
+  title: 'BREAKING: Rishi Sunak confirms cancellation of HS2 phase 2'
+  author: May, Tiana
+  date: 2023-10-04
+  publisher: Railway-News
+  organization: Railway-News
+  url: https://railway-news.com/breaking-rishi-sunak-confirms-cancellation-of-hs2-phase-2/
+Sheffer2017:
+  type: article
+  title: 'Nonrepresentative Representatives: {An} Experimental Study of the Decision Making of Elected Politicians'
+  author:
+  - Sheffer, Lior
+  - Loewen, Peter John
+  - Soroka, Stuart
+  - Walgrave, Stefaan
+  - Sheafer, Tamir
+  date: 2017-12-28
+  page-range: 302–321
+  url: https://doi.org/10.1017/s0003055417000569
+  serial-number:
+    doi: 10.1017/s0003055417000569
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 2
+    volume: 112
+Kahnemann1979:
+  type: article
+  title: 'Prospect Theory: {An} Analysis of Decision under Risk'
+  author:
+  - Kahneman, Daniel
+  - Tversky, Amos
+  date: 1979-03-01
+  page-range: 263–291
+  url: https://doi.org/10.2307/1914185
+  serial-number:
+    doi: 10.2307/1914185
+  parent:
+    type: periodical
+    title: Econometrica
+    issue: 2
+    volume: 47
+Arkes1985:
+  type: article
+  title: The psychology of sunk cost
+  author:
+  - Arkes, Hal R
+  - Blumer, Catherine
+  date: 1985-02-01
+  page-range: 124–140
+  url: https://doi.org/10.1016/0749-5978(85)90049-4
+  serial-number:
+    doi: 10.1016/0749-5978(85)90049-4
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 1
+    volume: 35
+Staw1976:
+  type: article
+  title: 'Knee-Deep in the Big Muddy: {A} Study of Escalating Commitment to a Chosen Course of Action'
+  author: Staw, Barry M.
+  date: 1976-06-01
+  page-range: 27–44
+  url: https://doi.org/10.1016/0030-5073(76)90005-2
+  serial-number:
+    doi: 10.1016/0030-5073(76)90005-2
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Performance
+    issue: 1
+    volume: 16
+Sleesman2012:
+  type: article
+  title: 'Cleaning Up the Big Muddy: {A} Meta-Analytic Review of the Determinants of Escalation of Commitment'
+  author:
+  - Sleesman, Dustin J.
+  - Conlon, Donald E.
+  - McNamara, Gerry
+  - Miles, Jonathan E.
+  date: 2012-06-01
+  page-range: 541–562
+  url: https://doi.org/10.5465/amj.2010.0696
+  serial-number:
+    doi: 10.5465/amj.2010.0696
+  parent:
+    type: periodical
+    title: Academy of Management Journal
+    issue: 3
+    volume: 55
+Savage1972:
+  type: book
+  title: The Foundations of Statistics
+  author: Savage, Leonard J.
+  date: 1972-06-01
+  publisher: Courier Corporation
+Aronson1968:
+  type: chapter
+  title: 'Dissonance Theory: {Progress} and Problems'
+  author: Savage, Leonard J.
+  date: 1972-06-01
+  editor:
+  - Abelson, Robert P.
+  - Aronson, Elliot
+  - McGuire, William J.
+  - Newcomb, Theodore M.
+  - Rosenberg, Milton J.
+  - Tannenbaum, Percy H.
+  page-range: 5–27
+  parent:
+    type: book
+    title: Theories of Cognitive Dissonance; {A} Sourcebook
+    publisher: Rand-McNally
+Festinger1957:
+  type: book
+  title: A Theory of Cognitive Dissonance
+  author: Festinger, Leon
+  date: 1957-06-01
+  publisher: Stanford University Press
+  url: https://doi.org/10.1515/9781503620766
+  serial-number:
+    doi: 10.1515/9781503620766
+Conlon1993:
+  type: article
+  title: The Role of Project Completion Information in Resource Allocation Decisions
+  author:
+  - Conlon, D. E.
+  - Garland, H.
+  date: 1993-04-01
+  page-range: 402–413
+  url: https://doi.org/10.2307/256529
+  serial-number:
+    doi: 10.2307/256529
+  parent:
+    type: periodical
+    title: Academy of Management Journal
+    issue: 2
+    volume: 36
+Goffman1959:
+  type: book
+  title: The Presentation of Self in Everyday Life
+  author: Goffman, Erving
+  date: 1959-05-20
+  publisher: Anchor
+Jones1982:
+  type: chapter
+  title: Toward a General Theory of Strategic Self-Presentation
+  author:
+  - Jones, Edward E.
+  - Pittman, Thane S.
+  date: 1982
+  editor: Suls, Jerry M.
+  page-range: 231–263
+  parent:
+    type: book
+    title: Psychological Perspectives on the Self
+    publisher: Erlbaum
+    volume: 1
+Eisenhardt1989:
+  type: article
+  title: 'Agency Theory: An Assessment and Review'
+  author: Eisenhardt, Kathleen M.
+  date: 1989-01-01
+  page-range: 57
+  url: https://doi.org/10.2307/258191
+  serial-number:
+    doi: 10.2307/258191
+  parent:
+    type: periodical
+    title: Academy of Management Review
+    issue: 1
+    volume: 14
+Jensen1976:
+  type: article
+  title: 'Theory of the firm: Managerial behavior, agency costs and ownership structure'
+  author:
+  - Jensen, Michael C.
+  - Meckling, William H.
+  date: 1976-10-01
+  page-range: 305–360
+  url: https://doi.org/10.1016/0304-405x(76)90026-x
+  serial-number:
+    doi: 10.1016/0304-405x(76)90026-x
+  parent:
+    type: periodical
+    title: Journal of Financial Economics
+    issue: 4
+    volume: 3
+Ross1973:
+  type: article
+  title: 'The Economic Theory of Agency: The Principal''s Problem'
+  author: Ross, Stephen A.
+  date: 1973
+  page-range: 134–139
+  url: https://www.jstor.org/stable/1817064
+  parent:
+    type: periodical
+    title: The American Economic Review
+    issue: 2
+    volume: 63
+Staw1987:
+  type: chapter
+  title: ' Behavior in escalation situations: {Antecedents}, prototypes, and solutions'
+  date: 1987
+  editor:
+  - Cummings, L L.
+  - Staw, Barry M.
+  page-range: 39–78
+  parent:
+    type: book
+    title: Research in Organizational Behavior
+    publisher: JAI
+    volume: 9
+Flyvbjerg2014:
+  type: article
+  title: What you Should Know about Megaprojects and Why
+  author: Flyvbjerg, Bent
+  date: 2014-04-01
+  page-range: 6–19
+  url: https://doi.org/10.1002/pmj.21409
+  serial-number:
+    doi: 10.1002/pmj.21409
+  parent:
+    type: periodical
+    title: Project Management Journal
+    issue: 2
+    volume: 45
