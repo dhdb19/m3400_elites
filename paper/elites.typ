@@ -1,3 +1,4 @@
+#import "@preview/lilaq:0.1.0" as lq
 #import "../style/paper_template.typ": template
 
 #show: template.with(
@@ -32,6 +33,16 @@
 = Theory
 
 #include "3_theory.typ"
+
+= Research Design
+
+#include "4_rd.typ"
+
+= Appendix
+
+#include "5_appendix.typ"
+
+// #let (x, y) = lq.load-txt(read("../data/d2000_oecd/oecd_filtered_clean.csv"))
 
 = Equations
 
