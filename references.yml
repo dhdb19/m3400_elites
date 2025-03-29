@@ -189,6 +189,7 @@ Bverfg1:
   date: 2023-11-15
   publisher: Bundesverfassungsgericht
   url: https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2023/bvg23-101.html
+  genre: Press release
 Bverfg2:
   type: report
   title: '{Application for preliminary injunction against transfer of EUR 60 billion borrowing authorisation to ‘Energy and Climate Fund’ rejected}'
@@ -196,6 +197,7 @@ Bverfg2:
   date: 2023-12-08
   publisher: Bundesverfassungsgericht
   url: https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/EN/2022/bvg22-104.html
+  genre: Press release
 Hempel2023:
   type: web
   title: '{Wie die Ampel gegen das Grundgesetz verstieß}'
@@ -3821,7 +3823,9 @@ Staw1976:
     volume: 16
 Sleesman2012:
   type: article
-  title: 'Cleaning Up the Big Muddy: {A} Meta-Analytic Review of the Determinants of Escalation of Commitment'
+  title: 
+    value: 'Cleaning Up the Big Muddy: A Meta-Analytic Review of the Determinants of Escalation of Commitment'
+    verbatim: false
   author:
   - Sleesman, Dustin J.
   - Conlon, Donald E.
@@ -3974,3 +3978,153 @@ Flyvbjerg2014:
     title: Project Management Journal
     issue: 2
     volume: 45
+F24:
+  type: web
+  title: French pension deficit set to more than double in a decade –- despite reform
+  author:
+  - FRANCE 24
+  - Reuters
+  date: 2025-02-20
+  publisher: FRANCE 24
+  organization: FRANCE 24
+  url: https://www.france24.com/en/europe/20250220-french-pension-deficit-set-to-more-than-double-in-a-decade-%E2%80%93-despite-reform
+Martinez2024:
+  type: web
+  title: Germany approves pension reform to incentivize later retirement
+  author: Martinez, Maria
+  date: 2024-09-04
+  publisher: Reuters
+  organization: Reuters
+  url: https://www.reuters.com/world/europe/germany-approves-pension-reform-incentivize-later-retirement-2024-09-04/
+Neely1996:
+  type: web
+  title: 'Shaking the Third Rail: {Reforming} {Social Security}'
+  author: Clark Neely, Michelle
+  date: 1996-10-01
+  publisher: Federal Reserve Bank of St. Louis
+  organization: Federal Reserve Bank of St. Louis
+  url: https://www.stlouisfed.org/publications/regional-economist/october-1996/shaking-the-third-rail-reforming-social-security
+ssa2024:
+  type: report
+  title: The 2024 Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insruance Trust Funds
+  date: 2024-05-06
+  publisher: U.S. Government Publishing Office
+  organization: Board of Trustees of the Federal Old-Age, Survivors Insurance, Federal Disability Insruance Trust Funds
+  url: https://www.ssa.gov/OACT/TR/2024/tr2024.pdf
+Leali2023:
+  type: web
+  title: France is on fire. {How} bad is it this time?
+  author: Leali, Giorgo
+  date: 2023-03-25
+  publisher: Politico
+  organization: Politico
+  url: https://www.politico.eu/article/france-emmanuel-macron-is-on-fire-over-pension-reform-how-bad-is-it/
+Gardiner2020:
+  type: web
+  title: California Bullet Train Quickly Losing Money and Support
+  author: Gardener, Dustin
+  date: 2020-06-23
+  publisher: Governing
+  organization: Governing
+  url: https://www.governing.com/community/california-bullet-train-quickly-losing-money-and-support.html
+Sunak2023:
+  type: misc
+  title: PM redirects HS2 funding to revolutionise transport across the North and Midlands
+  author: Sunak, Rishi
+  date: 2023-10-04
+  publisher: Prime Minister's Office, 10 Downing Street; Department for Transport
+  organization: Prime Minister's Office, 10 Downing Street; Department for Transport
+  url: https://www.gov.uk/government/news/pm-redirects-hs2-funding-to-revolutionise-transport-across-the-north-and-midlands
+  genre: Press release
+Topham2023:
+  type: web
+  title: Industry backlash at Sunak's `damaging` U-turn on nothern leg of HS2
+  author:
+  - Topham, Gwyn
+  - Stacey, Kiran
+  - Crerar, Pippa
+  date: 2023-10-04
+  publisher: The Guardian
+  organization: The Guardian
+  url: https://www.theguardian.com/uk-news/2023/oct/04/industry-backlash-at-sunaks-damaging-u-turn-on-northern-leg-of-hs2
+Cornelio2021:
+  type: article
+  title: What does it take to kill a megaproject? {The} reverse escalation of commitment
+  author:
+  - Cornelio, Jose Rodrigo Juarez
+  - Sainati, Tristano
+  - Locatelli, Giorgio
+  date: 2021-08-31
+  page-range: 774–787
+  url: https://doi.org/10.1016/j.ijproman.2021.07.004
+  serial-number:
+    doi: 10.1016/j.ijproman.2021.07.004
+  parent:
+    type: periodical
+    title: International Journal of Project Management
+    issue: 7
+    volume: 39
+Best2011:
+  type: article
+  title: Does Personality Matter in Politics? Personality Factors as Determinants of Parliamentary Recruitment and Policy Preferences
+  author: Best, Heinrich
+  date: 2011-01-01
+  page-range: 928–948
+  url: https://doi.org/10.1163/156913311x607638
+  serial-number:
+    doi: 10.1163/156913311x607638
+  parent:
+    type: periodical
+    title: Comparative Sociology
+    issue: 6
+    volume: 10
+Dietrich2012:
+  type: article
+  title: 'Personality and Legislative Politics: The Big Five Trait Dimensions Among U.S. State Legislators'
+  author:
+  - Dietrich, Bryce J.
+  - Lasley, Scott
+  - Mondak, Jeffery J.
+  - Remmel, Megan L.
+  - Turner, Joel
+  date: 2012-03-27
+  page-range: 195–210
+  url: https://doi.org/10.1111/j.1467-9221.2012.00870.x
+  serial-number:
+    doi: 10.1111/j.1467-9221.2012.00870.x
+  parent:
+    type: periodical
+    title: Political Psychology
+    issue: 2
+    volume: 33
+Miler2009:
+  type: article
+  title: The Limitations of Heuristics for Political Elites
+  author: Miler, Kristina C.
+  date: 2009-10-15
+  page-range: 863–894
+  url: https://doi.org/10.1111/j.1467-9221.2009.00731.x
+  serial-number:
+    doi: 10.1111/j.1467-9221.2009.00731.x
+  parent:
+    type: periodical
+    title: Political Psychology
+    issue: 6
+    volume: 30
+Flyvbjerg2003:
+  type: article
+  title: How common and how large are cost overruns in transport infrastructure projects?
+  author:
+  - Flyvbjerg, Bent
+  - Holm, Mette K. Skamris
+  - Buhl, Søren L.
+  date: 2003-01-01
+  page-range: 71–88
+  url: https://doi.org/10.1080/01441640309904
+  serial-number:
+    doi: 10.1080/01441640309904
+  parent:
+    type: periodical
+    title: Transport Reviews
+    issue: 1
+    volume: 23

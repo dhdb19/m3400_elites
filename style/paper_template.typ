@@ -1,3 +1,12 @@
+#let pre_cite(..args, prefix: none) = {
+  if prefix == none {
+    cite(..args)
+  } else {
+    show "(": [(#prefix ]
+    cite(..args)
+  }
+}
+
 #let make_authors(
   title,
   authors,
@@ -101,10 +110,16 @@
     first-line-indent: 0.5in,
     spacing: 0.5em,
   )
-  set text(size: 10pt)
+  set text(
+    size: 10pt,
+    lang: "en",
+    region: "en",
+  )
   bibliography(
-    "../references.bib",
-    style: "american-psychological-association",
+    "../references.yml",
+    // style: "american-psychological-association",
+    style: "apa",
+    // style: "../style/apa.csl",
     title: "References",
   )
 }
@@ -170,6 +185,8 @@
   set text(
     font: "TeX Gyre Termes",
     size: 11pt,
+    lang: "en",
+    region: "en",
   )
   // titlepage
   set page(
