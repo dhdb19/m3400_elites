@@ -4128,3 +4128,650 @@ Flyvbjerg2003:
     title: Transport Reviews
     issue: 1
     volume: 23
+astebro-2007:
+  type: article
+  title: 'Inventor perseverance after being told to quit: the role of cognitive biases'
+  author:
+  - Åstebro, Thomas
+  - Jeffrey, Scott A.
+  - Adomdza, Gordon K.
+  date: 2007-01-02
+  page-range: 253–272
+  url: https://doi.org/10.1002/bdm.554
+  serial-number:
+    doi: 10.1002/bdm.554
+  parent:
+    type: periodical
+    title: Journal of Behavioral Decision Making
+    issue: 3
+    volume: 20
+bazerman-1982:
+  type: article
+  title: '{Performance evaluation in a dynamic context: A laboratory study of the impact of a prior commitment to the ratee.}'
+  author:
+  - Bazerman, Max H.
+  - Beekun, Rafik I.
+  - Schoorman, F. David
+  date: 1982
+  page-range: 873–876
+  url: https://doi.org/10.1037/0021-9010.67.6.873
+  serial-number:
+    doi: 10.1037/0021-9010.67.6.873
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 6
+    volume: 67
+bazerman-1984:
+  type: article
+  title: Escalation of commitment in individual and group decision making
+  author:
+  - Bazerman, Max H.
+  - Giuliano, Toni
+  - Appelman, Alan
+  date: 1984-04-01
+  page-range: 141–152
+  url: https://doi.org/10.1016/0030-5073(84)90017-5
+  serial-number:
+    doi: 10.1016/0030-5073(84)90017-5
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Performance
+    issue: 2
+    volume: 33
+berg-2008:
+  type: article
+  title: 'The role of information asymmetry in escalation phenomena: Empirical evidence'
+  author:
+  - Berg, Joyce E.
+  - Dickhaut, John W.
+  - Kanodia, Chandra
+  date: 2008-09-14
+  page-range: 135–147
+  url: https://doi.org/10.1016/j.jebo.2007.07.007
+  serial-number:
+    doi: 10.1016/j.jebo.2007.07.007
+  parent:
+    type: periodical
+    title: Journal of Economic Behavior & Organization
+    issue: 2
+    volume: 69
+boehne-2000:
+  type: article
+  title: 'Deciding Whether to Complete or Terminate an Unfinished Project: A Strong Test of the Project Completion Hypothesis'
+  author:
+  - Boehne, Donna M
+  - Paese, Paul W
+  date: 2000-03-01
+  page-range: 178–194
+  url: https://doi.org/10.1006/obhd.1999.2877
+  serial-number:
+    doi: 10.1006/obhd.1999.2877
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 2
+    volume: 81
+booth-2003:
+  type: article
+  title: The impact of an ethical environment on managers' project evaluation judgments under agency problem conditions
+  author:
+  - Booth, Peter
+  - Schulz, Axel K.-d
+  date: 2003-04-04
+  page-range: 473–488
+  url: https://doi.org/10.1016/s0361-3682(03)00012-6
+  serial-number:
+    doi: 10.1016/s0361-3682(03)00012-6
+  parent:
+    type: periodical
+    title: Accounting Organizations and Society
+    issue: 5–6
+    volume: 29
+bragger-1998:
+  type: article
+  title: 'Hyteresis and Uncertainty: The Effect of Uncertainty on Delays to Exit Decisions'
+  author:
+  - Bragger, Jennifer DeNicolis
+  - Bragger, Donald
+  - Hantula, Donald A
+  - Kirnan, Jean
+  date: 1998-06-01
+  page-range: 229–253
+  url: https://doi.org/10.1006/obhd.1998.2779
+  serial-number:
+    doi: 10.1006/obhd.1998.2779
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 3
+    volume: 74
+bragger-2003:
+  type: article
+  title: '{When success breeds failure: History, hysteresis, and delayed exit decisions.}'
+  author:
+  - Bragger, Jennifer DeNicolis
+  - Hantula, Donald A.
+  - Bragger, Donald
+  - Kirnan, Jean
+  - Kutcher, Eugene
+  date: 2003
+  page-range: 6–14
+  url: https://doi.org/10.1037/0021-9010.88.1.6
+  serial-number:
+    doi: 10.1037/0021-9010.88.1.6
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 1
+    volume: 88
+brockner-1986:
+  type: article
+  title: 'Escalation of Commitment to an Ineffective Course of Action: The Effect of Feedback Having Negative Implications for Self-Identity'
+  author:
+  - Brockner, Joel
+  - Houser, Robert
+  - Birnbaum, Gregg
+  - Lloyd, Kathy
+  - Deitcher, Janet
+  - Nathanson, Sinaia
+  - Rubin, Jeffrey Z.
+  date: 1986-03-01
+  page-range: 109
+  url: https://doi.org/10.2307/2392768
+  serial-number:
+    doi: 10.2307/2392768
+  parent:
+    type: periodical
+    title: Administrative Science Quarterly
+    issue: 1
+    volume: 31
+brockner-1982:
+  type: article
+  title: 'Factors affecting entrapment in escalating conflicts: The importance of timing'
+  author:
+  - Brockner, Joel
+  - Rubin, Jeffrey Z
+  - Fine, Judy
+  - Hamilton, Thomas P
+  - Thomas, Barbara
+  - Turetsky, Beth
+  date: 1982-06-01
+  page-range: 247–266
+  url: https://doi.org/10.1016/0092-6566(82)90080-0
+  serial-number:
+    doi: 10.1016/0092-6566(82)90080-0
+  parent:
+    type: periodical
+    title: Journal of Research in Personality
+    issue: 2
+    volume: 16
+brody-2002:
+  type: article
+  title: Influence of Prior Involvement on Employees' Ratings
+  author:
+  - Brody, Richard G.
+  - Frank, Kimberly E.
+  date: 2002-02-01
+  page-range: 139–149
+  url: https://doi.org/10.2466/pr0.2002.90.1.139
+  serial-number:
+    doi: 10.2466/pr0.2002.90.1.139
+  parent:
+    type: periodical
+    title: Psychological Reports
+    issue: 1
+    volume: 90
+garland-1998:
+  type: article
+  title: 'Too Close to Quit: The Role of Project Completion in Maintaining Commitment1'
+  author:
+  - Garland, Howard
+  - Conlon, Donald E.
+  date: 1998-11-01
+  page-range: 2025–2048
+  url: https://doi.org/10.1111/j.1559-1816.1998.tb01359.x
+  serial-number:
+    doi: 10.1111/j.1559-1816.1998.tb01359.x
+  parent:
+    type: periodical
+    title: Journal of Applied Social Psychology
+    issue: 22
+    volume: 28
+fox-1979:
+  type: article
+  title: 'The Trapped Administrator: Effects of Job Insecurity and Policy Resistance Upon Commitment to a Course of Action'
+  author:
+  - Fox, Frederick V.
+  - Staw, Barry M.
+  date: 1979-09-01
+  page-range: 449
+  url: https://doi.org/10.2307/2989922
+  serial-number:
+    doi: 10.2307/2989922
+  parent:
+    type: periodical
+    title: Administrative Science Quarterly
+    issue: 3
+    volume: 24
+garland-1991:
+  type: article
+  title: Effects of absolute and relative sunk costs on the decision to persist with a course of action
+  author:
+  - Garland, Howard
+  - Newport, Stephanie
+  date: 1991-02-01
+  page-range: 55–69
+  url: https://doi.org/10.1016/0749-5978(91)90005-e
+  serial-number:
+    doi: 10.1016/0749-5978(91)90005-e
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 1
+    volume: 48
+garland-1990:
+  type: article
+  title: 'De-escalation of commitment in oil exploration: When sunk costs and negative feedback coincide.'
+  author:
+  - Garland, Howard
+  - Sandefur, Craig A.
+  - Rogers, Anne C.
+  date: 1990-01-01
+  page-range: 721–727
+  url: https://doi.org/10.1037/0021-9010.75.6.721
+  serial-number:
+    doi: 10.1037/0021-9010.75.6.721
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 6
+    volume: 75
+haunschild-1994:
+  type: article
+  title: Managerial overcommitment in corporate acquisition processes
+  author:
+  - Haunschild, Pamela R.
+  - Davis-Blake, Alison
+  - Fichman, Mark
+  date: 1994-11-01
+  page-range: 528–540
+  url: https://doi.org/10.1287/orsc.5.4.528
+  serial-number:
+    doi: 10.1287/orsc.5.4.528
+  parent:
+    type: periodical
+    title: Organization Science
+    issue: 4
+    volume: 5
+heath-1995:
+  type: article
+  title: 'Escalation and De-escalation of Commitment in Response to Sunk Costs: The Role of Budgeting in Mental Accounting'
+  author: Heath, Chip
+  date: 1995-04-01
+  page-range: 38–54
+  url: https://doi.org/10.1006/obhd.1995.1029
+  serial-number:
+    doi: 10.1006/obhd.1995.1029
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 1
+    volume: 62
+heng-2003:
+  type: article
+  title: 'De-escalation of commitment in software projects: Who matters? What matters?'
+  author:
+  - Heng, Cheng-Suang
+  - Tan, Bernard C.Y.
+  - Wei, Kwok-Kee
+  date: 2003-04-07
+  page-range: 99–110
+  url: https://doi.org/10.1016/s0378-7206(03)00030-2
+  serial-number:
+    doi: 10.1016/s0378-7206(03)00030-2
+  parent:
+    type: periodical
+    title: Information & Management
+    issue: 1
+    volume: 41
+jeffrey-1992:
+  type: article
+  title: The Relation of Judgment, Personal Involvement, and Experience in the Audit of Bank Loans
+  author: Jeffrey, Cynthia
+  date: 1992
+  page-range: 802–819
+  url: https://www.jstor.org/stable/248325
+  parent:
+    type: periodical
+    title: The Accounting Review
+    issue: 4
+    volume: 67
+keil-1995:
+  type: article
+  title: The effects of sunk cost and project completion on information technology project escalation
+  author:
+  - Keil, M.
+  - Truex, D.P.
+  - Mixon, R.
+  date: 1995-01-01
+  page-range: 372–381
+  url: https://doi.org/10.1109/17.482086
+  serial-number:
+    doi: 10.1109/17.482086
+  parent:
+    type: periodical
+    title: IEEE Transactions on Engineering Management
+    issue: 4
+    volume: 42
+ku-2007:
+  type: article
+  title: 'Learning to de-escalate: The effects of regret in escalation of commitment'
+  author: Ku, Gillian
+  date: 2007-12-03
+  page-range: 221–232
+  url: https://doi.org/10.1016/j.obhdp.2007.08.002
+  serial-number:
+    doi: 10.1016/j.obhdp.2007.08.002
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 2
+    volume: 105
+mccain-1986:
+  type: article
+  title: 'Continuing investment under conditions of failure: A laboratory study of the limits to escalation.'
+  author: McCain, Bruce E.
+  date: 1986-05-01
+  page-range: 280–284
+  url: https://doi.org/10.1037/0021-9010.71.2.280
+  serial-number:
+    doi: 10.1037/0021-9010.71.2.280
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 2
+    volume: 71
+mcnamara-2002:
+  type: article
+  title: 'Banking on Commitment: Intended and Unintended Consequences of an Organization''s Attempt to Attenuate Escalation of Commitment'
+  author:
+  - McNamara, Gerry
+  - Bromiley, Henry Moon And Philip
+  date: 2002
+  page-range: 443–452
+  url: https://doi.org/10.2307/3069358https://www.jstor.org/stable/3069358
+  parent:
+    type: periodical
+    title: The Academy of Management Journal
+    issue: 2
+    volume: 45
+moon-2001:
+  type: article
+  title: 'Looking forward and looking back: Integrating completion and sunk-cost effects within an escalation-of-commitment progress decision.'
+  author: Moon, H
+  date: 2001-01-01
+  page-range: 104–113
+  url: https://doi.org/10.1037/0021-9010.86.1.104
+  serial-number:
+    doi: 10.1037/0021-9010.86.1.104
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 1
+    volume: 86
+moon-2002:
+  type: article
+  title: 'From acclaim to blame: Evidence of a person sensitivity decision bias.'
+  author:
+  - Moon, Henry
+  - Conlon, Donald E.
+  date: 2002-01-01
+  page-range: 33–42
+  url: https://doi.org/10.1037/0021-9010.87.1.33
+  serial-number:
+    doi: 10.1037/0021-9010.87.1.33
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 1
+    volume: 87
+northcraft-1986:
+  type: article
+  title: Opportunity costs and the framing of resource allocation decisions
+  author:
+  - Northcraft, Gregory B
+  - Neale, Margaret A
+  date: 1986-06-01
+  page-range: 348–356
+  url: https://doi.org/10.1016/0749-5978(86)90034-8
+  serial-number:
+    doi: 10.1016/0749-5978(86)90034-8
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 3
+    volume: 37
+schaubroeck-1994:
+  type: article
+  title: Prospect Theory Predictions When Escalation Is Not the Only Chance to Recover Sunk Costs
+  author:
+  - Schaubroeck, John
+  - Davis, Elaine
+  date: 1994-01-01
+  page-range: 59–82
+  url: https://doi.org/10.1006/obhd.1994.1004
+  serial-number:
+    doi: 10.1006/obhd.1994.1004
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 1
+    volume: 57
+schmidt-2002:
+  type: article
+  title: Escalation of Commitment during New Product Development
+  author:
+  - Schmidt, J. B.
+  - Calantone, R. J.
+  date: 2002-04-01
+  page-range: 103–118
+  url: https://doi.org/10.1177/03079459994362
+  serial-number:
+    doi: 10.1177/03079459994362
+  parent:
+    type: periodical
+    title: Journal of the Academy of Marketing Science
+    issue: 2
+    volume: 30
+schoorman-1994:
+  type: article
+  title: 'Escalation of Commitment and the Framing Effect: An Empirical Investigation'
+  author:
+  - Schoorman, F. David
+  - Mayer, Roger C.
+  - Douglas, Christina A.
+  - Hetrick, Christopher T.
+  date: 1994-03-01
+  page-range: 509–528
+  url: https://doi.org/10.1111/j.1559-1816.1994.tb00596.x
+  serial-number:
+    doi: 10.1111/j.1559-1816.1994.tb00596.x
+  parent:
+    type: periodical
+    title: Journal of Applied Social Psychology
+    issue: 6
+    volume: 2
+schulz-hardt-2008:
+  type: article
+  title: 'Preference-based escalation: A new interpretation for the responsibility effect in escalating commitment and entrapment'
+  author:
+  - Schulz-Hardt, Stefan
+  - Thurow-Kröning, Birgit
+  - Frey, Dieter
+  date: 2008-12-28
+  page-range: 175–186
+  url: https://doi.org/10.1016/j.obhdp.2008.11.001
+  serial-number:
+    doi: 10.1016/j.obhdp.2008.11.001
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 2
+    volume: 108
+schulz-2002:
+  type: article
+  title: 'Persistence in capital budgeting reinvestment decisions – personal responsibility antecedent and information asymmetry moderator: A note'
+  author:
+  - Schulz, Axel K‐d.
+  - Cheng, Mandy M.
+  date: 2002-03-01
+  page-range: 73–86
+  url: https://doi.org/10.1111/1467-629x.00004
+  serial-number:
+    doi: 10.1111/1467-629x.00004
+  parent:
+    type: periodical
+    title: Accounting and Finance
+    issue: 1
+    volume: 42
+seibert-2001:
+  type: article
+  title: Comparison of Allocations by Individuals and Interacting Groups in an Escalation of Commitment Situation1
+  author:
+  - Seibert, Scott E.
+  - Goltz, Sonia M.
+  date: 2001-01-01
+  page-range: 134–156
+  url: https://doi.org/10.1111/j.1559-1816.2001.tb02486.x
+  serial-number:
+    doi: 10.1111/j.1559-1816.2001.tb02486.x
+  parent:
+    type: periodical
+    title: Journal of Applied Social Psychology
+    issue: 1
+    volume: 31
+soman-2001:
+  type: article
+  title: 'The mental accounting of sunk time costs: why time is not like money'
+  author: Soman, Dilip
+  date: 2001-06-29
+  page-range: 169–185
+  url: https://doi.org/10.1002/bdm.370
+  serial-number:
+    doi: 10.1002/bdm.370
+  parent:
+    type: periodical
+    title: Journal of Behavioral Decision Making
+    issue: 3
+    volume: 14
+tan-2002:
+  type: article
+  title: Financial Budgets and Escalation Effects
+  author:
+  - Tan, Hun-Tong
+  - Yates, J.Frank
+  date: 2002-03-01
+  page-range: 300–322
+  url: https://doi.org/10.1006/obhd.2001.2967
+  serial-number:
+    doi: 10.1006/obhd.2001.2967
+  parent:
+    type: periodical
+    title: Organizational Behavior and Human Decision Processes
+    issue: 2
+    volume: 87
+tosi-1997:
+  type: article
+  title: 'DISAGGREGATING THE AGENCY CONTRACT: THE EFFECTS OF MONITORING, INCENTIVE ALIGNMENT, AND TERM IN OFFICE ON AGENT DECISION MAKING.'
+  author:
+  - Tosi, H. L.
+  - Katz, J. P.
+  - Gomez-Mejia, L. R.
+  date: 1997-06-01
+  page-range: 584–602
+  url: https://doi.org/10.2307/257054
+  serial-number:
+    doi: 10.2307/257054
+  parent:
+    type: periodical
+    title: Academy of Management Journal
+    issue: 3
+    volume: 40
+whyte-1991:
+  type: article
+  title: 'Diffusion of responsibility: Effects on the escalation tendency.'
+  author: Whyte, Glen
+  date: 1991-06-01
+  page-range: 408–415
+  url: https://doi.org/10.1037/0021-9010.76.3.408
+  serial-number:
+    doi: 10.1037/0021-9010.76.3.408
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 3
+    volume: 76
+wong-2007:
+  type: article
+  title: The role of anticipated regret in escalation of commitment.
+  author:
+  - Wong, Kin Fai Ellick
+  - Kwong, Jessica Y. Y.
+  date: 2007-01-01
+  page-range: 545–554
+  url: https://doi.org/10.1037/0021-9010.92.2.545
+  serial-number:
+    doi: 10.1037/0021-9010.92.2.545
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 2
+    volume: 92
+wong-2006:
+  type: article
+  title: 'Understanding the emotional aspects of escalation of commitment: The role of negative affect.'
+  author:
+  - Wong, Kin Fai Ellick
+  - Yik, Michelle
+  - Kwong, Jessica Y. Y.
+  date: 2006-03-01
+  page-range: 282–297
+  url: https://doi.org/10.1037/0021-9010.91.2.282
+  serial-number:
+    doi: 10.1037/0021-9010.91.2.282
+  parent:
+    type: periodical
+    title: Journal of Applied Psychology
+    issue: 2
+    volume: 91
+zhang-2006:
+  type: article
+  title: 'Your Money or Your Self-Esteem: Threatened Egotism Promotes Costly Entrapment in Losing Endeavors'
+  author:
+  - Zhang, Liqing
+  - Baumeister, Roy F.
+  date: 2006-05-31
+  page-range: 881–893
+  url: https://doi.org/10.1177/0146167206287120
+  serial-number:
+    doi: 10.1177/0146167206287120
+  parent:
+    type: periodical
+    title: Personality and Social Psychology Bulletin
+    issue: 7
+    volume: 32
+weaver-1986:
+  type: article
+  title: The Politics of Blame Avoidance
+  author: Weaver, R. Kent
+  date: 1986-10-01
+  page-range: 371–398
+  url: https://doi.org/10.1017/s0143814x00004219
+  serial-number:
+    doi: 10.1017/s0143814x00004219
+  parent:
+    type: periodical
+    title: Journal of Public Policy
+    issue: 4
+    volume: 6

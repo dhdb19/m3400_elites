@@ -281,7 +281,7 @@
   ]
 
   show table: tab => [
-    #set text(font: "Lato", size: 9pt)
+    #set text(font: "Lato", size: 8pt)
     #set par(
       leading: 0.5em,
       justify: false,
