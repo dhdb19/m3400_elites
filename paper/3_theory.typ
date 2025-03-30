@@ -4,7 +4,7 @@ alternative over another
 Investment decisions = "situations in which resources are allocated to one decisional alternative over others" @Staw1976[p. 28]
 
 
-Prospect theory: "Loss-framed decisions (which include escalation decisions) leading to loss-aversion, and thus risk-seeking behavior (in this case further expenditures)"" @Sleesman2012[p. 544]
+Prospect theory: "Loss-framed decisions (which include escalation decisions) leading to loss-aversion, and thus risk-seeking behavior (in this case further expenditures)"" @sleesman-2012[p. 544]
 
 
 == theoretical distinction from gambler's fallacy
@@ -40,7 +40,7 @@ Subjective expected utility @Savage1972
 
 
 Project determinants
-Mostly driven by subjective expected utility @Sleesman2012[p. 542] @Staw1987
+Mostly driven by subjective expected utility @sleesman-2012[p. 542] @Staw1987
 
 
 Large infrastructure projects vs social programs touches several mechanisms
