@@ -99,11 +99,6 @@
 }
 
 #let make_bibliography() = {
-  set page(
-    paper: "a4",
-    margin: (x: 1in, y: 1in),
-    header: none,
-  )
   set par(
     justify: true,
     leading: 0.5em,
@@ -262,20 +257,19 @@
     #set align(left)
     #set text(
       font: "Lato",
-      size: 10pt,
+      size: 9pt,
     )
-    #text(fill: rgb("3C714F"), weight: "bold")[#upper(
-        c.supplement,
-      ) #c.numbering]
+    #text(fill: rgb("3C714F"), weight: "bold")[
+      #upper(c.supplement) #c.numbering]
     #h(0.2cm)
     #c.body
-    #line(length: 100%)
+    #line(length: 100%, stroke: 0.7pt)
     #v(-0.5em)
   ]
 
   show figure: fig => [
     #block(
-      stroke: 1pt,
+      stroke: 0.7pt,
       inset: 6pt,
     )[#fig]
   ]
@@ -297,7 +291,7 @@
   )
   // document --------
   body
-  pagebreak()
+  // pagebreak()
   // references -------
   make_bibliography()
 }

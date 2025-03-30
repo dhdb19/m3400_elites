@@ -43,6 +43,18 @@ oecd_filtered <- read_csv(
 )
 oecd_unfiltered <- read_csv("data/d2000_oecd/oecd_unfiltered.csv")
 
+oecd_ratio <- read_csv("data/d2000_oecd/oecd_ratio.csv")
+
+oecd_ratio_clean <- oecd_ratio %>%
+  rename(
+    "year" = "Category",
+    "avg" = `OECD average (ratio)`,
+    "min" = `OECD minimum`,
+    "max" = `OECD maximum`
+  ) %>%
+  mutate(
+    year = as.Date(year)
+  )
 
 
 oecd_filtered_clean <- oecd_filtered %>%
@@ -89,6 +101,79 @@ write_csv(oecd_filtered_clean, "data/d2000_oecd/oecd_filtered_clean.csv")
 #   values_from = obs_value,
 #   values_fill = NA
 # )
+
+plot <- oecd_filtered_clean %>%
+  filter(
+    expend_type == "public",
+    iso_country == "OECD",
+    measure == "perc_gov",
+    expend_type == "public"
+  ) %>%
+  ggplot() +
+  geom_line(
+    data = oecd_ratio_clean,
+    aes(
+      y = avg,
+      x = year,
+      color = "Old-age to working-age ratio",
+      lty = "Old-age to working-age ratio"
+    ),
+  ) +
+  geom_line(
+    aes(
+      y = obs_value,
+      x = year,
+      color = "Public pensions spending (% of gov't spending)",
+      lty = "Public pensions spending (% of gov't spending)"
+    ),
+  ) +
+  scale_color_manual(
+    name = "",
+    values = c(
+      "Public pensions spending (% of gov't spending)" = "#3C714F",
+      "Old-age to working-age ratio" = "#6fa580"
+    ),
+    limits = c(
+      "Public pensions spending (% of gov't spending)",
+      "Old-age to working-age ratio"
+    ),
+  ) +
+  scale_linetype_manual(
+    name = "",
+    values = c(
+      "Public pensions spending (% of gov't spending)" = "solid",
+      "Old-age to working-age ratio" = "dotted"
+    ),
+    limits = c(
+      "Public pensions spending (% of gov't spending)",
+      "Old-age to working-age ratio"
+    ),
+  ) +
+  scale_y_continuous(
+    name = "Percent",
+    expand = expansion(add = 0),
+    limits = c(0, 40),
+  ) +
+  scale_x_date(
+    name = "Year",
+    expand = expansion(add = 0),
+    limits = c(as.Date("1950-01-01"), as.Date("2021-01-01"))
+  ) +
+  coord_cartesian(clip = "off") +
+  weidmann_theme(
+    legend.position = "inside",
+    legend.frame = element_rect(
+      linewidth = 1,
+      color = "black",
+      linetype = "solid",
+    ),
+    legend.position.inside = c(1, 0.9),
+    legend.justification = "right",
+    legend.background = element_rect(fill = "#f0f0f0", color = NULL),
+  )
+plot
+
+ggsave(filename = "plot_pension_gov_ratio.svg", plot = plot, path = "figures/", height = 6, width = 16, units = "cm")
 
 plot_oecd_gdp <- oecd_filtered_clean %>%
   filter(expend_type == "public") %>%

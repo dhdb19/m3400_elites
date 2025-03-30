@@ -3996,7 +3996,7 @@ Martinez2024:
   publisher: Reuters
   organization: Reuters
   url: https://www.reuters.com/world/europe/germany-approves-pension-reform-incentivize-later-retirement-2024-09-04/
-Neely1996:
+neely-1996:
   type: web
   title: 'Shaking the Third Rail: {Reforming} {Social Security}'
   author: Clark Neely, Michelle
@@ -4011,7 +4011,7 @@ ssa2024:
   publisher: U.S. Government Publishing Office
   organization: Board of Trustees of the Federal Old-Age, Survivors Insurance, Federal Disability Insruance Trust Funds
   url: https://www.ssa.gov/OACT/TR/2024/tr2024.pdf
-Leali2023:
+leali-2023:
   type: web
   title: France is on fire. {How} bad is it this time?
   author: Leali, Giorgo
@@ -4775,3 +4775,41 @@ weaver-1986:
     title: Journal of Public Policy
     issue: 4
     volume: 6
+cbo-2024:
+  type: report
+  title: "CBO's 2024 Long-Term Projections for {Social Security}"
+  author: Congressional Budget Office
+  date: 2024-08-28
+  publisher: U.S. Congress
+  url: https://www.cbo.gov/system/files/2024-08/60392-Social-Security.pdf
+  serial-number:
+    serial: "60392"
+oecd-socx:
+  type: repository
+  author: OECD
+  title: OECD Social Expenditure Database (SOCX)
+  genre: Data set
+  date: 2023-01-01
+  url: https://www.oecd.org/en/data/datasets/social-expenditure-database-socx.html
+un-pop:
+  type: repository
+  author: 
+    name: 'UN Department of Economic and Social Affairs'
+  title: World Population Prospects 2024
+  genre: Data set
+  date: 2024-01-01
+  url: https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format
+pierson-2000:
+  type: article
+  title: Increasing Returns, Path Dependence, and the Study of Politics
+  author: Pierson, Paul
+  date: 2000-06-01
+  page-range: 251–267
+  url: https://doi.org/10.2307/2586011
+  serial-number:
+    doi: 10.2307/2586011
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 2
+    volume: 94
