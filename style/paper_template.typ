@@ -113,7 +113,7 @@
   bibliography(
     "../references.yml",
     // style: "american-psychological-association",
-    style: "apa",
+    style: "american-psychological-association",
     // style: "../style/apa.csl",
     title: "References",
   )

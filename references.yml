@@ -3807,7 +3807,7 @@ Arkes1985:
     title: Organizational Behavior and Human Decision Processes
     issue: 1
     volume: 35
-Staw1976:
+staw-1976:
   type: article
   title: 'Knee-Deep in the Big Muddy: {A} Study of Escalating Commitment to a Chosen Course of Action'
   author: Staw, Barry M.
@@ -4813,3 +4813,40 @@ pierson-2000:
     title: American Political Science Review
     issue: 2
     volume: 94
+downs-1957:
+  type: book
+  title: An Economic Theory of Democracy
+  author: Downs, Anthony
+  date: 1957-01-01
+  publisher: Harper
+  affiliated:
+    role: foreword
+    names: Kelley Jr., Stanley
+edwards-1954:
+  type: article
+  title: The theory of decision making.
+  author: Edwards, Ward
+  date: 1954-01-01
+  page-range: 380–417
+  url: https://doi.org/10.1037/h0053870
+  serial-number:
+    doi: 10.1037/h0053870
+  parent:
+    type: periodical
+    title: Psychological Bulletin
+    issue: 4
+    volume: 51
+staw-1981:
+  type: article
+  title: The Escalation of Commitment to a Course of Action
+  author: Staw, Barry M.
+  date: 1981-10-01
+  page-range: 577
+  url: https://doi.org/10.2307/257636
+  serial-number:
+    doi: 10.2307/257636
+  parent:
+    type: periodical
+    title: Academy of Management Review
+    issue: 4
+    volume: 6

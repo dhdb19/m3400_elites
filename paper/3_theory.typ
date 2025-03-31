@@ -1,7 +1,28 @@
+#let pre_cite(..args, prefix: none) = {
+  if prefix == none {
+    cite(..args)
+  } else {
+    show "(": [(#prefix ]
+    cite(..args)
+  }
+}
 
+// Irrationality
+In his seminal article,
+
+#pre_cite(<edwards-1954>, prefix: none, supplement: none)
+
+In his seminal study, #cite(<staw-1976>, form: "prose") observed that participants, when faced with an investment decision will
+
+#cite(<staw-1976>, form: "prose", supplement: "p. 27") puts it, "intuitively, one would expect individuals to reverse decisions or to change behavior which results in negative consequences". Beyond
+
+The rational choice literature suggests that #pre_cite(<downs-1957>, prefix: "e.g.", supplement: none)
+
+
+// Definition escalation of commitment
 Within the logic of rational choice theory, escalation of commitment refers to the irrational decision to allocate additional resources to one decisional
 alternative over another
-Investment decisions = "situations in which resources are allocated to one decisional alternative over others" @Staw1976[p. 28]
+Investment decisions = "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28]
 
 
 Prospect theory: "Loss-framed decisions (which include escalation decisions) leading to loss-aversion, and thus risk-seeking behavior (in this case further expenditures)"" @sleesman-2012[p. 544]
@@ -15,7 +36,7 @@ Notes:
 
 Difference between status quo bias, gambler's fallacy
 
-Take into account that people need to feel a degree of personal responsibility (if post-hoc rationalization is the relevant mechanism ,"self-justification may similarly depend upon the level of personal responsibility one has had in determining a particular course of action and the outcomes resulting from those actions" ) @Staw1976[p. 30]
+Take into account that people need to feel a degree of personal responsibility (if post-hoc rationalization is the relevant mechanism ,"self-justification may similarly depend upon the level of personal responsibility one has had in determining a particular course of action and the outcomes resulting from those actions" ) @staw-1976[p. 30]
 
 Subjective expected utility @Savage1972
 
