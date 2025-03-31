@@ -29,7 +29,7 @@
 
 #include "1_intro.typ"
 
-= Literature Overview
+= Literature, theory, and hypotheses
 
 #include "2_lit.typ"
 
