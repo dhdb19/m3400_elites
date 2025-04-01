@@ -7,7 +7,48 @@
   }
 }
 
-// Irrationality
+// Define decision environment
+
+
+Escalation of commitment is one several terms that describe a decision making phenomenon, wherein individual decision makers continue a course of action in the face of a negative outcome #pre_cite(<staw-1981>, prefix: "see", supplement: none). Negative outcomes conceivably conceptually extend to many kinds of decisions situations, e.g. interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018, however, in all strands of research on the phenomenon, including economics, psychology and organizational behavior, a negative outcome is most often conceptualized as some form of cost and the entire decision making environment as an _investment decision_ #pre_cite(<sleesman-2012>, prefix: "see", supplement: none)@bragger-2003. While this paper is motivated by some of the limitations of those previous approaches in explaining elected politicians' decisions making -- that specifically relate to how investment and returns on that investment are conceptualized, framing politicians' decision making environment as an investment decision, defined as "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28], is an efficient starting point.
+
+
+Two general strands in the existing literature can be distinguished: Economic and psychological. Economic accounts of escalation of commitment
+
+Individual decision making is a broad topic and researched, To define escalation of commitment,
+
+Individual decision making is of interest in most social science, the escalation of commitment literature forms a subset of that field that has been primarily concerned with decision making in _investment situations_. While this paper is motivated by some of the limitations of those previous approaches in explaining elected politicians' decisions making, that specifically relate to how investment and returns on that investment are conceptualized, framing politicians' decision making environment as an investment decision, defined as "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28], is an efficient starting point. Two general strands in the existing literature can be distinguished: Economic and psychological. Economic accounts of escalation of commitment
+
+Generally, two overarching categories of approaches can be distinguished: Economic and and psychological. The economic supercategory includes those approaches that
+
+
+
+
+// Individual decision making is a broad and well-researched field, for the purpose of researching escalation of commitment among politicians,
+
+I will first outline how different theoretical approaches conceptualize the decision making environment.
+
+// conceptualizing politicians' decisions as investment decisions, i.e. "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28], is generally appropriat .
+
+// While this research aims to fill
+
+// to formulate a concept of politicians' idiosyncratic decision making environment
+
+// Individual decision making is a broad and well-researched field, so, for the purpose of this paper,
+
+
+// the existing literature on escalation of commitment
+
+// escalation of commitment is a subset of
+
+
+// the existing literature on escalation of commitment generally can be to more narrowly investigate investment decisions, i.e. "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28]
+
+
+// Individual decision making is a diverse, broad and well-researched topic, so I will first narrow the scope
+
+
+"Decision making under risk can be viewed as a choice between prospects or gambles" @Kahnemann1979
 In his seminal article,
 
 #pre_cite(<edwards-1954>, prefix: none, supplement: none)
@@ -22,7 +63,7 @@ The rational choice literature suggests that #pre_cite(<downs-1957>, prefix: "e.
 // Definition escalation of commitment
 Within the logic of rational choice theory, escalation of commitment refers to the irrational decision to allocate additional resources to one decisional
 alternative over another
-Investment decisions = "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28]
+Investment decisions =
 
 
 Prospect theory: "Loss-framed decisions (which include escalation decisions) leading to loss-aversion, and thus risk-seeking behavior (in this case further expenditures)"" @sleesman-2012[p. 544]

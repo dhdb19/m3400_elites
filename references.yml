@@ -4850,3 +4850,34 @@ staw-1981:
     title: Academy of Management Review
     issue: 4
     volume: 6
+rego-2016:
+  type: article
+  title: Is there a Sunk Cost Effect in Committed Relationships?
+  author:
+  - Rego, Sara
+  - Arantes, Joana
+  - Magalhães, Paula
+  date: 2016-11-29
+  page-range: 508–519
+  url: https://doi.org/10.1007/s12144-016-9529-9
+  serial-number:
+    doi: 10.1007/s12144-016-9529-9
+  parent:
+    type: periodical
+    title: Current Psychology
+    issue: 3
+    volume: 37
+olivola-2018:
+  type: article
+  title: The interpersonal Sunk-Cost effect
+  author: Olivola, Christopher Y.
+  date: 2018-05-11
+  page-range: 1072–1083
+  url: https://doi.org/10.1177/0956797617752641
+  serial-number:
+    doi: 10.1177/0956797617752641
+  parent:
+    type: periodical
+    title: Psychological Science
+    issue: 7
+    volume: 29
