@@ -4881,3 +4881,10 @@ olivola-2018:
     title: Psychological Science
     issue: 7
     volume: 29
+savage-1972:
+  type: book
+  title: The Foundations of Statistics
+  edition: 2
+  author: Savage, Leonard J.
+  date: 1972-06-01
+  publisher: Dover Publications
