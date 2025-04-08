@@ -19,7 +19,7 @@
     stroke: none,
     table.header([Article], [pdf?], [Summary], [Question]),
     table.hline(start: 0, stroke: 1pt),
-    [@Arkes1985],
+    [@arkes-1985],
     [X],
     [convenience sample (college students), basics of sunk cost, experiment1 people take more expensive but less enjoyable trip (sunk cost confirmed), experiment 2: discounted tickets, non-discoutnted tickets were used far more (tiny sample), exp3invested 9 of 10 m], [
       Q1: Assume that you have spent \$100 on a ticket for a weekend ski trip to Michigan. Several weeks later you buy a \$50 ticket for a weekend ski trip to Wisconsin. You think you will enjoy the Wisconsin ski trip more than the Michigan ski trip. As you are putting your just-purchased Wisconsin ski trip ticket in your wallet, you notice that the Michigan ski trip and the Wisconsin ski trip are for the same weekend! It’s too late to sell either ticket, and you cannot return either one. You must use one ticket and not the other. Which ski trip will you go on? \$100 ski trip to Michigan 33 \$50 ski trip to Wisconsin 28;
