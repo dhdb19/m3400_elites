@@ -3841,12 +3841,6 @@ sleesman-2012:
     title: Academy of Management Journal
     issue: 3
     volume: 55
-Savage1972:
-  type: book
-  title: The Foundations of Statistics
-  author: Savage, Leonard J.
-  date: 1972-06-01
-  publisher: Courier Corporation
 Aronson1968:
   type: chapter
   title: 'Dissonance Theory: {Progress} and Problems'
@@ -4896,3 +4890,45 @@ marshall-2013:
   date: 2013-12-05
   doi: 10.1057/97811373
   publisher: Palgrace Macmillan
+dixit-1992:
+  type: article
+  title: Investment and Hysteresis
+  author: Dixit, Avinash
+  date: 1992-02-01
+  page-range: 107–132
+  url: https://doi.org/10.1257/jep.6.1.107
+  serial-number:
+    doi: 10.1257/jep.6.1.107
+  parent:
+    type: periodical
+    title: The Journal of Economic Perspectives
+    issue: 1
+    volume: 6
+dixit-1989a:
+  type: article
+  title: Intersectoral capital reallocation under price uncertainty
+  author: Dixit, Avinash
+  date: 1989-05-01
+  page-range: 309–325
+  url: https://doi.org/10.1016/0022-1996(89)90006-8
+  serial-number:
+    doi: 10.1016/0022-1996(89)90006-8
+  parent:
+    type: periodical
+    title: Journal of International Economics
+    issue: 3–4
+    volume: 26
+dixit-1989b:
+  type: article
+  title: Entry and Exit Decisions under Uncertainty
+  author: Dixit, Avinash
+  date: 1989-06-01
+  page-range: 620–638
+  url: https://doi.org/10.1086/261619
+  serial-number:
+    doi: 10.1086/261619
+  parent:
+    type: periodical
+    title: Journal of Political Economy
+    issue: 3
+    volume: 97
