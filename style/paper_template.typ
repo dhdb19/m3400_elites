@@ -247,7 +247,7 @@
   set par(
     justify: true,
     leading: 0.75em,
-    first-line-indent: 0.5in,
+    first-line-indent: 0.25in,
     spacing: 0.75em,
   )
   // format tables -------

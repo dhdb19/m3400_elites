@@ -18,7 +18,7 @@
     align: left,
     stroke: none,
     table.header([Article], [pdf?], [Summary], [Question]),
-    table.hline(start: 0, stroke: 1pt),
+    table.hline(start: 0, stroke: 0.7pt),
     [@arkes-1985],
     [X],
     [convenience sample (college students), basics of sunk cost, experiment1 people take more expensive but less enjoyable trip (sunk cost confirmed), experiment 2: discounted tickets, non-discoutnted tickets were used far more (tiny sample), exp3invested 9 of 10 m], [
