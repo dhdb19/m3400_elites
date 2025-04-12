@@ -260,7 +260,7 @@
       size: 9pt,
     )
     #text(fill: rgb("3C714F"), weight: "bold")[
-      #upper(c.supplement) #c.numbering]
+      #upper(c.supplement) #context { context c.counter.display(c.numbering) }]
     #h(0.2cm)
     #c.body
     #line(length: 100%, stroke: 0.7pt)
@@ -276,6 +276,7 @@
 
   show table: tab => [
     #set text(font: "Lato", size: 8pt)
+    #show math.equation: set text(font: "Lete Sans Math")
     #set par(
       leading: 0.5em,
       justify: false,

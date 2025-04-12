@@ -5037,3 +5037,25 @@ mas-colell-1995:
     - Green, Jerry R.
   date: 1995-01-01
   publisher: Oxford University Press
+meltzer-1981:
+  type: article
+  title: A Rational Theory of the Size of Government
+  author:
+  - Meltzer, Allan H.
+  - Richard, Scott F.
+  date: 1981-10-01
+  page-range: 914–927
+  url: https://doi.org/10.1086/261013
+  serial-number:
+    doi: 10.1086/261013
+  parent:
+    type: periodical
+    title: Journal of Political Economy
+    issue: 5
+    volume: 89
+mayhew-1974:
+  type: book
+  title: "Congress: The electoral connection"
+  author: Mayhew, David R.
+  date: 1974-01-01
+  publisher: Yale University Press
