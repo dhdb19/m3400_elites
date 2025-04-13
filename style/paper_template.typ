@@ -270,7 +270,7 @@
   show figure: fig => [
     #block(
       stroke: 0.7pt,
-      inset: 6pt,
+      inset: 5pt,
     )[#fig]
   ]
 
@@ -280,9 +280,12 @@
     #set par(
       leading: 0.5em,
       justify: false,
+      spacing: 0em,
     )
     #tab
   ]
+
+  set table(row-gutter: 0em)
 
 
   // equation formatting --------
