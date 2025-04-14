@@ -3756,7 +3756,7 @@ May2023:
   publisher: Railway-News
   organization: Railway-News
   url: https://railway-news.com/breaking-rishi-sunak-confirms-cancellation-of-hs2-phase-2/
-Sheffer2017:
+sheffer-2017:
   type: article
   title: 'Nonrepresentative Representatives: {An} Experimental Study of the Decision Making of Elected Politicians'
   author:
@@ -3775,7 +3775,7 @@ Sheffer2017:
     title: American Political Science Review
     issue: 2
     volume: 112
-Kahnemann1979:
+kahneman-1979:
   type: article
   title: 'Prospect Theory: {An} Analysis of Decision under Risk'
   author:
@@ -5059,3 +5059,92 @@ mayhew-1974:
   author: Mayhew, David R.
   date: 1974-01-01
   publisher: Yale University Press
+martens-2021:
+  type: article
+  title: Escalating commitment to a failing course of action — A re-examination
+  author:
+  - Martens, Nikolai
+  - Orzen, Henrik
+  date: 2021-06-21
+  page-range: 103811
+  url: https://doi.org/10.1016/j.euroecorev.2021.103811
+  serial-number:
+    doi: 10.1016/j.euroecorev.2021.103811
+  parent:
+    type: periodical
+    title: European Economic Review
+    volume: 137
+bowen-1987:
+  type: article
+  title: 'The Escalation Phenomenon Reconsidered: Decision Dilemmas or Decision Errors?'
+  author: Bowen, Michael G.
+  date: 1987-01-01
+  page-range: 52
+  url: https://doi.org/10.2307/257993
+  serial-number:
+    doi: 10.2307/257993
+  parent:
+    type: periodical
+    title: Academy of Management Review
+    issue: 1
+    volume: 12
+searing-1991:
+  type: article
+  title: Roles, Rules, and Rationality in the New Institutionalism
+  author: Searing, Donald D.
+  date: 1991-12-01
+  page-range: 1239–1260
+  url: https://doi.org/10.2307/1963944
+  serial-number:
+    doi: 10.2307/1963944
+  parent:
+    type: periodical
+    title: American Political Science Review
+    issue: 4
+    volume: 85
+fearon-1997:
+  type: article
+  title: Signaling foreign policy interests
+  author: Fearon, James D.
+  date: 1997-02-01
+  page-range: 68–90
+  url: https://doi.org/10.1177/0022002797041001004
+  serial-number:
+    doi: 10.1177/0022002797041001004
+  parent:
+    type: periodical
+    title: Journal of Conflict Resolution
+    issue: 1
+    volume: 41
+guardiancich-2020:
+  type: article
+  title: The political economy of pension reforms in Europe under financial stress
+  author:
+  - Guardiancich, Igor
+  - Guidi, Mattia
+  date: 2020-02-18
+  page-range: 817–840
+  url: https://doi.org/10.1093/ser/mwaa012
+  serial-number:
+    doi: 10.1093/ser/mwaa012
+  parent:
+    type: periodical
+    title: Socio-Economic Review
+    issue: 2
+    volume: 20
+linde-2016:
+  type: article
+  title: Do Politicians Take Risks Like the Rest of Us? An Experimental Test of Prospect Theory Under MPs
+  author:
+  - Linde, Jona
+  - Vis, Barbara
+  date: 2016-02-26
+  page-range: 101–117
+  url: https://doi.org/10.1111/pops.12335
+  serial-number:
+    doi: 10.1111/pops.12335
+  parent:
+    type: periodical
+    title: Political Psychology
+    issue: 1
+    volume: 38

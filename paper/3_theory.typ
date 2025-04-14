@@ -10,39 +10,55 @@
 // Define decision environment
 
 To give a concise description of the seminal experiment conducted by #cite(<staw-1976>, form: "prose", supplement: none): Subjects were presented with a hypothetical scenario, wherein they were made an officer of a technology company tasked with, in a first stage, allocating research and development funds to _either_ one of two company divisions and, in a second stage (5 years later in the hypothetical scenario), to evaluate their first-stage decision and allocate further research and development funds, freely distributable among the two divisions.
-In the second stage some subjects were informed that the division they had chosen in the first stage was underperforming, others that their divisions performed well.
+In the second stage some subjects were informed that the division they had chosen in the first stage was underperforming, others that their chosen division performed well.
 Though not stated explicitly, but presumably drawing from classical principles of economic decision making, the author states that "intuitively, one would expect individuals to reverse decisions or to change behaviors which results in negative consequences" #cite(<staw-1976>, form: "normal", supplement: "p. 27").
 However, he finds, when subjects were informed in the second stage that the department they had chosen in the first stage performed worse than the alternative, those subjects, on average, chose to allocate a sum 25% higher to their first-stage choice compared to subjects that were informed their first-stage choice had outperformed the alternative.
 Prima facia, this behavior appears incongruent with basic, both empirical and normative, principles of classical economic theories of decision making #pre_cite(<marshall-2013>, prefix: "e.g.", supplement: none), in particular marginal thinking, i.e. individuals evaluate decision alternatives on the _change in utility_ resulting from that decision versus the additional cost incurred -- previous investment decisions should (empirically and normatively) therefore not affect future decisions.
-Subjects who received negative feedback in the #cite(<staw-1976>, form: "prose", supplement: none) experiment violated this principle in the second stage, as the amount invested in the second stage was correlated with the amount previously invested in the first stage, even though the additional utility gained from investing more funding in the other corporate division is greater than sticking with the division chose at the first stage.
+Subjects who received negative feedback in the #cite(<staw-1976>, form: "prose", supplement: none) experiment violated this principle in the second stage, as the amount invested in the second stage was correlated with the amount previously invested in the first stage, even though the additional utility gained from investing more funding in the other corporate division is greater than sticking with the division chosen at the first stage.
 
 Since this seminal contribution, a robust body of research has emerged on this behavioral phenomenon, wherein individual decision makers continue a course of action in the face of negative outcomes #pre_cite(<sleesman-2012>, prefix: "see", supplement: "for an overview an meta-analysis").
-// Escalation of commitment is one of several terms that describe a decision making phenomenon, wherein individual decision makers continue a course of action in the face of a negative outcome #pre_cite(<staw-1981>, prefix: "see", supplement: none).
-Escalation of commitment, and some derivative forms, are the preferred terms used by organizational behavior and management/business researchers #pre_cite(<staw-1976>, prefix: "e.g.", supplement: none)@staw-1981@astebro-2007@bazerman-1982@bazerman-1984@booth-2003@brockner-1982@brockner-1986@garland-1998@garland-1990@haunschild-1994@heath-1995@heng-2003@jeffrey-1992@ku-2007@mccain-1986@mcnamara-2002@moon-2001@moon-2002@northcraft-1986@schaubroeck-1994@schmidt-2002@schulz-2002@seibert-2001@whyte-1991@wong-2006@wong-2007@zhang-2006 as well as some economists @berg-2008 and psychologists @boehne-2000. Other psychologists @arkes-1985@schulz-hardt-2008@tan-2002 and management researchers @keil-1995@soman-2001, somewhat unfortunately, use the term _sunk cost_, which is a related concept, that is sometimes viewed as a possible determinant of escalation of commitment, which will be discussed later.
+Escalation of commitment, and some derivative forms, are the preferred terms used by organizational behavior and management/business researchers #pre_cite(<staw-1976>, prefix: "e.g.", supplement: none)@staw-1981@astebro-2007@bazerman-1982@bazerman-1984@booth-2003@brockner-1982@brockner-1986@garland-1998@garland-1990@haunschild-1994@heath-1995@heng-2003@jeffrey-1992@ku-2007@mccain-1986@mcnamara-2002@moon-2001@moon-2002@northcraft-1986@schaubroeck-1994@schmidt-2002@schulz-2002@seibert-2001@whyte-1991@wong-2006@wong-2007@zhang-2006 as well as some economists @berg-2008 and psychologists @boehne-2000.
 #cite(<bragger-1998>, form: "prose", supplement: none) and #cite(<bragger-2003>, form: "prose", supplement: none) also refer to _hysteresis_ , a specific model of deferred investment #cite(<dixit-1992>, form: "normal", supplement: none).
-Negative outcomes conceivably conceptually extend to many kinds of decisions situations, e.g. interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018, however, in all the, otherwise quite disparate, strands of research on the phenomenon, i.e. economics, psychology, and organizational behavior, a negative outcome is most often conceptualized as some form of _cost_ and the entire decision making environment as an _investment decision_ #pre_cite(<sleesman-2012>, prefix: "see", supplement: none), i.e. "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28]. While this paper is motivated by some of the limitations of previous approaches in explaining elected politicians' decisions making -- that specifically relate to economic theories of decision making and how how investment and returns on that investment are conceptualized -- framing politicians' decision making environment in economic terms, specifically as an investment decision, is an efficient starting point.
+Other psychologists @arkes-1985@schulz-hardt-2008@tan-2002 and management researchers @keil-1995@soman-2001, use the term _sunk cost effect_.
+#cite(<martens-2021>, form: "prose", supplement: [p. 1]) state "escalation of commitment is a manifestation of the sunk cost fallacy".
+#cite(<sheffer-2017>, form: "prose", supplement: [e.g. p. 304]) employ the fixed expression "escalation of commitment in the face of sunk cost".
+Later in this section I will argue why escalation of commitment and sunk cost will not be used interchangeably in this paper.
+
+Staying the course in the face of negative outcomes conceivably conceptually extends to many kinds of decisions situations, e.g. interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018.
+However, as mentioned before
+
+in all the, otherwise quite disparate, strands of research on the phenomenon, i.e. economics, psychology, and organizational behavior,
+
+a negative outcome is most often conceptualized as some form of _cost_ and the entire decision making environment as an _investment decision_ #pre_cite(<sleesman-2012>, prefix: "see", supplement: none), i.e. "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28].
+While this paper is motivated by some of the limitations of previous approaches in explaining elected politicians' decisions making -- that specifically relate to economic theories of decision making and how how investment and returns on that investment are conceptualized -- framing politicians' decision making environment in economic terms, specifically as an investment decision, is an efficient starting point.
 Moreover, since politicians, like managers, investors, etc., often allocate funds for projects whose outcomes are not fully certain and foreseeable at time of investment, e.g. whether a large construction project will be completed in-time and in-budget, or whether a pension reform will be able ensure an adequate standard of living to retirees in ten years time, it will be efficient in general to look towards the well-developed canon of economic theories of decision making for a baseline of decision making _under conditions of uncertainty_, which much of the existing research, both economic and psychological, also in some way references.
 
-It should be noted, due to its apparent violation of expectations derived from basic, classical economic theories of decision making, escalation of commitment has been referred to as "irrational" economic behavior by some researchers of the phenomenon #pre_cite(<arkes-1985>, prefix: "e.g.", supplement: "p. 124")@astebro-2007[p. 254]@northcraft-1986[p. 349], again others refer only specifically to sunk cost effects as irrational #cite(<garland-1991>, form: "normal", supplement: none)#cite(<schmidt-2002>, form: "normal", supplement: none), both implying that economic theory alone cannot address the phenomenon.
+It should be noted, due to its apparent violation of expectations derived from basic, classical economic theories of decision making, escalation of commitment has been referred to as "irrational" economic behavior by some researchers of the phenomenon @astebro-2007[p. 254]@northcraft-1986[p. 349], again others refer only specifically to sunk cost effects as irrational #cite(<garland-1991>, form: "normal", supplement: none)#cite(<schmidt-2002>, form: "normal", supplement: none)@arkes-1985, both implying that economic theory alone cannot address the phenomenon.
 In any case, the standard textbook economic decision making paradigm under uncertainty #pre_cite(<mas-colell-1995>, prefix: [e.g.], supplement: none), namely Subjective Expected Utility #pre_cite(<savage-1972>, prefix: "see", supplement: none)@anscombe-1963, does allow for, and has been used to model escalation of commitment in different ways #pre_cite(<sleesman-2012>, prefix: "see", supplement: none).
 That is to say, Subjective Expected Utility Theory does not do away with marginalism, rendering sunk cost effects rational, but it takes into account individuals' _subjective_ beliefs about an uncertain future.
+Since sunk cost effects are inherently fallacious, and therefore irrational, I argue the terms are not interchangeable, rather sunk cost are one of many non-rationalist explanatory approaches for the behavioral phenomenon of escalation of commitment.
 Subjective Expected Utility Theory has many critics and empirical support is mixed #pre_cite(<ellsberg-1961>, prefix: "see", supplement: none)@allais-1953@tversky-1975@friedman-2014, still, it will serve a springboard role for further theoretical discussion.
 To wit, in what follows, decision making under uncertainty according to Subjective Expected Utility Theory will be illustrated in some detail for the idiosyncratic types of decisions politicians face, in order to precisely locate breakpoints of the theory as they relate to other competing or complementary theories and formulating hypotheses for escalation of commitment dynamics for politicians.
 
 == Decision under uncertainty
 
 A decision under uncertainty, in a broader sense, is any decision situation in which the outcome of that decision is not deterministic, i.e. there is a stochastically determined distribution of possible outcomes @edwards-1954.
-Some economists then further differentiate uncertain from risky decisions #pre_cite(<edwards-1954>, prefix: [see], supplement: [pp. 390-391]), wherein for risky decisions that distribution is, in principle, observable, i.e. the odds of the possible outcomes can be straightforwardly computed, e.g. a game of roulette, and for uncertain decisions that distribution is not objectively knowable, e.g. horse race betting @anscombe-1963.
+Some economists then further differentiate uncertain from risky decisions #pre_cite(<edwards-1954>, prefix: [see], supplement: [pp. 390-391]), wherein for risky decisions that distribution is, in principle, observable, i.e. the odds of the possible outcomes can be straightforwardly computed, e.g. a game of roulette, and for uncertain decisions that distribution is not objectively knowable, e.g. horse race betting, what #cite(<anscombe-1963>, form: "prose", supplement: [p. 200]) call a "horse lottery".
 More often than not, politicians (like managers) must make decisions under uncertainty in the stricter sense.
 According to Subjective Expected Utility, under conditions of uncertainty, individuals envision the possible outcomes of their decision situation, or "states of the world" #pre_cite(<savage-1972>, prefix: none, supplement: [p. 13]), to which they assign a likelihood of obtaining, or "personal probability" #pre_cite(<savage-1972>, prefix: none, supplement: [p. 30]).
 Under Subjective Expected Utility Theory, individuals in a decisions situation choose among "acts" #pre_cite(<savage-1972>, prefix: [see], supplement: [p. 14]), or in other words courses of action, which for each possible state of the world are associated with some payoff.
 The total utility of an act is given by the cumulative utility of each state of the world, weighted by its subjective probability to obtain, and decision makers choose that act with the greatest expected utility.
+Below follows a sketch of the two idiosyncratic decision scenarios politicians face mentioned before under Subjective Expected Utility Theory#footnote[In the following section I will employ some mathematical notation for purpose of illustration and conciseness. This paper does not intend to give a full formal logical treatise of Subjective Expected Utility Theory, within this limited scope, the notation will not be rigorous or following any particular convention, rather, where appropriate, it will take inspiration from #cite(<anscombe-1963>, form: "prose", supplement: none) and #cite(<savage-1972>, form: "prose", supplement: none)].
 
-Take the following two scenarios
-#footnote[In the following section I will employ some mathematical notation for purpose of illustration and conciseness. This paper does not intend to give a full formal logical treatise of Subjective Expected Utility Theory, within this limited scope, the notation will not be rigorous or following any particular convention, rather, where appropriate, it will take inspiration from #cite(<anscombe-1963>, form: "prose", supplement: none) and #cite(<savage-1972>, form: "prose", supplement: none)]:
-For sake of illustration, in keeping with the economic paradigm, assume legislators' primary rational self-interest is to get re-elected #pre_cite(<mayhew-1974>, prefix: [e.g.], supplement: none) and voters vote purely economically #pre_cite(<meltzer-1981>, prefix: [e.g.], supplement: none).
-We can conceptualize payoffs in terms of votes gained or lost by an act.
-In a first scenario, midway through construction, the national railway operator reports that the high-speed rail line currently being built will be delayed 2 years and 50% over-budget.
+
+First, however, it will be necessary to establish some basic assumptions of politician behavior.
+For the purpose of this paper, assume legislators' primary rational self-interest is to get re-elected #pre_cite(<mayhew-1974>, prefix: [e.g.], supplement: none).
+There is good reason to believe politicians are not solely reelection seeking, but also have other goals and roles #pre_cite(<searing-1991>, prefix: [see e.g.], supplement: none), but for reasons of parsimony, scope, and the fact that much of the existing literature is routed in the economic paradigm, I will continue with this assumption.
+Future research should revisit escalation of commitment among politicians with the lense of other paradigms.
+
+Furthermore, in keeping with the economic paradigm, for the purpose of the following vignettes, assume voters vote purely economically #pre_cite(<meltzer-1981>, prefix: [e.g.], supplement: none), payoffs can then be conceptualized in terms of votes gained or lost by an act.
+
+In a first scenario, assume midway through construction, the national railway operator reports that the high-speed rail line currently being built will be delayed 2 years and 50% over-budget.
 This first scenario is not dissimilar to the #cite(<staw-1976>, form: "prose", supplement: none) experiment.
 In a first stage, legislators are initially asked to approve the funding and timeline of the rail project.
 The decisions environment in this first stage, according to Subjective Expected Utility, can be conceived of as follows:
@@ -58,7 +74,7 @@ For instance, under purely economic voting, supporters of act $a_f$, voting in f
 Supporters of act $a_g$, voting against the project, may include airline executives, who expect a new long-distance rail service to cut into their bottom line.
 In those states, in which the rail project is chosen, but is delayed and over-budget, the legislator is additionally penalized (pen.) with losing voters for incompetence, increases taxes to fund the cost overrun, etc.
 The penalty is accordingly taken into account as additional votes (arithmetically expressed as fewer voters lost) for legislators, who voted against the project.
-Finally, to choose among the alternatives, legislators will/should calculate the expected utility of each act by $E(u(a))=p(s_(1a))*u(s_(1a)) + p(s_(2a))*u(s_(2a))+ p(s_(3a))*u(s_(3a)) + p(s_(4a))*u(s_(4a))$, substituting $a$ for the respective act, and choose the act with the higher expected utility.
+Finally, to choose among the alternatives, legislators will/should calculate the expected utility of each act, so in this case by $E(u(a))=0.6*u(s_(1a)) + 0.2*u(s_(2a))+ 0.15*u(s_(3a)) + 0.05*u(s_(4a))$, substituting $a$ for the respective act, and choose the act with the higher expected utility.
 Assuming a majority of legislators found the expected utility of voting in favor to be greater than voting against, the second stage, with the news of the delay and cost overrun, can be outlined in a similar way to the first stage.
 The possible states of the world may now include: The project will be (1) completed with the specified delay and cost increase, (2) further delayed and over-budget, and (3) never completed, and a possible distribution of subjective probabilities for one legislator may be $(30%, 60%, 10%)$, in order, with acts $a_(f f)$ voting to continue the funding and $a_(g g)$ voting to stop the project (see @3_rail_second).
 Expected utility is calculated as before.
@@ -66,14 +82,13 @@ Crucially, at this stage Subjective Expected Utility Theory does not strictly ne
 Finally, note that, even assuming politicians do not solely rely on their personal judgement for determining the likelihood distribution of the end-states of the large infrastructure project, but seek out information derived from scientifically sound strategies of quantifying that likelihood distribution, reasonable individuals will disagree over the assumptions made in the pursuit of any such strategy.
 I.e. the probability distribution of possible outcomes for this kind of decisions scenario is fundamentally subjective, unlike the probability distribution of a coin-toss, which will always be 50% heads -- 50% tails, or _objective_.
 
-
 #grid(
   columns: (10fr, 10fr),
   column-gutter: 1em,
   [#figure(
       kind: table,
       // placement: auto,
-      caption: [Decision scenario stage 1],
+      caption: [Decision scenario 1: Stage 1],
       table(
         columns: (3fr, 3fr, 10fr, 10fr),
         align: left,
@@ -94,7 +109,7 @@ I.e. the probability distribution of possible outcomes for this kind of decision
   [
     #figure(
       // placement: auto,
-      caption: [Decision scenario stage 2],
+      caption: [Decision scenario: Stage 2],
       kind: table,
       table(
         columns: (2.5fr, 2.5fr, 10fr, 10fr),
@@ -114,7 +129,7 @@ I.e. the probability distribution of possible outcomes for this kind of decision
     )<3_rail_second>],
 )
 
-Now, take a second scenario: the national audit authority releases a report, forecasting that on on pensions will increase by 100% in 5 years time, if current payment levels are maintained and no action is taken.
+Now, for a second scenario: the national audit authority releases a report, forecasting that on on pensions will increase by 100% in 5 years time, if current payment levels are maintained and no action is taken.
 Uncertainty rises from the fact that the audit authority's report is a forecast.
 Their projections could, therefore, be accurate ($s_1$), significantly overestimated ($s_2$), e.g. due to exogenous shocks, higher than anticipated immigration, a pandemic, etc., or significantly underestimated ($s_3$), e.g. due to overly optimistic assumptions in the aforementioned categories.
 A legislator may put chances at $(50%, 30%, 30%)$, in order.
@@ -123,7 +138,6 @@ Maintain current payment levels and cut other programs $(a_s)$, or reduce paymen
 In this simple case, the payoff matrix is the same as
 Fo this decision scenario, assume further that the three relevant economic classes are retirees, those at or around retirement age, who have not yet retired, and the young, far away from retirement.
 It is beyond the scope of this paper to develop a full matrix for all the payoffs, @3_pension gives a sketch of a conceivable electoral payoff structure, given the previous assumptions.
-
 
 // #figure(
 //   placement: auto,
@@ -228,69 +242,69 @@ It is beyond the scope of this paper to develop a full matrix for all the payoff
 //   ),
 // )<3_pension>
 
-#figure(
-  // placement: auto,
-  caption: [Decision scenario for pension reform under Subjective Expected Utility Theory],
-  kind: table,
-  table(
-    columns: (10fr, 10fr, 10fr, 10fr),
-    align: (left),
-    stroke: none,
-    table.header(
-      [*Cut social programs *$a_s$],
-      [*Pay with debt* $a_d$],
-      [*Cut pensions* $a_c$],
-      [*New taxes* $a_r$],
-    ),
-    table.hline(start: 0, stroke: 0.7pt),
-    [$s_1$ _projection correct_], [$s_1$ _projection correct_], [$s_1$ _projection correct_], [$s_1$ _projection correct_],
-    [
-      $#sym.arrow.t$ retirees\ $#sym.approx$ retirement-age\ $#sym.arrow.b$ young
-    ],
-    [
-      Payoff for act $a_d$: Retirees (growing share of constituency) support politician. Young & affluent oppose government lending.
-    ],
-    [
-      Payoff for act $a_c$: Retirees (growing share of constituency) don't support politician. Young constituents ambiguous.
-    ],
-    [
-      Payoff for act $a_r$: Retirees (growing share of constituency) support politician. Young constituents oppose.
-    ],
-    table.hline(start: 0, stroke: 0.7pt),
-    [$s_2$ _pessimistic projection_], [$s_2$ _pessimistic projection_], [$s_2$ _pessimistic projection_], [$s_2$ _pessimistic projection_],
-    [
-      $#sym.arrow.t$ retirees\ $#sym.approx$ retirement-age\ $#sym.arrow.b$ young
-    ],
-    [
-      Payoff for act $a_d$: Retirees (growing share of constituency) support politician. Young & affluent oppose government lending.
-    ],
-    [
-      Payoff for act $a_c$: Retirees (growing share of constituency) don't support politician. Young constituents ambiguous.
-    ],
-    [
-      Payoff for act $a_r$: Retirees (growing share of constituency) support politician. Young constituents oppose.
-    ],
-    table.hline(start: 0, stroke: 0.7pt),
-    [$s_3$ _optimistic projection_], [$s_3$ _optimistic projection_], [$s_3$ _optimistic projection_], [$s_3$ _optimistic projection_],
-    [
-      Payoff for act $a_s$: Retirees (growing share of constituency) support politician. Young & poor don't support.
-    ],
-    [
-      Payoff for act $a_d$: Retirees (growing share of constituency) support politician. Young & affluent oppose government lending.
-    ],
-    [
-      Payoff for act $a_c$: Retirees (growing share of constituency) don't support politician. Young constituents ambiguous.
-    ],
-    [
-      Payoff for act $a_r$: Retirees (growing share of constituency) support politician. Young constituents oppose.
-    ],
-    table.hline(start: 0, stroke: 0.7pt),
-    table.cell(
-      colspan: 4,
-      [*Note*: Arrows indicate theorized absolute votes gained/lost among by voter of that economic class, compared to status quo],
-    )
-  ),
-)<3_pension>
+// #figure(
+//   // placement: auto,
+//   caption: [Decision scenario for pension reform under Subjective Expected Utility Theory],
+//   kind: table,
+//   table(
+//     columns: (10fr, 10fr, 10fr, 10fr),
+//     align: (left),
+//     stroke: none,
+//     table.header(
+//       [*Cut social programs *$a_s$],
+//       [*Pay with debt* $a_d$],
+//       [*Cut pensions* $a_c$],
+//       [*New taxes* $a_r$],
+//     ),
+//     table.hline(start: 0, stroke: 0.7pt),
+//     [$s_1$ _projection correct_], [$s_1$ _projection correct_], [$s_1$ _projection correct_], [$s_1$ _projection correct_],
+//     [
+//       $#sym.arrow.t$ retirees\ $#sym.approx$ retirement-age\ $#sym.arrow.b$ young
+//     ],
+//     [
+//       Payoff for act $a_d$: Retirees (growing share of constituency) support politician. Young & affluent oppose government lending.
+//     ],
+//     [
+//       Payoff for act $a_c$: Retirees (growing share of constituency) don't support politician. Young constituents ambiguous.
+//     ],
+//     [
+//       Payoff for act $a_r$: Retirees (growing share of constituency) support politician. Young constituents oppose.
+//     ],
+//     table.hline(start: 0, stroke: 0.7pt),
+//     [$s_2$ _pessimistic projection_], [$s_2$ _pessimistic projection_], [$s_2$ _pessimistic projection_], [$s_2$ _pessimistic projection_],
+//     [
+//       $#sym.arrow.t$ retirees\ $#sym.approx$ retirement-age\ $#sym.arrow.b$ young
+//     ],
+//     [
+//       Payoff for act $a_d$: Retirees (growing share of constituency) support politician. Young & affluent oppose government lending.
+//     ],
+//     [
+//       Payoff for act $a_c$: Retirees (growing share of constituency) don't support politician. Young constituents ambiguous.
+//     ],
+//     [
+//       Payoff for act $a_r$: Retirees (growing share of constituency) support politician. Young constituents oppose.
+//     ],
+//     table.hline(start: 0, stroke: 0.7pt),
+//     [$s_3$ _optimistic projection_], [$s_3$ _optimistic projection_], [$s_3$ _optimistic projection_], [$s_3$ _optimistic projection_],
+//     [
+//       Payoff for act $a_s$: Retirees (growing share of constituency) support politician. Young & poor don't support.
+//     ],
+//     [
+//       Payoff for act $a_d$: Retirees (growing share of constituency) support politician. Young & affluent oppose government lending.
+//     ],
+//     [
+//       Payoff for act $a_c$: Retirees (growing share of constituency) don't support politician. Young constituents ambiguous.
+//     ],
+//     [
+//       Payoff for act $a_r$: Retirees (growing share of constituency) support politician. Young constituents oppose.
+//     ],
+//     table.hline(start: 0, stroke: 0.7pt),
+//     table.cell(
+//       colspan: 4,
+//       [*Note*: Arrows indicate theorized absolute votes gained/lost among by voter of that economic class, compared to status quo],
+//     )
+//   ),
+// )<3_pension>
 
 // #figure(
 //   placement: auto,
@@ -315,10 +329,9 @@ It is beyond the scope of this paper to develop a full matrix for all the payoff
 //   ),
 // )<3_pension>
 
-
 #figure(
   // placement: auto,
-  caption: [Decision scenario stage 2],
+  caption: [Decision scenario 2],
   kind: table,
   table(
     columns: (1fr, 1fr, 10fr, 10fr),
@@ -335,61 +348,35 @@ It is beyond the scope of this paper to develop a full matrix for all the payoff
     [$s_2$], [$.6$], [$A_(s)-(A_(c) + "pen."$)], [$A_(c)-(A_(s) - "pen."$)],
     [$s_3$], [$.1$], [$-(A_(s) + A_(c))$], [$A_(c)$]
   ),
-)
+)<3_pension>
 
-This distinction between uncertain and risky decisions leaves room to envisions several mechanisms by which escalation of commitment may occur with an economic framework.
-For the sake of precision then, escalation of commitment behavior among politicians is not necessarily interesting because its irrational or entirely incompatible with economic models of politician behavior
+Without developing the a full formal model, it is clear that under Subjective Expected Utility theory and some simple rationalist assumptions of politicians' behavior, personal probability and the size of the vote penalty legislators assign each state is decisive for whether politicians choose to escalate commitment.
 
-Subjective utility theory #pre_cite(<savage-1972>, prefix: "see e.g.", supplement: none) is the workhorse micro-economic foundation for individual decision making under uncertainty.
-
-
-Under these basic assumptions, escalation of commitment is an _irrational behavior_, and is referred to as such by most psychologists and organizational behavior scholar who research this behavior #pre_cite(<arkes-1985>, prefix: none, supplement: none)
-
-// Still, exact approaches differ among those literature strands, #cite(<bragger-2003>, form: "prose", supplement: none) synthesize from this disparate research: "escalation of commitment are situations in which there is an initial investment of resources, some indication of nonprofit making and continued investment in the face of negative feedback" @bragger-2003[p. 6].
-In his seminal paper, #cite(<staw-1976>, form: "prose", supplement: none), a organizational behavior and management researcher,
+To form empirical expectations for politicians' behavior then, politicians' process of arriving at personal probabilities and the expected vote penalty needs to be modelled in some way.
+Within this framework, we can differentiate approaches that either (1) aim to explain how politicians tackle the vote penalty and (2) approaches that tackle how politicians may arrive at some ordering of the probabilities they assign different states.
 
 
-Presumably from this principle #cite(<staw-1976>, form: "prose", supplement: none) derives the expectation that "intuitively, one
+
+Relating to probabilities
+
+Decision risk: Riskiness/Uncertainty of decision increases salience of loss potential to decision makers -> decreasing likelihood of escalation because prospect theory
+Information acquisition: Ambiguous information facilitates wrong probability judgments
+Decision uncertainty: Ambiguous information allows to focus on positive information
 
 
-Subjects in #cite(<staw-1976>, form: "author", supplement: none)'s experiment violated this principle
+
+Relating to penalty:
+
+Opportunity cost information: Opportunity cost information emphasizes utility of decision alternative, reducing escalation, realize the alternative also has voters
+Expressed preference for initial decision: Is almost worth any gamble
 
 
-that individuals base their decisions only on the marginal utility of an alternative, i.e. every decision must general maximal utility for minimal input
+For instance, from a Subjective Expected Utility standpoint modelling the vote penalty can be also be conceived of as decision under uncertainty, i.e. another _horse lottery_, making it a "compound lottery" #pre_cite(<anscombe-1963>, prefix: none, supplement: [p. 200]).
+However, the question of how politicians predict the voting behavior of their constituents is more broad and beyond the scope of this paper.
+Therefore, this paper will further interrogate how politicians come to assign probabilities to the possible outcomes (states) of their decisions.
 
+#cite(<sleesman-2012>, form: "prose", supplement: none) summarize in their meta-analysis any positive information @moon-2002 ambiguity of information in general @bowen-1987@bragger-2003, information on the decision's risk @schaubroeck-1994 and opportunity cost @northcraft-1986,
 
-In this seminal paper, #cite(<staw-1976>, form: "author", supplement: none), a organizational behavior researcher,
-
-This seminal paper employs a psychological
-
-#cite(<staw-1976>, form: "prose", supplement: none) foll
-
-This seminal research employs a psychological len
-
-
-#cite(<arkes-1985>, form: "prose", supplement: none)
-
-#cite(<staw-1976>, form: "prose", supplement: none) observed that subjects
-
-
-Prima facia, without reference to any particular decision making paradigm, the observation that individuals continue a course of action after receiving negative feedback, is unintuitive and runs counter to even basic assumptions of rational behavior, w
-
-
-even in the face of uncertainty is on its face puzzling and specifically run counter to expectations of _economic_ models of decision-making. Here economic models refer to Subjective Expected Utility Theory #pre_cite(<savage-1972>, prefix: "e.g.", supplement: none) and
-
-
-and runs counter to the most basic assumptions of rational decision making, i.e. "efficient, i.e. maximizing output for a given input, or minimizing input for a given output" @downs-1957[p. 5]
-
-
-To what extent it is irrational behavior is more complicated. Psychologists refer to irrational behavior in the sense that it contradict expectation of standard economic theory, here subjective expected utility theory.
-
-Economists and organizational behavior scholars, naturally, consider escalation of commitment an irrational behavior.
-naturally runs counter to intuitive expectations of individuals' behavior , and mo
-
-is on its face irrational, even before t
-
-
-Two general strands in the existing literature can be distinguished: Economic and psychological. Economic accounts of escalation of commitment
 
 // Individual decision making is a broad topic and researched, To define escalation of commitment,
 
@@ -423,22 +410,11 @@ Two general strands in the existing literature can be distinguished: Economic an
 // Individual decision making is a diverse, broad and well-researched topic, so I will first narrow the scope
 
 
-"Decision making under risk can be viewed as a choice between prospects or gambles" @Kahnemann1979
+"Decision making under risk can be viewed as a choice between prospects or gambles" @kahneman-1979
 In his seminal article,
 
 #pre_cite(<edwards-1954>, prefix: none, supplement: none)
 
-In his seminal study, #cite(<staw-1976>, form: "prose") observed that participants, when faced with an investment decision will
-
-#cite(<staw-1976>, form: "prose", supplement: "p. 27") puts it, "intuitively, one would expect individuals to reverse decisions or to change behavior which results in negative consequences". Beyond
-
-The rational choice literature suggests that #pre_cite(<downs-1957>, prefix: "e.g.", supplement: none)
-
-
-// Definition escalation of commitment
-Within the logic of rational choice theory, escalation of commitment refers to the irrational decision to allocate additional resources to one decisional
-alternative over another
-Investment decisions =
 
 
 Prospect theory: "Loss-framed decisions (which include escalation decisions) leading to loss-aversion, and thus risk-seeking behavior (in this case further expenditures)"" @sleesman-2012[p. 544]
@@ -460,7 +436,7 @@ Subjective expected utility @savage-1972
 == Self-justification Theory (cognitive dissonance) @Aronson1968 @Festinger1957
 
 
-== Prospect Theory @Kahnemann1979
+== Prospect Theory @kahneman-1979
 
 
 

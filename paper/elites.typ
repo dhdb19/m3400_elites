@@ -29,11 +29,11 @@
 
 #include "1_intro.typ"
 
-= Literature, theory, and hypotheses
+// = Literature, theory, and hypotheses
 
-#include "2_lit.typ"
+// #include "2_lit.typ"
 
-= Theory
+= Theory, literature, and hypotheses
 
 #include "3_theory.typ"
 
@@ -47,13 +47,13 @@
 
 // #let (x, y) = lq.load-txt(read("../data/d2000_oecd/oecd_filtered_clean.csv"))
 
-= Equations
+// = Equations
 
-An inline equation is set as $f(x) = sin(x)$<eq2>, now some more text: #lorem(30). Some out-of-line equations look like: $ f(x)=(beta_1)/(exp(beta_0 +beta_1 *x_1)) $<eq1> Take a look at my beautiful boy @eq1. As @Kahnemann1979 [p. 7] find
+// An inline equation is set as $f(x) = sin(x)$<eq2>, now some more text: #lorem(30). Some out-of-line equations look like: $ f(x)=(beta_1)/(exp(beta_0 +beta_1 *x_1)) $<eq1> Take a look at my beautiful boy @eq1. As @kahneman-1979 [p. 7] find
 
-#cite(label("Kahnemann1979"), form: "prose", supplement: "p. 1")#cite(
-  label("Kahnemann1979"),
-  form: "prose",
-  supplement: "p. 7",
-)
+// #cite(label("kahneman-1979"), form: "prose", supplement: "p. 1")#cite(
+//   label("kahneman-1979"),
+//   form: "prose",
+//   supplement: "p. 7",
+// )
 
