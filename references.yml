@@ -5150,3 +5150,72 @@ lee-2021:
   publisher: CNBC
   organization: CNBC
   url: https://www.cnbc.com/2021/06/17/the-us-has-spent-over-a-trillion-dollars-fighting-war-on-drugs.html
+bailer-2021:
+  type: article
+  title: 'The diminishing value of representing the disadvantaged: Between group representation and individual career paths'
+  author:
+  - Bailer, Stefanie
+  - Breunig, Christian
+  - Giger, Nathalie
+  - Wüst, Andreas M.
+  date: 2021-02-22
+  page-range: 535–552
+  url: https://doi.org/10.1017/s0007123420000642
+  serial-number:
+    doi: 10.1017/s0007123420000642
+  parent:
+    type: periodical
+    title: British Journal of Political Science
+    issue: 2
+    volume: 52
+bo-2017:
+  type: article
+  title: Who becomes a politician?*
+  author:
+  - Bó, Ernesto Dal
+  - Finan, Frederico
+  - Folke, Olle
+  - Persson, Torsten
+  - Rickne, Johanna
+  date: 2017-06-01
+  page-range: 1877–1914
+  url: https://doi.org/10.1093/qje/qjx016
+  serial-number:
+    doi: 10.1093/qje/qjx016
+  parent:
+    type: periodical
+    title: The Quarterly Journal of Economics
+    issue: 4
+    volume: 132
+chattopadhyay-2004:
+  type: article
+  title: 'Women as Policy Makers: Evidence from a Randomized Policy Experiment in India'
+  author:
+  - Chattopadhyay, Raghabendra
+  - Duflo, Esther
+  date: 2004-07-19
+  page-range: 1409–1443
+  url: https://doi.org/10.1111/j.1468-0262.2004.00539.x
+  serial-number:
+    doi: 10.1111/j.1468-0262.2004.00539.x
+  parent:
+    type: periodical
+    title: Econometrica
+    issue: 5
+    volume: 72
+list-2009:
+  type: article
+  title: Are CEOs expected utility maximizers?
+  author:
+  - List, John A.
+  - Mason, Charles F.
+  date: 2009-10-14
+  page-range: 114–123
+  url: https://doi.org/10.1016/j.jeconom.2009.10.014
+  serial-number:
+    doi: 10.1016/j.jeconom.2009.10.014
+  parent:
+    type: periodical
+    title: Journal of Econometrics
+    issue: 1
+    volume: 162
