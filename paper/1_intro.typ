@@ -41,6 +41,8 @@ Finally I develop an empirical strategy to test my hypotheses, proposing a new s
 
 My contribution is to develop questin that ask specifgically abouzt scenarion relevant to politicians and if theres a difference there! Not just if politican sexhibit the behavior itself in question that re not ralted to theirjobs!!! my orginal plan!!
 
+Talk about @linde-2016
+
 
 // Even when #cite(<sheffer-2017>, form: "prose") explicitly set out to study elected elites' behavior, they ask members of different national legislatures whether they would invest an additional \$100 million in a small business loan program, on which \$500 million have already been spent. Respondent are further informed that the program will not cover its cost, unless the additional money is spent (including the additional funds).
 
