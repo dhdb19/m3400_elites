@@ -1,5 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\style\meta\declaration_plagiarism.blg'
-[83] biber-MSWIN32:340> INFO - === 
-[110] Biber.pm:415> INFO - Reading 'C:\Users\jordi\OneDrive\01_Uni\t\t1400_github\style\meta\declaration_plagiarism.bcf'
-[210] Utils.pm:395> WARN - No data sources defined!

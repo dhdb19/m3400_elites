@@ -1,6 +1,6 @@
 #import "@preview/lilaq:0.1.0" as lq
 #import "../style/paper_template.typ": template
-#import "../style/paper_template.typ": pre_cite
+// #impo"../paper/paper_template.typ"yp": pre_cite
 
 #show: template.with(
   title: [This is an extremely nice title that is quite long to be honest],
