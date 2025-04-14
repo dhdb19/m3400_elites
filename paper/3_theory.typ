@@ -25,12 +25,8 @@ Other psychologists @arkes-1985@schulz-hardt-2008@tan-2002 and management resear
 Later in this section I will argue why escalation of commitment and sunk cost will not be used interchangeably in this paper.
 
 Staying the course in the face of negative outcomes conceivably conceptually extends to many kinds of decisions situations, e.g. interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018.
-However, as mentioned before
-
-in all the, otherwise quite disparate, strands of research on the phenomenon, i.e. economics, psychology, and organizational behavior,
-
-a negative outcome is most often conceptualized as some form of _cost_ and the entire decision making environment as an _investment decision_ #pre_cite(<sleesman-2012>, prefix: "see", supplement: none), i.e. "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28].
-While this paper is motivated by some of the limitations of previous approaches in explaining elected politicians' decisions making -- that specifically relate to economic theories of decision making and how how investment and returns on that investment are conceptualized -- framing politicians' decision making environment in economic terms, specifically as an investment decision, is an efficient starting point.
+However, as mentioned before, in all the, otherwise quite disparate, strands of research on the phenomenon, i.e. economics, psychology, and organizational behavior, a negative outcome is most often conceptualized as some form of suboptimal return on investment and the entire decision making environment as an _investment decision_ #pre_cite(<sleesman-2012>, prefix: "see", supplement: none), i.e. "situations in which resources are allocated to one decisional alternative over others" @staw-1976[p. 28]. As stated above, for the purpose of this paper, even though politicians are not investors, it will be efficient to frame politicians' decision making in terms of allocating public funds, or investing as defined above.
+// While this paper is motivated by some of the limitations of previous approaches in explaining elected politicians' decisions making -- that specifically relate to economic theories of decision making and how how investment and returns on that investment are conceptualized -- framing politicians' decision making environment in economic terms, specifically as an investment decision, is an efficient starting point.
 Moreover, since politicians, like managers, investors, etc., often allocate funds for projects whose outcomes are not fully certain and foreseeable at time of investment, e.g. whether a large construction project will be completed in-time and in-budget, or whether a pension reform will be able ensure an adequate standard of living to retirees in ten years time, it will be efficient in general to look towards the well-developed canon of economic theories of decision making for a baseline of decision making _under conditions of uncertainty_, which much of the existing research, both economic and psychological, also in some way references.
 
 It should be noted, due to its apparent violation of expectations derived from basic, classical economic theories of decision making, escalation of commitment has been referred to as "irrational" economic behavior by some researchers of the phenomenon @astebro-2007[p. 254]@northcraft-1986[p. 349], again others refer only specifically to sunk cost effects as irrational #cite(<garland-1991>, form: "normal", supplement: none)#cite(<schmidt-2002>, form: "normal", supplement: none)@arkes-1985, both implying that economic theory alone cannot address the phenomenon.
@@ -54,9 +50,7 @@ Below follows a sketch of the two idiosyncratic decision scenarios politicians f
 First, however, it will be necessary to establish some basic assumptions of politician behavior.
 For the purpose of this paper, assume legislators' primary rational self-interest is to get re-elected #pre_cite(<mayhew-1974>, prefix: [e.g.], supplement: none).
 There is good reason to believe politicians are not solely reelection seeking, but also have other goals and roles #pre_cite(<searing-1991>, prefix: [see e.g.], supplement: none), but for reasons of parsimony, scope, and the fact that much of the existing literature is routed in the economic paradigm, I will continue with this assumption.
-Future research should revisit escalation of commitment among politicians with the lense of other paradigms.
-
-Furthermore, in keeping with the economic paradigm, for the purpose of the following vignettes, assume voters vote purely economically #pre_cite(<meltzer-1981>, prefix: [e.g.], supplement: none), payoffs can then be conceptualized in terms of votes gained or lost by an act.
+Future research should revisit escalation of commitment among politicians with the lense of other paradigms. Furthermore, in keeping with the economic paradigm, for the purpose of the following vignettes, assume voters vote purely economically #pre_cite(<meltzer-1981>, prefix: [e.g.], supplement: none), payoffs can then be conceptualized in terms of votes gained or lost by an act.
 
 In a first scenario, assume midway through construction, the national railway operator reports that the high-speed rail line currently being built will be delayed 2 years and 50% over-budget.
 This first scenario is not dissimilar to the #cite(<staw-1976>, form: "prose", supplement: none) experiment.
@@ -65,15 +59,15 @@ The decisions environment in this first stage, according to Subjective Expected 
 Though there are technically infinite possible outcomes (states $s$ of the world), for example sake we can assume legislators may think of four states of the world: The project is (1) completed on-time and in-budget, (2) completed a little over-budget and late, (3) severely over-budget and very late, (4) never completed.
 Legislators assign each state a likelihood of occurring (personal/subjective probability $p$), e.g. $(60%, 20%, 15%, 5%)$ in order, where the probabilities sum up to $100%$.
 Legislators can choose between two acts $a$: For simplicity sake, assume they choose between voting in favor appropriating the funds (act $a_f$) and voting against (act $a_g$).
-Each act is associated with some value or payoff $A$, e.g. $A_f$ is the votes gained by voting for the project, if act $a_f$ is chosen, and $A_g$ is the votes gained if act $a_g$ is chosen.
+Each act is associated with some value or payoff $A$, e.g. $A_f$ is the votes gained by voting for the project, if act $a_f$ is chosen, and $A_g$ is the votes gained if act $a_g$ is chosen, i.e. the legislator votes against the project.
 Finally, each payoff is assigned a utility $u(A_f)$ and $u(A_g)$, according to some utility function $u$ that is idiosyncratic to the legislator.
-A utility function $u$ separate from the value $A$ is used to allow for diminishing marginal utility #pre_cite(<edwards-1954>, prefix: [see], supplement: none)@savage-1972, in practical terms, in a 100,000 voter constituency the 50,001st gained is more important than the 99,999th.
+A utility function $u$ separate from the value $A$ is used to allow for diminishing marginal utility #pre_cite(<edwards-1954>, prefix: [see], supplement: none)@savage-1972, or in practical terms, in a 100,000 voter constituency the 50,001st vote gained is more important than the 99,999th.
 The total payoff fore each state is given by @3_rail.
 Note that for each state a legislator gains $A_a$ votes, where $A_a$ is the votes gained by the supporters of the chosen act $a$, and at the same loses votes $A_(#sym.not a)$, where $A_(#sym.not a)$ is the number of supporters of the act not chosen.
-For instance, under purely economic voting, supporters of act $a_f$, voting in favor of th project, may include land lords in the cities, which the the new rail line will connect, as they expect an increase in demand, allowing them to raise rents.
+For instance, under purely economic voting, supporters of act $a_f$, approving the project, may include land lords in the cities, which the the new rail line will connect, as they expect an increase in demand, allowing them to raise rents.
 Supporters of act $a_g$, voting against the project, may include airline executives, who expect a new long-distance rail service to cut into their bottom line.
-In those states, in which the rail project is chosen, but is delayed and over-budget, the legislator is additionally penalized (pen.) with losing voters for incompetence, increases taxes to fund the cost overrun, etc.
-The penalty is accordingly taken into account as additional votes (arithmetically expressed as fewer voters lost) for legislators, who voted against the project.
+In those states, in which the rail project is chosen, but is delayed and over-budget, the legislator is additionally penalized (pen.) with losing voters for incompetence, anticipated increased taxes to fund the cost overrun, etc.
+The penalty is accordingly taken into account as additional votes for legislators, who voted against the project (arithmetically expressed as fewer voters lost).
 Finally, to choose among the alternatives, legislators will/should calculate the expected utility of each act, so in this case by $E(u(a))=0.6*u(s_(1a)) + 0.2*u(s_(2a))+ 0.15*u(s_(3a)) + 0.05*u(s_(4a))$, substituting $a$ for the respective act, and choose the act with the higher expected utility.
 Assuming a majority of legislators found the expected utility of voting in favor to be greater than voting against, the second stage, with the news of the delay and cost overrun, can be outlined in a similar way to the first stage.
 The possible states of the world may now include: The project will be (1) completed with the specified delay and cost increase, (2) further delayed and over-budget, and (3) never completed, and a possible distribution of subjective probabilities for one legislator may be $(30%, 60%, 10%)$, in order, with acts $a_(f f)$ voting to continue the funding and $a_(g g)$ voting to stop the project (see @3_rail_second).
@@ -129,11 +123,11 @@ I.e. the probability distribution of possible outcomes for this kind of decision
     )<3_rail_second>],
 )
 
-Now, for a second scenario: the national audit authority releases a report, forecasting that on on pensions will increase by 100% in 5 years time, if current payment levels are maintained and no action is taken.
-Uncertainty rises from the fact that the audit authority's report is a forecast.
+Now, for a second scenario: the national audit authority releases a report, forecasting that spending on pensions will increase by 100% in 5 years time, if current payment levels are maintained and no action is taken.
+Uncertainty arises from the fact that the audit authority's report is a forecast.
 Their projections could, therefore, be accurate ($s_1$), significantly overestimated ($s_2$), e.g. due to exogenous shocks, higher than anticipated immigration, a pandemic, etc., or significantly underestimated ($s_3$), e.g. due to overly optimistic assumptions in the aforementioned categories.
 A legislator may put chances at $(50%, 30%, 30%)$, in order.
-Assuming government revenue stays constant for 5 years (inflation adjusted) and a balanced budget, in the face of the report politicians may find themselves choosing among these acts (for simplicity sake, again only 2 acts are presented):
+Assuming government revenue stays constant for 5 years (inflation adjusted) and a balanced budget, in the face of the report politicians may find themselves choosing among these acts (for simplicity sake, only 2 acts are presented):
 Maintain current payment levels and cut other programs $(a_s)$, or reduce payment levels $(a_c)$
 In this simple case, the payoff matrix is the same as
 Fo this decision scenario, assume further that the three relevant economic classes are retirees, those at or around retirement age, who have not yet retired, and the young, far away from retirement.

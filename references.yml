@@ -3261,12 +3261,6 @@ Blalock1967:
   author: Blalock, Hubert M.
   date: 1967
   publisher: John Wiley {&} Sons
-Downs1957:
-  type: book
-  title: '{An Economic Theory of Democracy}'
-  author: Downs, Anthony
-  date: 1957-01-01
-  publisher: Harper
 Rueda2015:
   type: article
   title: '{The Externalities of Inequality: Fear of Crime and Preferences for Redistribution in Western Europe}'
@@ -4809,7 +4803,7 @@ pierson-2000:
     volume: 94
 downs-1957:
   type: book
-  title: An Economic Theory of Democracy
+  title: An economic theory of democracy
   author: Downs, Anthony
   date: 1957-01-01
   publisher: Harper
@@ -5148,3 +5142,11 @@ linde-2016:
     title: Political Psychology
     issue: 1
     volume: 38
+lee-2021:
+  type: web
+  title: "America has spent over a trillion dollars fighting the war on drugs. 50 years later, drug use in the U.S, is climbing again"
+  author: Lee, Juhohn
+  date: 2021-06-17
+  publisher: CNBC
+  organization: CNBC
+  url: https://www.cnbc.com/2021/06/17/the-us-has-spent-over-a-trillion-dollars-fighting-war-on-drugs.html
