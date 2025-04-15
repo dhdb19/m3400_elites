@@ -263,13 +263,13 @@
       #upper(c.supplement) #context { context c.counter.display(c.numbering) }]
     #h(0.2cm)
     #c.body
-    #line(length: 100%, stroke: 0.7pt)
+    #line(length: 100%, stroke: 0.5pt)
     #v(-0.5em)
   ]
 
   show figure: fig => [
     #block(
-      stroke: 0.7pt,
+      stroke: 0.5pt,
       inset: 5pt,
     )[#fig]
   ]
@@ -287,6 +287,16 @@
 
   set table(row-gutter: 0em)
 
+  set quote(block: true)
+
+  show quote: q => {
+    v(-1em)
+    set pad(x: 2em)
+    set text(size: 10pt)
+    set par(leading: 0.5em)
+    q
+    v(-0.5em)
+  }
 
   // equation formatting --------
   set math.equation(
