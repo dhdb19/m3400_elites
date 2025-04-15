@@ -16,18 +16,213 @@ However, he finds, when subjects were informed in the second stage that the depa
 The finding is notable since, prima facia, this behavior appears incongruent with basic, both empirical and normative, principles of classical economic theories of decision making #pre_cite(<marshall-2013>, prefix: "e.g.", supplement: none), in particular marginal thinking, i.e. individuals evaluate decision alternatives on the _change in utility_ resulting from that decision versus the additional cost incurred -- previous investment decisions should (empirically and normatively) therefore not affect future decisions.
 Subjects who received negative feedback in the #cite(<staw-1976>, form: "prose", supplement: none) experiment violated this principle in the second stage, as the amount invested in the second stage as they did not change course, even though the additional utility gained from investing more funding in the other corporate division would have been greater than sticking with the division chosen at the first stage.
 
-Since this seminal contribution, a robust body of research has emerged replicating and expanding on this behavioral phenomenon, wherein individual decision makers continue a course of action in the face of negative outcomes #pre_cite(<sleesman-2012>, prefix: "see", supplement: "for an overview and meta-analysis").
-Though sticking to a course of action in the face of negative outcomes is hardly a behavior that is exclusive to economic investment decisions, and has been studied in decidedly non-economic contexts such as interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018, it is perhaps not surprising that escalation of commitment in investment decision scenarios in particular has garnered considerable attention from organizational behavior researchers, psychologists, economists and political scientists for its apparent violation of basic economic expectations for individual decision making #pre_cite(<northcraft-1986>, prefix: none, supplement: [p. 349]).
+Since this seminal contribution, a robust body of research has emerged,replicating and expanding on this behavioral phenomenon, wherein individual decision makers continue a course of action in the face of negative outcomes #pre_cite(<sleesman-2012>, prefix: "see", supplement: "for an overview and meta-analysis").
+Maintaining a course of action in the face of negative outcomes conceivably conceptually extends to many kinds of decisions situations, including interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018.
+Organizational behavior researchers, psychologist, economists and political scientist, are primarily interested in the phenomenon where it clashes with the aforementioned basic expectations and intuitions of classical economic theory.
+As a consequence, many studies on the issue employ a similar setup to the one the seminal paper by #cite(<staw-1976>, form: "prose", supplement: none), and put respondents in the position of a manager, or other economic agents, who is tasked by upper management with making a decision on whether to maintain a particular course of action, like making a R&D investment (the basic #cite(<staw-1976>, form: "author", supplement: none), #cite(<staw-1976>, form: "year", supplement: none) case, e.g. #cite(<berg-2008>, form: "author", supplement: none), #cite(<astebro-2007>, form: "year", supplement: none)), reviewing a hiring decision (also know as the _Heeley's Stores case_, e.g. #cite(<bazerman-1982>, form: "author", supplement: none), #cite(<bazerman-1982>, form: "year", supplement: none)).
+Alternatively, other economic activities like oil-well-exploration #pre_cite(<garland-1990>, prefix: none, supplement: none) and inventing #pre_cite(<astebro-2007>, prefix: none, supplement: none) are also employed.
+// @bazerman-1982@bazerman@berg@booth, @astebro-2007@boehne-2000
+// Exception: @brockner-1982@brockner-1986 (more abstract but still with money)
+As I argued in the introduction, however, politicians are not investors, managers or CEOs, therefore, to adequately address escalation of commitment, it is necessary to adapt the theoretical framework and instrument employed to the context of elected legislators.
+One such attempt is undertaken by #cite(<sheffer-2017>, form: "prose", supplement: none).
+They present a sample of Belgian, Canadian and Israeli lawmakers $(N=382)$, as well as members of the general population in those countries, with the following vignette:
+#quote[
+  Please consider the following scenario: five years ago the government invested \$500 million in a small business loan program to help those businesses create more jobs a program that was projected to fully return the investment. The program is now about to end, and it turns out that after five years, the return has been only [\$300 / \$450] million. That is, [\$200 / \$50] million less than what was originally projected. The government department running the program now asks to extend the program in a year and invest another \$100 million in government funds, in order to assist business facing difficulties returning their loans. The department officials project that by the end of the year, these measures will recover the remainder of the original investment [\$200 \$50]
+  million), plus return the additional \$100 million asked for #pre_cite(<sheffer-2017>, prefix: [see online supplemental material for], supplement: [p. 16]).
+]
+and found that lawmakers in Belgium and Canada, but not Israel, were significantly more likely to escalate their commitment and invest the additional \$100 million, and the difference is statistically significant across all countries pooled together.
+While this vignette is clearly more representative of a legislator's decision environment, it still envisions politicians as investors, who seek to quickly recoup capital expenditures, even though, I argue, there is no good a priori reason to believe politicians conceptualize their decisions this way, and there is good reason to believe, they do not.
+// To wit, consider the following case:
+// Decades after a strict drug enforcement policy is introduced, a report on the policy's impact is commissioned by the legislature and it becomes clear the policy was not effective in reducing drug related health issues and crime, and may additionally have exacerbated other social issues like racial inequality.
+// The release of the report becomes headline news and there is major political pressure on the legislative body to act.
+// Stated this way, it is not clear why politicians would conceptualize the country's drug policy as an underperforming investment.
+// May contention is not that is unconscionable that any politician would ever conceptualize such a decisions in terms of investment, but by the same token I argue it is implausible to assume this be the default.
+// For the sake of argument, one could imagine a headline along the lines of: _Country has spent over a trillion dollars fighting the war on drugs -- 50 years later, drug use is climbing again_ #pre_cite(<lee-2021>, prefix: [see e.g.], supplement: none), emphasizing the sunk cost of the investment and the lack of return, presumably increasing the salience of the idea of investment and return in the minds of politicians.
+// But a politician from a conservative district may still not be sensitive to the news of the negative return on investment, perhaps because a hard on crime and drugs stance has been a successful electoral strategy in their district.
+
+Since this paper is motivated by the limitations of existing approaches in explaining escalation of commitment among legislators, adopting a more appropriate theoretical framework of politician behavior is crucial.
+While those limitations of the existing literature specifically relate to conceptualizing politicians as managers and investors, in a first step I will adopt a view of politicians as economic agents in broader sense.
+By that I mean, I will first develop a baseline economic model of legislator behavior, wherein politicians are assumed to be utility maximizers, but unlike investors and managers, their utility is not derived from material returns, but, because they are politicians, from votes.
+Assuming politicians are, first and foremost, reelection seeking is a parsimonious starting point.
+Since politicians, like managers, investors, etc., often allocate funds for projects whose outcomes are not fully certain and foreseeable at time of investment, e.g. whether a large construction project will be completed in-time and in-budget, or whether a pension reform will be able ensure an adequate standard of living to retirees in ten years time, it will, furthermore, be efficient to look towards the well-developed canon of economic theories of decision making for a baseline of decision making _under conditions of uncertainty_, the standard textbook economic decision making paradigm under uncertainty being #pre_cite(<mas-colell-1995>, prefix: [e.g.], supplement: none) Subjective Expected Utility (SEU) #pre_cite(<savage-1972>, prefix: "see", supplement: none)@anscombe-1963, which much of the existing research, both economic and psychological, also in some way references.
+Even though SEU is the workhorse model in economics, it has many critics and empirical support is mixed #pre_cite(<ellsberg-1961>, prefix: "see", supplement: none)@allais-1953@tversky-1975@friedman-2014.
+Because of this, I will not rely only on SEU to formulate hypotheses.
+Instead, I will formulate a baseline expectation derived from SEU, and then expand upon these baseline expectation with insight from _prospect theory_.
+Prospect theory has been one of the most prominent critiques of SEU #cite(<kahneman-1979>, form: "prose", supplement: none), has received substantial empirical support #pre_cite(<haerem-2010>, prefix: [e.g.], supplement: none)@starmer-2000@booij-2009 and is a natural extension of SEU.
+
+// It should be noted, due to its apparent violation of classical economic theories of decision making, escalation of commitment has been referred to as "irrational" economic behavior by some researchers of the phenomenon @astebro-2007[p. 254]@northcraft-1986[p. 349], again others refer only specifically to sunk cost effects as irrational #cite(<garland-1991>, form: "normal", supplement: none)#cite(<schmidt-2002>, form: "normal", supplement: none)@arkes-1985, both implying that economic theory alone cannot address the phenomenon.
+// In any case, the standard textbook economic decision making paradigm under uncertainty #pre_cite(<mas-colell-1995>, prefix: [e.g.], supplement: none), namely Subjective Expected Utility (SEU) #pre_cite(<savage-1972>, prefix: "see", supplement: none)@anscombe-1963, does allow for, and has been used to model escalation of commitment in different ways #pre_cite(<sleesman-2012>, prefix: "see", supplement: none).
+// That is to say, Subjective Expected Utility Theory does not do away with marginalism, rendering sunk cost effects rational, but it takes into account individuals' _subjective_ beliefs about an uncertain future.
+// SEU has many critics and empirical support is mixed #pre_cite(<ellsberg-1961>, prefix: "see", supplement: none)@allais-1953@tversky-1975@friedman-2014, still, it will serve a springboard role for further theoretical discussion.
+// To wit, in what follows, decision making under uncertainty according to SEU will be illustrated in some detail for the idiosyncratic types of decisions politicians face, in order to precisely locate breakpoints of the theory as they relate to other competing or complementary theories and formulating hypotheses for escalation of commitment dynamics for politicians.
+
+
+== Decision under uncertainty
+
+A decision under uncertainty, in a broader sense, is any decision in which the outcome is not deterministic, i.e. there is a stochastically determined distribution of possible outcomes @edwards-1954.
+Some economists then further differentiate uncertain from risky decisions #pre_cite(<edwards-1954>, prefix: [see], supplement: [pp. 390-391]), wherein for risky decisions that distribution is, in principle, observable, i.e. the odds of the possible outcomes can be straightforwardly computed, e.g. a game of roulette, and for uncertain decisions that distribution is not objectively knowable, e.g. horse race betting, or "horse lottery" #cite(<anscombe-1963>, form: "prose", supplement: [p. 200]).
+More often than not, politicians (like managers) must make decisions under uncertainty in the stricter sense.
+According to Subjective Expected Utility, under conditions of uncertainty, individuals envision the possible outcomes of their decision situation, or "states of the world" #pre_cite(<savage-1972>, prefix: none, supplement: [p. 13]), to which they assign a likelihood of obtaining, or "personal probability" #pre_cite(<savage-1972>, prefix: none, supplement: [p. 30]).
+Individuals in a decisions situation choose among "acts" #pre_cite(<savage-1972>, prefix: [see], supplement: [p. 14]), or courses of action, which for each possible state of the world are associated with some payoff.
+The total utility of an act is given by the cumulative utility of each state of the world, weighted by its subjective probability to obtain, and decision makers choose that act with the greatest expected utility.
+Below follows a sketch of the two idiosyncratic decision scenarios politicians face mentioned before under SEU#footnote[In the following section I will employ some mathematical notation for purpose of illustration and conciseness. This paper does not intend to give a full formal logical treatise of SEU, within this limited scope, the notation will not be rigorous or following any particular convention, rather, where appropriate, it will take inspiration from #cite(<anscombe-1963>, form: "prose", supplement: none) and #cite(<savage-1972>, form: "prose", supplement: none)].
+In keeping with the economic paradigm, for the purpose of the following vignettes, assume voters vote purely economically #pre_cite(<meltzer-1981>, prefix: [e.g.], supplement: none).
+Payoffs can then be conceptualized in terms of votes gained or lost by an act.
+
+In a first scenario, assume midway through construction, the national railway operator reports that the high-speed rail line currently being built will be delayed and over-budget.
+This first scenario is not dissimilar to the #cite(<staw-1976>, form: "prose", supplement: none) experiment.
+In a first stage, legislators are initially asked to approve the funding and timeline of the rail project.
+Though there are technically infinite possible outcomes (states $s$ of the world), for example sake assume legislators envision four states of the world: The project is (1) completed on-time and in-budget, (2) completed a little over-budget and late, (3) severely over-budget and very late, (4) never completed.
+Legislators assign each state a likelihood of occurring (personal/subjective probability $p$), e.g. $(60%, 20%, 15%, 5%)$ in order, where the probabilities sum up to $100%$.
+Legislators can choose between two acts $a$: Assume they choose between voting in favor appropriating the funds (act $a_f$) and voting against (act $a_g$).
+Each act is associated with some value or payoff $A$, with $A_f$ the votes gained by voting for the project, if act $a_f$ is chosen, and $A_g$ the votes gained if act $a_g$ is chosen, i.e. the legislator votes against the project.
+Finally, each payoff is assigned a utility $u(A_f)$ and $u(A_g)$, according to some utility function $u$ that is idiosyncratic to the legislator.
+A utility function $u$ separate from the value $A$ is used to allow for diminishing marginal utility #pre_cite(<edwards-1954>, prefix: [see], supplement: none)@savage-1972.
+Put briefly, in a 100,000 voter constituency the 50,001st vote gained is more important than the 99,999th.
+The total payoff fore each state is given by @3_rail.
+// Note that for each state a legislator gains $A_a$ votes, where $A_a$ is the votes gained by the supporters of the chosen act $a$, and at the same loses votes $A_(#sym.not a)$, where $A_(#sym.not a)$ is the number of supporters of the act not chosen.
+For instance, under purely economic voting, supporters of act $a_f$, approving the project, may include land lords in the cities, which the the new rail line will connect, as they expect an increase in housing demand.
+Supporters of voting against the project ($a_g$), may include airline executives, who expect a new long-distance rail service to cut into their bottom line.
+In those states, in which the rail project is chosen, but is delayed and over-budget, the legislator is additionally penalized (pen.) with losing voters for incompetence, anticipated increased taxes to fund the cost overrun, etc.
+The penalty is accordingly taken into account as additional votes for legislators, who voted against the project (arithmetically expressed as fewer voters lost).
+Finally, to choose among the alternatives, legislators will/should calculate the expected utility of each act, so in this case by $E(u(a))=0.6*u(s_(1a)) + 0.2*u(s_(2a))+ 0.15*u(s_(3a)) + 0.05*u(s_(4a))$, substituting $a$ for the respective act, and choose the act with the higher expected utility.
+In the second stage, with the news of the delay and cost overrun, the possible states of the world may now include: The project will be (1) completed with the specified delay and cost increase, (2) further delayed and over-budget, and (3) never completed, and a possible distribution of subjective probabilities for one legislator may be $(30%, 60%, 10%)$, in order, with acts $a_(f f)$ voting to continue the funding and $a_(g g)$ voting to stop the project (see @3_rail_second).
+Expected utility is calculated as before.
+Crucially, at this stage SEU does not strictly necessitate that the project be abandoned.
+// Finally, note that, even assuming politicians do not solely rely on their personal judgement for determining the likelihood distribution of the end-states of the large infrastructure project, but seek out information derived from scientifically sound strategies of quantifying that likelihood distribution, reasonable individuals will disagree over the assumptions made in the pursuit of any such strategy.
+// I.e. the probability distribution of possible outcomes for this kind of decisions scenario is fundamentally subjective, unlike the probability distribution of a coin-toss, which will always be 50% heads -- 50% tails, or _objective_.
+
+#grid(
+  columns: (10fr, 10fr),
+  column-gutter: 1em,
+  [#figure(
+      kind: table,
+      // placement: auto,
+      caption: [Decision scenario 1: Stage 1],
+      table(
+        columns: (3fr, 3fr, 10fr, 10fr),
+        align: left,
+        stroke: none,
+        table.header(
+          [$s$],
+          [$p$],
+          [Payoff act $a_f$],
+          [Payoff act $a_g$],
+        ),
+        table.hline(start: 0, stroke: 0.5pt),
+        [$s_1$], [$.6$], [$A_f-A_g$], [$A_g-A_f$],
+        [$s_2$], [$.2$], [$A_f-(A_g + "pen."$)], [$A_g-(A_f - "pen."$)],
+        [$s_3$], [$.15$], [$A_f-(A_g + "pen."$)], [$A_g-(A_f - "pen."$)],
+        [$s_4$], [$.05$], [$-(A_f + A_g)$], [$A_g$]
+      ),
+    )<3_rail>],
+  [
+    #figure(
+      // placement: auto,
+      caption: [Decision scenario: Stage 2],
+      kind: table,
+      table(
+        columns: (2.5fr, 2.5fr, 10fr, 10fr),
+        align: left,
+        stroke: none,
+        table.header(
+          [$s$],
+          [$p$],
+          [Payoff act $a_(f f)$],
+          [Payoff act $a_(g g)$],
+        ),
+        table.hline(start: 0, stroke: 0.5pt),
+        [$s_1$], [$.3$], [$A_(f f)-A_(g g)$], [$A_(g g)-A_(f f)$],
+        [$s_2$], [$.6$], [$A_(f f)-(A_(g g) + "pen."$)], [$A_(g g)-(A_(f f) - "pen."$)],
+        [$s_3$], [$.1$], [$-(A_(f f) + A_(g g))$], [$A_(g g)$]
+      ),
+    )<3_rail_second>],
+)
+
+Now, for a second scenario: the national audit authority releases a report, forecasting that spending on pensions will increase by 100% in 5 years time, if current payment levels are maintained and no action is taken.
+Uncertainty arises from the fact that the audit authority's report is a forecast.
+Their projections could, therefore, be accurate ($s_1$), significantly overestimated ($s_2$), e.g. due to exogenous shocks, higher than anticipated immigration, a pandemic, etc., or significantly underestimated ($s_3$), e.g. due to overly optimistic assumptions in the aforementioned categories.
+A legislator may put chances at $(50%, 30%, 30%)$, in order.
+Assuming government revenue stays constant for 5 years (inflation adjusted) and a balanced budget, in the face of the report politicians may find themselves choosing among these acts (for simplicity sake, only 2 acts are presented):
+Maintain current payment levels and cut other programs $(a_s)$, or reduce payment levels $(a_c)$
+In this simple case, the payoff matrix is the same as
+Fo this decision scenario, assume further that the three relevant economic classes are retirees, those at or around retirement age, who have not yet retired, and the young, far away from retirement.
+It is beyond the scope of this paper to develop a full matrix for all the payoffs, @3_pension gives a sketch of a conceivable electoral payoff structure, given the previous assumptions.
+
+#figure(
+  // placement: auto,
+  caption: [Decision scenario 2],
+  kind: table,
+  table(
+    columns: (1fr, 1fr, 10fr, 10fr),
+    align: left,
+    stroke: none,
+    table.header(
+      [$s$],
+      [$p$],
+      [Payoff act $a_(s)$],
+      [Payoff act $a_(c)$],
+    ),
+    table.hline(start: 0, stroke: 0.5pt),
+    [$s_1$], [$.3$], [$A_(s)-A_(c)$], [$A_(c)-A_(s)$],
+    [$s_2$], [$.6$], [$A_(s)-(A_(c) + "pen."$)], [$A_(c)-(A_(s) - "pen."$)],
+    [$s_3$], [$.1$], [$-(A_(s) + A_(c))$], [$A_(c)$]
+  ),
+)<3_pension>
+
+Without developing the a full formal model, it is clear that under SEU and some simple rationalist assumptions of politicians' behavior, personal probability and the size of the vote penalty legislators assign each state is decisive for whether politicians choose to escalate commitment.
+In fact, we can see that if the politician assigns a high personal likelihood to further delays and overruns after they receive the bad news and expects a high electoral penalty for their incompetence, they should abandon course.
+It is beyond this paper to derive a precise threshold, but, since the total number of votes in a constituency is fixed, a high personal probability and expectation of a large penalty will quickly chip away at the utility of maintaining course and in equal amount increase the utility of abandoning course.
+The reverse is the case if the legislator assigns a low likelihood to further delays and expects a small vote penalty, should it obtain.
+
+
+== Prospect Theory
+Prospect theory is nominally a theory of decision under risk, which is different from uncertainty, but for the purpose of this paper this will not make a difference.
+Under prospect theory, individuals are assumed
+
+The "reflection effect" #pre_cite(<kahneman-1979>, prefix: none, supplement: [p. 268]) and "endowment effect" #pre_cite(<kahneman-1991>, prefix: none, supplement: [none])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Though sticking to a course of action in the face of negative outcomes is hardly a behavior that is exclusive to economic investment decisions, and has been studied in decidedly non-economic contexts such as interpersonal relationships #pre_cite(<rego-2016>, prefix: "see e.g.", supplement: none)@olivola-2018, it is perhaps not surprising that escalation of commitment has garnered considerable attention from organizational behavior researchers, psychologists, economists and political scientists for its apparent violation of basic economic expectations for individual decision making #pre_cite(<northcraft-1986>, prefix: none, supplement: [p. 349]).
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Escalation of commitment is so intertwined with investment decisions that it has been referred to as "irrational" economic behavior by some researchers of the phenomenon @astebro-2007[p. 254]@northcraft-1986[p. 349]
-At the same time, in the opening I gave illustrations of two plausible decision scenarios in which politicians might find themselves deciding on whether to commit to a course of action, that is ostensibly suboptimal, where the a priori expectation for them to abandon course would not have been warranted in the first place.
-I.e. should politicians be expected to abandon a large-scale high speed rail project, if they learn it is delayed and over-budget?
-Consider also the following case:
-Decades after a strict drug enforcement policy is introduced, a report on the policy's impact is commissioned by the legislature and it becomes clear the policy was not effective in reducing drug related health issues and crime, and may additionally have exacerbated other social issues like racial inequality.
-The release of the report becomes headline news and there is major political pressure on the legislative body to act.
-Stated this way, it is not necessarily self-evident that politicians would conceptualize the country's drug policy as an underperforming investment.
-For the sake of argument, one could imagine a headline along the lines of: _Country has spent over a trillion dollars fighting the war on drugs -- 50 years later, drug use is climbing again_ #pre_cite(<lee-2021>, prefix: [see e.g.], supplement: none), emphasizing the sunk cost of the investment and the lack of return, presumably increasing the salience of the idea of investment and return in the minds of politicians.
-But a politician from a conservative district may still not be sensitive to the news of the negative return on investment, perhaps because a hard on crime and drugs stance has been a successful electoral strategy in their district.
-Also, if politicians are not assumed to be rational agents who only seek reelection, e.g. when they are assumed to vote according to their personal moral convictions, personal attributes #pre_cite(<bailer-2021>, prefix: [class, gender, marginalization etc., see e.g.], supplement: none)@bo-2017@chattopadhyay-2004, or role they occupy #pre_cite(<searing-1991>, prefix: [see e.g.], supplement: none) there is also no a priori theoretical reason to expect them to be sensitive to information on suboptimal return on investment either.
+// At the same time, in the opening I gave illustrations of two plausible decision scenarios in which politicians might find themselves deciding on whether to commit to a course of action, that is ostensibly suboptimal, where the a priori expectation for them to abandon course would not have been warranted in the first place.
+// I.e. should politicians be expected to abandon a large-scale high speed rail project, if they learn it is delayed and over-budget?
+// Consider also the following case:
+// Decades after a strict drug enforcement policy is introduced, a report on the policy's impact is commissioned by the legislature and it becomes clear the policy was not effective in reducing drug related health issues and crime, and may additionally have exacerbated other social issues like racial inequality.
+// The release of the report becomes headline news and there is major political pressure on the legislative body to act.
+// Stated this way, it is not necessarily self-evident that politicians would conceptualize the country's drug policy as an underperforming investment.
+// For the sake of argument, one could imagine a headline along the lines of: _Country has spent over a trillion dollars fighting the war on drugs -- 50 years later, drug use is climbing again_ #pre_cite(<lee-2021>, prefix: [see e.g.], supplement: none), emphasizing the sunk cost of the investment and the lack of return, presumably increasing the salience of the idea of investment and return in the minds of politicians.
+// But a politician from a conservative district may still not be sensitive to the news of the negative return on investment, perhaps because a hard on crime and drugs stance has been a successful electoral strategy in their district.
+// Also, if politicians are not assumed to be rational agents who only seek reelection, e.g. when they are assumed to vote according to their personal moral convictions, personal attributes #pre_cite(<bailer-2021>, prefix: [class, gender, marginalization etc., see e.g.], supplement: none)@bo-2017@chattopadhyay-2004, or role they occupy #pre_cite(<searing-1991>, prefix: [see e.g.], supplement: none) there is also no a priori theoretical reason to expect them to be sensitive to information on suboptimal return on investment either.
 // At the same time, in the opening I have argued that some manifestations of escalation of commitment in the domain of politics, i.e. continued funding for delayed and over-budget megaprojects and lack of reform of fiscally unbalanced pension programs, do not fit well into the existing literature, because politicians are not managers or members of the general public.
 // I.e. politicians, plausibly, may not perceive a vote on continued funding for a delayed high speed rail project in the same way a manager, or a member of th general public, is usually, normatively and empirically, expected to perceive a superficially similar situation in which they are asked whether commit funds to a suboptimal course of action
 // At the same time, in the opening I invoked megaprojects and pensions programs as examples of decision environments that are unique to politicians, in which they are likely not to follow the logic of investment the same way a manager would in the case of R&D investment in a private company, but, in which politicians do appear to be exhibiting escalation of commitment.
@@ -56,11 +251,11 @@ Also, if politicians are not assumed to be rational agents who only seek reelect
 // In the opening I invoked megaprojects and pensions programs as examples of decision environments that are unique to politicians, in which they are likely not to follow the logic of investment the same way a manager would in the case of R&D investment in a private company, but, in which politicians do appear to be exhibiting escalation of commitment.
 // @bazerman-1982@astebro-2007@berg-2008@boehne-2000@brockner-1986@fox-1979@garland-1990@garland-1991@haunschild-1994@heath-1995@mccain-1986@mcnamara-2002
 
-Conversely, legislators effectuate political outcomes by voting on laws, regulations and the budget.
-Now, most legislative actions need to be enforced in some way, which the legislature accomplishes by appropriating public funds for their enforcement.
-Construed thusly, all legislative decisions could be understood to be investment decisions, following the simple definition "situations in which resources are allocated to one decisional alternative over others" given by #cite(<staw-1976>, form: "prose", supplement: [p. 28]).
-That is to say, it is plausible that any given legislator may interpret a decision situation as investment decision.
-What, I argue, is implausible, is that politicians think about all their decisions exclusively in terms of investment, and more specifically return on investment.
+// Conversely, legislators effectuate political outcomes by voting on laws, regulations and the budget.
+// Now, most legislative actions need to be enforced in some way, which the legislature accomplishes by appropriating public funds for their enforcement.
+// Construed thusly, all legislative decisions could be understood to be investment decisions, following the simple definition "situations in which resources are allocated to one decisional alternative over others" given by #cite(<staw-1976>, form: "prose", supplement: [p. 28]).
+// That is to say, it is plausible that any given legislator may interpret a decision situation as investment decision.
+// What, I argue, is implausible, is that politicians think about all their decisions exclusively in terms of investment, and more specifically return on investment.
 // Consider also the following case:
 // Decades after a strict drug enforcement policy is introduced, a report on the policy's impact is commissioned by the legislature and it becomes clear the policy was not effective in reducing drug related health issues and crime, and may additionally have exacerbated other social issues like racial inequality.
 // The release of the report becomes headline news and there is major political pressure on the legislative body to act.
@@ -68,15 +263,15 @@ What, I argue, is implausible, is that politicians think about all their decisio
 // For the sake of argument, one could imagine a headline along the lines of: _Country has spent over a trillion dollars fighting the war on drugs -- 50 years later, drug use is climbing again_ #pre_cite(<lee-2021>, prefix: [see e.g.], supplement: none), emphasizing the sunk cost of the investment and the lack of return, presumably increasing the salience of the idea of investment and return in the minds of politicians.
 // But a politician from a conservative district may not be sensitive to the news of the negative return on investment, perhaps because a hard on crime and drugs stance has been a successful electoral strategy in their district.
 // Also, if politicians are not assumed to be rational agents who only seek reelection, e.g. when they are assumed to vote according to their personal moral convictions, personal attributes #pre_cite(<bailer-2021>, prefix: [class, gender, marginalization etc., see e.g.], supplement: none)@bo-2017@chattopadhyay-2004, or role they occupy #pre_cite(<searing-1991>, prefix: [see e.g.], supplement: none) there is no a priori theoretical reason to expect them to be sensitive to information on suboptimal return on investment either.
-To wit, #cite(<sheffer-2017>, form: "prose", supplement: none) provide some _empirical_ indication that politicians could, in fact, be sensitive to information on negative return on investment.
-They present a sample of Belgian, Canadian and Israeli lawmakers $(N=382)$ as well as members of the general population in those countries with the following vignette:
-#quote[
-  Please consider the following scenario: five years ago the government invested \$500 million in a small business loan program to help those businesses create more jobs a program that was projected to fully return the investment. The program is now about to end, and it turns out that after five years, the return has been only [\$300 / \$450] million. That is, [\$200 / \$50] million less than what was originally projected. The government department running the program now asks to extend the program in a year and invest another \$100 million in government funds, in order to assist business facing difficulties returning their loans. The department officials project that by the end of the year, these measures will recover the remainder of the original investment [\$200 \$50]
-  million), plus return the additional \$100 million asked for #pre_cite(<sheffer-2017>, prefix: [see online supplemental material for], supplement: [p. 16]).
-]
-and found that lawmakers in Belgium and Canada, but not Israel, were significantly more likely to escalate their commitment and invest the additional \$100 million, and the difference is statistically significant across all countries pooled together.
-One the one hand, from these results we can at least deduce that politicians are more generally sensitive to _negative information_ on a course of action when presented with an _investment-framed_ decision environment, but we cannot know if the decision environment as designed by the authors is representative of politicians' perception of their decision environment, when they vote on legislation.
-This is relevant because
+// To wit, #cite(<sheffer-2017>, form: "prose", supplement: none) provide some _empirical_ indication that politicians could, in fact, be sensitive to information on negative return on investment.
+// They present a sample of Belgian, Canadian and Israeli lawmakers $(N=382)$ as well as members of the general population in those countries with the following vignette:
+// #quote[
+//   Please consider the following scenario: five years ago the government invested \$500 million in a small business loan program to help those businesses create more jobs a program that was projected to fully return the investment. The program is now about to end, and it turns out that after five years, the return has been only [\$300 / \$450] million. That is, [\$200 / \$50] million less than what was originally projected. The government department running the program now asks to extend the program in a year and invest another \$100 million in government funds, in order to assist business facing difficulties returning their loans. The department officials project that by the end of the year, these measures will recover the remainder of the original investment [\$200 \$50]
+//   million), plus return the additional \$100 million asked for #pre_cite(<sheffer-2017>, prefix: [see online supplemental material for], supplement: [p. 16]).
+// ]
+// and found that lawmakers in Belgium and Canada, but not Israel, were significantly more likely to escalate their commitment and invest the additional \$100 million, and the difference is statistically significant across all countries pooled together.
+// One the one hand, from these results we can at least deduce that politicians are more generally sensitive to _negative information_ on a course of action when presented with an _investment-framed_ decision environment, but we cannot know if the decision environment as designed by the authors is representative of politicians' perception of their decision environment, when they vote on legislation.
+// This is relevant because
 // but their experimental setup does not allow to discriminate whether _a negative return on investment_, as compared to a _signal of any other kind of negative consequence_, is the operative kind of signal.
 // I.e. would politicians have escalated their commitment if the decision scenario had been framed
 // But, since politicians may not conceptualize their actual voting decisions in the legislature they are a member of as investment decisions at all, it follows that, it follows that to adequately address escalation of commitment among politicians, it is necessary to account for how politicians perceive that decision environment.

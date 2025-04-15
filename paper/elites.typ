@@ -2,6 +2,7 @@
 #import "../style/paper_template.typ": template
 // #impo"../paper/paper_template.typ"yp": pre_cite
 
+
 #show: template.with(
   title: [This is an extremely nice title that is quite long to be honest],
   subtitle: "And this is an equally impressive subtitle with very big words",
@@ -12,7 +13,7 @@
       matric_number: "01/1001158",
     ),
   ),
-  abstract: lorem(120),
+  abstract: [],
   seminar_title: "Political Elites",
   lecturer: ("Prof. Dr. Christian Breunig", ""),
   semester: "Winter semester 2024/2025",
